@@ -19,7 +19,7 @@ def generate_feynman_audio(text: str) -> str:
     
     if not api_key or not voice_id:
         print("Missing API key or Voice ID!")
-        raise Exception("MISSING API KEY OR VOICE ID. os.getenv returned None.")
+        return None
         
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
     
