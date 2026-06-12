@@ -24,3 +24,8 @@ tiktoken>=0.9.0
 # Feynman Diagrams
 matplotlib>=3.11.0
 feynman>=2.1.1
+
+# Missing Dependencies found during deploy
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+requests>=2.31.0
