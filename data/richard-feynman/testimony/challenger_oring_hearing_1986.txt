@@ -1,0 +1,10 @@
+---
+title: Challenger O-ring Investigation
+author: Richard P. Feynman
+year: 1986
+source_type: testimony
+topic: "Challenger disaster, NASA reliability"
+source_url: "https://www.youtube.com/watch?v=6Rwcbsn19c0&pp=ygU2Q2hhbGxlbmdlciBIZWFyaW5nIFRyYW5zY3JpcHQg4oCUIE8tUmluZyBEZW1vbnN0cmF0aW9u0gcJCTgLAYcqIYzv" 
+---
+
+Dr. Richard Feynman: "I took this stuff that I got out of your seal [the O-ring] and I put it in ice water." (Feynman removes the clamp while holding the rubber up to his microphone) "I discovered that when you undo the clamp, the rubber doesn't spring back. In other words, for more than a few seconds, the rubber has no resilience in this particular material when it is at a temperature of 32°F."Chairman William Rogers: "Just so the record shows, Feynman has just a small clamp holding a piece of that O-ring..."Dr. Feynman: "Yes."Chairman Rogers: "And it has been in ice water for a few minutes."Dr. Feynman: "I believe this has some significance for our problem [the Challenger launch] as to whether the seal is going to work at the freezing temperatures."

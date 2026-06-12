@@ -1,0 +1,149 @@
+---
+title: Very High-Energy Collisions of Hadrons
+author: Richard P. Feynman
+year: 1969
+source_type: paper
+topic: parton model
+source_url: https://scispace.com/pdf/very-high-energy-collisions-of-hadrons-4xzhu0bf0a.pdf
+---
+
+VERY HIGH-ENERGY COLLISIONS OF HADRONS
+Richard P. Feynman
+California Institute of Technology, Pasadena, California
+(Received 20 October 1969)
+Proposals are made predicting the character of longitudinal-momentum distributions
+in hadron collisions of extreme energies.
+Of the total cross section for very high-energy
+hadron collisions, perhaps is elastic and 10%
+of this is easily interpreted as diffraction dissociation. The rest is inelastic. Collisions involving only a few outgoing particles have been carefully studied, but except for the aforementioned
+elastic and diffractive phenomena they all fall off
+(probably as a power of the energy at high energy). The constant part of the total inelastic cross
+section cannot come from them. And we know
+that at such energies, the majority of collisions
+lead to a relatively large number of secondaries
+(perhaps the multiplicity increases logarithmically with energy). These collisions have not
+been studied extensively because, with the large
+number of particles, so many quantities or combinations of quantities can be evaluated that one
+does not know how to organize the material for
+analysis and presentation.
+It is the purpose of this paper to make suggestions as to how these cross sections might behave so that significant quantities can be extracted from data taken at different energies. These
+suggestions arose in theoretical studies from
+several directions and do not represent the result of consideration of any one model. They are
+an extraction of those features which relativity
+and quantum mechanics and some empirical facts¹
+imply almost independently of a model. I have
+difficulty in writing this note because it is not in
+the nature of a deductive paper, but is the result
+of an induction. I am more sure of the conclusions than of any single argument which suggested them to me for they have an internal consistency which surprises me and exceeds the consistency of my deductive arguments which hinted
+at their existence.
+Only the barest indications of the logical bases
+of these suggestions will be indicated here. Perhaps in a future publication I can be more detailed.2
+Supposing that transverse momenta are limited
+in a way independent of the large z-component
+momentum of each of the two oncoming particles
+in the center-of-mass system (so s = 2W), an
+analysis of field theory in the limit of very large
+W suggests the appropriate variables to use for
+the various outgoing particles in comparing experiments at various values of W in the c.m. system. They are the longitudinal momentum Pz in
+ratio to the total available W, i.e., x = Pz/W, and
+the transverse momenta Q in absolute units.
+1415
+VOLUME 23, NUMBER 24 PHYSICAL REVIEW LETTERS
+Differential cross sections for dx d² of the various outgoing particles will then have simple
+properties as a function of W. Negative x means
+particles with P₂ negative.
+First we must distinguish exclusive and inclusive experiments. In exclusive experiments, we
+ask that certain particles, with given x and &, be
+formed, and no others. An example is a two-body charge-exchange reaction. A typical exclusive reaction is
+A+B-C+D,
+where A is to the right, B to the left, and C1, C2,
+..., C, are definite particles with definite Q's
+and x's all moving to the right (x >0), whereas
+the D, D2,., D are moving to the left (x <0).
+The cross section should then vary, for sufficiently high W, as s2α(t) -2 or (W2)20(t)-2, where
+a(t) is the a of the highest Regge trajectory capable of converting the quantum numbers of A into those of the sum of the C's, and t is the transverse momentum difference of A and the sum of
+the C's.
+This is an evident expectation from Regge theory and should be as approximately valid as that
+theory is for two-body reactions. The additional
+point here is the clarification of using the variable x to compare experiments at various energies. If no unitary quantum number is required
+to be exchanged, so the C group has the same
+quantum numbers as A, this C group can rise
+from A via diffraction dissociation and the cross
+section should approach a constant ratio to the
+elastic cross section at this value of t (i.e., it
+should be constant if the elastic cross section
+is).
+Next, an inclusive experiment is one in which
+we look for special particles with x, in the final state but we allow anything else to be produced also. An example is a measurement of the
+mean number of K *'s produced with given Q,x in
+a pp reaction. Such cross sections should approach a constantas W-∞.
+How can these be reconciled? Why does the
+cross section fall if, for example, in a two-body
+reaction we must exchange 3-component of isotopic spin? Because under such circumstances,
+the current of 3-component isospin must suddenly
+reverse from right moving to left moving. Thus
+if any fields are connected to such currents as
+sources, they would be expected to radiate (in a
+manner analogous to bremsstrahlung). To be an
+exclusive experiment (say, pure two-body), we
+require that no such radiation occur, a condition
+1416
+15 DECEMBER 1969
+becoming more and more difficult to satisfy as
+the energy rises and the current reversal is
+sharper.
+This leads us to expect, in the majority of collisions, many particles over a wide range of x,
+but their characteristics for the smaller values
+of x are easy to envision. By Lorentz transformation, the fields to be radiated are becoming
+narrower and narrower in the z direction as W
+rises. The energy in this field is therefore distributed in a 5 function in z. Fourier analyzed,
+this means that the field energy is uniform in
+momentum, dPz. Since each particle of mass
+carries energy E = (μ² + P₂²+ Q2)1/2, if we suppose
+that the field energy is distributed among the
+various kinds of particles in fixed ratios (independent of energy W), we conclude that the mean
+number of particles of any kind and of fixedQ
+is distributed as dP2/E for not too large x. That
+is, the probability of finding, among all the emitted particles, a particle of kind i, transverse
+momentum Q, and mass is of the form f(Q,
+Pz/W)dP2d²Q/(μ;² +Q² +P₂2)1/2, where fi(Q, x) is
+ultimately independent of W and has a limit F(Q)
+for smallx. As W-, for any finite x, dP2/E
+becomes dx/x, of course.
+Because of this dx/x behavior, the mean total
+number (or "multiplicity") of any kind of particle
+rises logarithmically with W. We need not decide what are "primarily emitted units" and what
+are secondaries arising from their decay, for
+the results so far stated are in a form that does
+not depend on that. If we imagine some primary
+independently emitted units, however, their number n would also rise logarithmically with energy, and the probability that none of them would
+be emitted might be e-7 (as suggested by a Poisson distribution) which would then fall as a power
+of the energy, accounting for the Regge expressions which we are supposing are valid for such
+exclusive collisions.
+We can extend this idea to other amplitudes
+which involve a similar . In particular, we find
+that the probability that A +B-C + anything
+should vary as (1-x)1-2α(t) dxc, where C is moving to the right with almost all the momentum of
+A (that is, for 1-xc small). Here a(t) is the highest trajectory (excluding the Pomeranchukon)
+which could carry off the quantum numbers (and
+squared momentum transfer t) needed to change
+A to C.
+Thus the Regge trajectory function a(1) appears
+not only in an interaction (as s2 -2) but also in an
+emission process, reminiscent of the close re-
+VOLUME 23, NUMBER 24 PHYSICAL REVIEW LETTERS 15 DECEMBER 1969
+lationship of virtual interaction and real emis- the others.
+sion that Yukawa emphasized.
+Finally, for those special reactions which are
+partially exclusive, in which anything can be
+emitted except that a hadron must be transferred
+from the right-moving to the left-moving system
+(carrying its fermionic and half-integral spin
+character) the cross section should vary as 1/s.
+Of this last conclusion, I am less sure than of
+¹I have taken the approximate existence of Regge poles,
+the constant total cross sections, and the constant
+transverse-momentum distributions as empirical facts.
+2For a somewhat more detailed description, see
+R. P. Feynman, in Proceedings of the Third Topical
+Conference on High Energy Collisions of Hadrons, Stony Brook, N. Y., 1969 (to be published).

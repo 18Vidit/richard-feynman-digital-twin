@@ -1,0 +1,711 @@
+---
+title: Computer Heuristics
+author: Richard P. Feynman
+year: 1985
+source_type: interview
+topic: "computer heuristics"
+source_url: "https://www.youtube.com/watch?v=EKWGGDXe5MA" 
+---
+okay what I want to tell you about is computers because they have computers all over the place and everybody's talking about him and using him in a
+frightened by them or else you find it very great assistants and so forth and I
+wanted to tell you a little bit about how they work what's inside him what the idea is what the mechanism is so that
+you're gonna get a better idea from that of what you can expect them to do and not be able to do and the so on so I
+want that's what we're doing we will expose what a computer really is
+actually the first aspect is you see there are many different kinds of computers there are computers that you
+can put the data in by talking to it even there are computers you have to type the data in there are computers
+that get that data from the machinery of an automobile or something and computer how much they should shift the gears so
+they have a automatic transmission but I mean controlled by an automatic computers that are you feeling how fast
+you're going and what the hill height strength is that called the input part
+Input and Output
+of the computer that is the informations coming from different kinds of sources their keyboard or telephone sensors
+inside the automobile that measure temperature or acceleration or something like that and there's another aspect
+call output for example the thing that goes out might be the control of the gasoline in the automobile it might be
+to make pictures on a TV screen that you can read or look at it might be that it
+makes music and make sounds and so forth now in the plot that's the input and the
+output which makes computers look different is not the part I'm talking about there is in between the input in
+the output the input is converted to some electrical form then something's done in the computer and it spits out
+another electrical signal which is used for the output so for instance in the
+automobile get thing the various senses are sending electrical signals to a box which is the proper computer proper or
+the part of the computer that I'm going to talk about and then in the output of this box is other electrical
+which go to control magnets or something which turn on and off the gasoline or
+else control magnets which pushing it out a diaphragm very rapidly it makes sounds
+Electronics
+or controls the electrical currents running in the beam that's going all the time on the screen and it makes a
+picture on the screen and so on so what we're going to talk about which is really the computer proper is the
+part in middle so it's sort of we don't care where the stuff comes from we don't care where it's going on now what is the
+stuff in the middle that's what's manual really manufactured in the computer of course a real computer that's sold is advertised and
+Computers
+it's good because it's got a big screen or it's got a small screen or it's got a tiny keyboard that your fingers are too
+big to push the buttons or it's got a big keyboard that has so many buttons on it you can't figure out which one to push and they have advantages and
+disadvantages which is not what we're talking about would talk about what's on the inside the central part of the
+computer proper which I'm going to call it the computer problem but the whole computer of course is the real thing
+so but we just talk about the guts in the middle the thinking part if you like
+to imagine that computers think but what is it I'd like to compare it to a filing
+Filing Systems
+system as a matter of fact I'll anticipate the end a computer is a
+high-class super speed nice streamlined filing system and I'm going to start out
+with an ordinary old-fashioned business filing system and that tell you ways that you can change it and improve it
+and so forth until it becomes a computer one of the miseries of life is that
+everybody names things a little bit wrong and so it makes everything a little harder to understand in the world
+than it would be if it were named differently computer does not primarily compute in the sense of doing arithmetic
+strange although they call them computers that's not what they primarily do they primarily are filing systems
+people in the computer business say they're not really computers they're data
+handlers all right that's nice data handlers would it be a better name because it gives a better idea of the
+idea of a filing system there's a lot of data on cards and your handler you take cards out look at them put them back and
+so on so that's what the computer does and I'm going to describe first an
+old-fashioned filing system and then we'll talk about how it's improved for how it might be improved okay
+actually it's improved to the point of being made automatic and make mechanical electrical actually and that's our
+computer and if old-fashioned filing system is something that many of you are
+perhaps even unfortunately familiar with it's a whole lot of boxes drawers cards
+and things you know which all have stuff numbers it and fax on them for example
+in a business that has lots of salesmen that maybe that does each salesman has a card he has his name on it and his
+address what his general salary is what his commission rate is how much he sold
+last month and where he lives things like that let's suppose and it's written on lots of cards because there's lots of
+salesmen in the boxes and then the problem for a file clerk might be for
+example a boss comes in and says would you figure out oh the commission rate is
+given on the cloud like a certain percentage and how much you sold during the month but now you have to figure out how much we have to pay him so what you
+do is you take out a card and you look at how much he sold that month and you
+look as commission rate you multiply the two numbers and you write it on the card and put it back and do this on card
+after card okay what does it mean you're taking a car then yet looking at some
+things and doing something to them that is looking at some data on the car the
+easiest way to think of it to simplify just a little bit is that we have scrap paper that we can erase and use again use again
+so we take them we rewrite the numbers off the card the the amounts before so
+while we're doing the multiplication we can do it with the numbers without dirtying up the card so we copy the numbers over and then do the
+calculations see the answer and if the rule is to put the result back on this man Scott okay so we write it on this
+car it may be that we would like to put this on some other car maybe cards about expenses that have to
+be paid or something you see so you'd put that somewhere else or perhaps to make another example that you would like
+to add together all well I'll forget that you want to add together all the money to know how much you're gonna have to pay out that's another example but
+they're all the same of course that you take that numbers from the cards and write them down and recalculate and put
+it back in the numbers so you have two kinds of three kinds of operations taking cards from places looking at
+information on the cloud doing something to the information on the card writing
+things on the card and putting the cards back okay actually it could be a little
+bit simpler you could say you take the thing out and take the information off the card immediately put the card back this save it now you do the calculation
+and when you get the answer you pull a particular card out that what you want to put the answer on it may be the same
+man's car but wherever you want to put the answer you take it out right at that put it back okay so we have two
+operations picking up a particular card getting data off of it doing something
+to it and then putting numbers onto cards from our scrap paper on different
+cards and that's all if the file clerk does it to take another example suppose
+that we wanted to suppose we have figured out or the amount of money that we owe each salesman and we would like to know how much to draw out of the bank
+in total so we need the total amount of all the sales then we could do that by
+having a special card goal of total card and writing zero on there and this is a
+way of kind of I'm talking about the details of what we have to do it everybody knows what the do you tell a
+file clerk they add the numbers but this is what you might do or he who's write zero on this particular thing called
+total sales costs in California and do the fine then you take the first
+salesman card you look he's not from California we want the total amount of money we have to spend in California salesmen all right just as an example so
+you put that one back take the next card is it from California put it back next card in California yes then the next
+instruction is to look at how much money you are with this man and write that by - what's on the total card you take the
+number that's on the total card and the number that's on this man's card add them together and write that back on to
+the total card right you're keeping the total running see so the next time when you take another card that has a number
+on it just take the new totally you just cooked up from before there was no trouble last time you had zero but this
+time it's getting harder ya headed ohon and put the Sun back on the total card so you see you got a kind of a steady
+thing and when you're all done going through all the file the total has been changed and changed and changed and
+changed in the last thing you read is the real total of all the numbers okay that's what the file court might do in
+that situation and now what we're going to try to improve the filing system to
+improve it you see we have to have a fairly intelligent file click a file click that can multiply and add and so
+on read cards get instructions from the boss and remember what they are
+naturally and know how to do all these things has to know how to where to go to
+Multiplication
+run up and down and pick the cards out of the boxes and I has to read the place to find the cards and know where they
+are at so it's a lot of stuff well another one comes along we got a new
+file clerk I got a new file clerk for you say to me five times faster than the
+old one oh well we'll hire but you discover suddenly that he doesn't know
+how to do multiplication well how in the hell is he going to handle their finding
+the Commission's by multiplication this guy isn't any good but he's five times
+faster so it's very tempting if we can only get him to be able to multiply so what do you do he is sending to school
+too much waste of time better idea to teach him had him you tell him how to
+multiply as follows I've taught he's very fast at picking up cards and putting him down so he takes the cards
+and he looks at say two numbers and you tell him to look at the last end of the number one's an eight and one's a seven
+right then that instruction looked at card number 78 in a multiplication file
+when card number 78 no multiplication says 56 the multiplication table which we
+worked so hard to learn in school is easy to put on a set of cards on each
+card which has which is labeled by a number let's say the card number 78 or 7/8 the card label I don't have to
+convert it to a number of card called multiply seven eight answers sixteen there's written on a card so all he has
+to do is pick up the right card he's very good at that and he's very fast see so he sees the seven eight take the cockpit sink okay and so it goes he
+doesn't have to know how to multiply you tell them a series of instructions what to do exactly you give him in the
+instructions as to which cards to look for at what time so when you say multiply you don't even tell them that
+your tongue look in this box now take that card out and write down write down what that one says it's so on so you see
+that we can describe multiplication as a definite procedure a precise procedure
+of handling numbers in a kind of a dumb way and things that would have to be
+memorized are never a problem memorization is no problem that's what a filing system is for that's what cards
+are for we write everything on the cards every damn thing is suppose you've learned where all this effort is written
+on a card so with cards we can make this fast filing clerk actually able to
+multiply of course it's slower to have to look up each time in the
+multiplication table because he has no memory were worth a damn four numbers of this coin so he can't even remember that
+his use of seven times eight fifty five times but it still has to look it up again so he's slower in the sense of the
+number of operations to multiply than the original file clerk was but he's
+really faster because altogether he handles the card so much faster that in spite of the fact that if there's a lot
+of multiplication problems he isn't five times faster than other Clerk but he might be two times faster because he
+slowed up in the process of multiplication so our filing clerk does
+not know how to know how to multiply well we'll get a faster one
+I got another one that's ten times faster than last night he can't add no problem right I mean we
+have a adding table too right no problem okay he's easy he's better he can't add
+he can multiply can't handle numbers at all but he can compare it read and check that what it says on the cards is the
+same he doesn't even know that these are numbers he sees this shape and compares
+it to this shape and takes the cards out according to the instructions okay now
+where does he get his instructions they're in a series of cards that says
+do this then do this then do this you see so we have a sequence of card with instructions on them he doesn't even
+have to remember the instructions he's rather stupid the first filing cloture
+could say go get the card that instruction meant go into room five
+opened the drawer push your fingers through the card lift and so forth okay
+so if you want to get the card to read it and then carry it back and write it down you could have a list of
+instructions for this idiot instead of saying get the card you say look in these set of instructions please first
+instruction walk over to the file second rope pull out the drawer but if at home so does it done and so forth so all he
+has to do is keep track of which instruction comes after which he's really quite stupid but man is he fast
+dumber but faster okay the key of it all is dumber but faster right and so what
+we're having is the filing systems with ever-increasing speed of the file clerk
+but ever stupider file clerks okay and they're getting better assistant Chris
+brevis file everything now the last fellow that we've got in this not the
+last one but the willit next to the last one is unable to remember which
+instructions on well what's the next instruction oh but
+he can add one he knows how to change something with one he has a little counter but he pushes a button and it
+goes up one okay so all he has to remember is the following push the
+button on theirs a little register that he can read okay that's a push that we
+call it the program counter or instruction count all right push the button that changes the instruction
+count by one that's the only button he knows how to push that okay that's the first thing spike read the number there
+on the program counter and take that card out that instruction number out
+okay and that says go get this paper or transfer this so whatever it is you see
+because we have already put all the instructions in a certain order and then put the card back you're finished do the
+intern take out read the instruction and through the instruction and put the card back okay then the next cycle he has
+push the button on the program counter read the program counter it's the next
+number you know anybody couldn't remember so he has it there it's the next card takes the next corner and it
+tells him what to do next and so on okay so he doesn't even have to remember where he's at
+as long as he's got this one little gadget inside which I've beginning to think you could see could be done
+mechanically that is we can make a device that all you push a button and number changes by one right
+in fact so that that almost got it but
+we find out very much fast at ten times faster than this marvel who was so
+stupid but so fantastically fast which ten times faster than this fellow but he
+can't read letters he doesn't know what they mean doesn't know what the numbers mean okay so how is he gonna what can he
+do if he can't read anything he can't do anything I grant you that I grant you that but he can distinguish two signs
+one from the other which we'll call high and low or black and white or one and
+zero or mark and Norma whatever all right just he only can read not any kind of letter but just one
+little spot it's yes let's say we always make it red and blue you see is it red or is it blue so we make a lot of spots
+for him red blue spots it's all he can read what I need to eat how can we make him do anything how can he know what an
+a is suppose we got letters we want to write the letters for names or something like that so we would like to instruct
+him in the letters for the names to see so instead of saying we tell him which
+Oh first better to give a better example by this time because they have to use so many cards in so many files the files
+have gotten larger right there are lots of filing cabinets in many rooms all over and we this poor fool has to be
+able to find the right cabinet now previously we labeled all the cabinets with the names of the sections from from
+small stoop to zoology and so forth here and this is in box 34 and this is all
+over it's like that places in Esalen have numbers on them and so forth I'll show you how we could do that without having only with red and blue dots on
+the on the rooms for those particular kind of workshop people who cannot read
+numbers all right I will still be able to do it I'm not sure how we'll do it let's do it with the esselman rooms it
+just makes it more interesting I don't propose this as a practical device but perhaps it is and it goes as follows
+just till you take the map and you divide the rooms through the middle and say these are the red first level red
+and blue rooms okay then you take the
+red rooms and divide them in half let's say those are the higher part of the hill in the lower part and say they are
+secondary red or blue and the blue ones the main blue ones have been divided at
+the primary and secondary rooms like this no I see that I don't have red and blue so I'll use brown and orange it's
+perfectly all right had I said brown and orange it would be more like they understand that we couldn't be any two
+colors okay so and let's first draw
+what in yellow a lot of rooms can't see
+the rooms okay I don't have enough thing so these are the rooms will be all right
+let's say we had this many rooms I've got them all laid out in a straight line
+but it doesn't make any difference where they are on the map right we got eight rooms I know you got more rooms than
+eight rooms but just see the scheme will work just as well for any number of rooms so what we're gonna do is we're
+gonna mark all these rooms with a black dot as a first dot I mean a brown one
+all right and these will get orange dots okay
+now of the brown dotted rooms we think of the brown dotted rooms and we look at
+the next dot which says the first half of them get brown on that dot and the
+second half of those get orange all right and then the first half of these
+get brown and the second half gets orange I say but still you're filled
+okay now you look at the brown brown rooms so any pet is a brown brown the
+brown orange rooms the orange brown rooms and the black orange orange rooms of the brown brown
+rooms we label the side ones Brown as the first each pair gets the front end
+brown and the other one gets orange and lo and behold we got eight rooms and
+with three little dots each of which can only have one of two colors we can
+identify the room so the guy who has to locate himself and you can't read
+numbers but can read whether a dot is brown or orange will in this system be very easy to find his unique room in
+fact it's easy to find the room which is different of course as you already know the numbers on these rooms around here
+do not locate the rooms right but this new system really in locate the room the
+first Brown tells us to kind of go over here somewhere the next round swap more is it orange
+take that side so if the filing cabinet can happen this
+can be very large and have labels on him which I like these brown dots and orange dots but because instead of being eight
+there are say a thousand such rooms the read turns out you only need ten dots to do it a million such rooms is only
+twenty dots because there's so many different combinations of brown brown brown orange brown I'm bombed around by
+men for twenty long so many ways in a million different ways so you have that
+way you can label a large number of different cabinets and have a file clerk which you can only read that's one of
+two alternatives and make sense of it and so we can do it with rooms and also
+with the letters of the alphabet because we take the letters of the alphabet and write them along and label them the
+Bradford the letters on this side of the alphabet of the brown letters first primary brown and the others are orange
+and never those you make the brown so these could have been ABCDEF yo so he could teach him a different way to write
+his alphabet he's so dopey he could only read these but we smart enough to convert it so he
+can be therefore using names and numbers but they're written in a different code it's like the dot-dash system of Morse
+only slightly more organized we call it ones and zeros brown and
+orange I'd call again whatever you can only read two possible things okay so
+this the new file clerk can only make out one of two alternatives in any particular spot of course he has to
+realize is do first the first one and then he's up to the second when he saw him first makes one choice and then the
+next choice and next choice and according with with this and then determines the letter of the alphabet if
+he had to talk to us and make an output he's not going to be able to just put this ones and zeros we're not going to
+be able to read it so suppose he wants to say something and he wants to put an out but you ask him for the name of the the best-selling the
+guy who sold the most in California and he he does it with his dots and I'll
+tell you a little more about how you can do that and comes out that his name starts with an AE say or let's say
+starts with a C whereas a C for him it's a three dot Sanna - right but he wants to print see
+for you what can you do we wanted to see it look like a scene so what we have
+done for him is we imagine he's going to write this on some kind of a screen that
+we have divided into squares okay like
+this I should make more and we tell him
+whether to mark the square or not in the electronic device with a pulse so it
+lights up on the screen or not by whether it's a brown or a orange dot there so he put a brown dot here well
+let me first draw the C or C is going to look like this is where the orange dots go okay there's the C all right not a
+very good see but to see if you add more dots and a finer screen it would make a much better see so so we put all these
+Browns and so on and then we put into a filing cabinet under the labeling for
+the third letter of the alphabet this pattern so when it cuz his when he's not
+working internally which is you can use this other system but wants to communicate with us we told him how to
+do it what we get for a seat by putting in the filing of that that he's supposed
+to put out on the screen so when he's finished looking at that we look at the little white dots and black areas we see
+a shape of a seat so the hardest thing he has is communicating with us getting
+the information converting at the dot and getting the dots back to the form that we've we're used to the same thing
+can be done with numbers of course suppose that he had only deal with numbers from one to a thousand and
+Numbers
+twenty zero to a thousand and 23 it's a happy case where you can divide ten
+times you can divide those in half you say Oh numbers described by the same bunch of dots by taking a you know the
+top half of the numbers or the bottom half of the numbers I already did it with numbers it was the numbers on the rooms so we
+can use these dots and so forth to represent numbers the same way
+and now we can use in a particularly insane I mean stupid a file clerk
+perfect and it's only useful of course if he's really very fast because everything requires him to looking and his damn files all the time because he
+knows so little and that's what ultimately has been developed first of all in order to get up speed instead of
+having to get up and walk over to the file we put the files not on cars but on
+little tape decks huh little tape decks electrical and we send the signal turn
+on the tape they can listen to the signal that comes out we don't have to run over there we've got a telephone so to speak you we tell which one to go off
+then it sends back what's on that tape so you see that we can file things not
+on pencil and paper but there the electrical signals or magnetic different
+kinds of techniques they're off of electrically saving information and it turns out you can do that smaller and
+smaller until the filing cabinet is the speak which contains millions of items
+Filing cabinets
+and what happened what you're doing is you're signaling to the different filing cabinets depending upon the ones and
+zeros there are switches inside that tells which one it goes to and the information comes in and out
+electrically that's much faster than carrying cards around and running around in sneakers and so that's the way that's
+done and by the time we got a file clerk this stupid we can do it mechanically we
+can tell whether two dots are the same for instance we can ask him when the two looked the same do this so if there's
+two brown ones or two orange ones do this now it's rather easy to make
+mechanical devices which will do things like that for example instead of brown
+and orange dots you could have electrical voltages which are either up or down you know there's current dah no there
+isn't so instead of a dot of different colors we just have a voltage or no voltage on a particular wire at a given
+moment or if you would like but this isn't the way it's the electrical one is the way it's done but if you would
+prefer you can imagine you made a hydraulic computer with pipes with pressure with water going through and if
+you look at the pipe and water squirt that's a black dot and the waters no water there that's the other kind so
+Hydraulic computer
+it's about that easy so you'd make the pipes go squirt squirt not squirt squirt squirt not squirt that's that this one
+is this room right now what we need is a situation to compare things that only
+squirts of two things let's suppose we were looking for both dots be brown only
+then should you make a brown dot in other words two pipes such that if both pipes have water in them then only then
+should water come out the other one what we need only a valve a valve operated by
+water we have a pipe like this with a valve which is a thing you don't turn it
+on let the water through the waters trying to go through here it's turned off by a faucet which only takes a small
+turn and has sticking out above it instead of an ordinary handle a flat vane okay that we're going to scrape
+with water and that's going to push the vane around and open the valve so here's the for the things coming in with the
+water to operate that so when the water goes here it turns the water on there now if I put two such the bowels in
+succession in the pipe okay and I had the water coming in need two
+different pipes then it was only work that is water will only come out of here if both of these pipes are squirting
+because if I got only one pipe squirting in the other not this valve was off but this on so water don't get through on a
+counter that's in the way and vice-versa okay so this is what you call an and you get result here when
+both this and that are on then you get that on you could do an or just as well
+when you get a result if either one is on but that's different kind of a logic
+and the way to do that is simple enough just arrange the pipes so that the water
+that's coming in is split into two possible pipes let me see how I draw
+this yes well the brown and the orange is just an accident of fate of having put the orange cap on the brown
+gadget that some would straighten that out right now and here we go the pipes
+go like this the input is here but we go with the two valves this way here's the
+one with the other valve okay and the two squares let's say this one squirts here and this one squirts here you got
+to get some geometry as three-dimension got to get this pipe on top of this pipe wouldn't be trouble anyway the idea is
+that these then come together and you might ask under what circumstances does water come out of there well clearly if
+either this is open or that's open to either goes around this way or it goes around this way or both that's an or you
+get choked out only when one or the other or both is on and so we could say very simple comparisons of these black
+Electric computer
+these dots or Bennet ones and zeroes or fresh it water and no water or
+electricity and no electricity voltage or no voltage electrons or no electron and so we can make the device
+simple enough now that we don't need a human being anymore to do the file work and the whole system
+is now a computer it's all done electrically and it has this kind of switches in it valves are electrical
+valves are called transistors and how they work in detail of how the electrons come in here affect the electrons going
+there I won't describe but they're just granting that a transistors are like is the analog of a vowel but for electric
+current then you're going to understand that large numbers of transistors lots of these vowels making comparisons
+switching where the current goes to find the right filing place in the Box where all the stuff is filed and so forth
+would constitute a computer and that all computer does is what a filing cabinet
+system can do it can do everything that an ordinary most things that an ordinary
+file clerk system can do it can multiply numbers because it's got we store the
+numbers we store the combinations they can add it can do all these things even though it for hardly do anything
+and you might ask is there some kind of designer computers that can do more than other kinds of computers and the answer
+is no it turns out once you begin to understand this that if you try to add more complicated things you can always
+put them back in filing systems and use the same system to do a more elaborate
+thing so all the computers can do the same things but maybe they take longer or so it may be a matter of efficiency
+but they can all do the same things they're all Universal inside if they're big enough their limitations are how big
+is your filing system maybe there's not enough room for all the cards you want to put in and things like that but
+that's the only the only differences between the between the different machines and any rate that is supposed
+to be an expose of what the heck's inside the machine now let's ask what
+the miss such a machine could do first of all the same machine can be used for
+more than one problem by just having different instructions list some instruction what to do do this then that
+to do that to deep deep deep deep and another problem you do something entirely different this might have been
+a business with salesmen and so on and now you want to do oral company reports
+and listings of what they discover when they drill all right so all new numbers or all new instructions of how to handle
+a numbers everything what do you do by another filing system it's more
+expensive to do that than to do the following throw away all the cards from the
+business company wait a minute suppose you want to come back in all right take everything that's on the cards of the business company and
+make photocopies and store them in the basement now erase all the cards so if you want to come back we'll come back
+then you go down the basement from the time year last year when you were doing the oil company problem and pick up from
+the photocopies all this stuff that was supposed to be on the cards for oil business and then just fill out fill up
+all the cards with the oil companies job with the instructions for oil companies and our dumb file clerk is now an oil
+company file system okay because he's got new instructions and
+Basement analogy
+these things that in the basement the analogy that I had wanna make is those things are dead not operating and I just
+stored they're not easy to get at it's hard to get down to the basement it takes a long time to pill pull them up
+and set them in all those cards but you do that just once in a while when you want to change your problem when you've
+got them all in then you can rapidly take them and put them in compare them and do this and do this let the filing cop click is supposed to do so we have
+cassette tapes or hard disks of floppy disks or various and sundry different
+ways of taking a large numbers of instructions out and sticking them on the disk and leaving them there putting
+them in your back pocket throwing them around in the boxes while the computer is doing something else then if you want
+to change a computer to a word processor instead of a a game or whatever it is then you just take out one this put the
+other disk kid puts new stuff into the computer all new instructions done file
+clerk working like a son-of-a-bitch and a big memory outside and that's why
+computers could do so many things apparently the same computer it doesn't do so many things it always does the
+same thing it follows instructions and the instructions are very done and it is low-level ok that's the end of the
+Remarks
+expose but they would like to make some remarks and some things about because
+people like to think of things more than just how does it work they would like to know what's the future why can't we
+improve this looks what we've got now we have this enormous memory with lots of data all around which is sort of sitting
+there and this one little section where something's happening which I call the file click before which is the systems
+which go and get something pull it in here and do something over you better put it there and it takes something else
+and put it here and put it there put it there and what a great so this poor fire clerk is working perpetually with a
+tremendous rate of speed going practically crazy and he does in fact I just estimated something like 10 million
+times faster than an ordinary file click that's 10 times faster seven times if
+you know what I mean ten tons ten tons but it spam fast and
+that's the electrical things of that fast and but he's working very hard but
+the rest of the system which is the memory and you've heard they made now memories with 256 K bytes K just means a
+thousand and twenty four so they mean 256 times 1,024 eight dot were symbols
+in one tiny chip okay it's a lot and you put several chips and you got a terrific
+computer except for the guy the file click which is called the central processor who has to look at this this
+program can't do in check and change it and look at the next instruction and going going alright and he's working
+very hard so an obvious way to improve the thing is to get another file clerk why not have an army of file clerks
+turns out at first that it looked extremely difficult to do that because there's all kinds of technical difficult
+problems suppose that he one guy has taken a number out and he's getting ready to change it he's gonna do
+something and then change the number the man just sold something he wants to change his he and then put it back and while he's doing that the other file
+clerk is taking the card he doesn't know whether it's before or after the first file clerk has changed the number and
+it's very important to know that because he's going to use that number there so that's to be a certain amount of organization among the file clerk and
+don't forget that kind of dumb so the organization must also be fairly done and has turned out for many years it was
+a belief that it was difficult or almost impossible to easily arrange a system
+with many file clerks they were always turned out to be easier to make one file clerk worked very hard that the made
+several working because of all the what you might call bugs and difficulties that come from them all using the same
+information and changing it on each other and so on and organizing that the
+part of laying out the instructions is called a programming and a programmer
+works out how to put what instructions to write the machinery the wires memory in the
+boxes where to put the cards but it's not an analogy and the little processor in the middle with little switches it's called the hardware so it always turned
+out that with a little more clever software which means cleverer programs this single file clerk could do what the
+others would do because the others were confounded by the problem of interference but recently it's been
+shown that it's a misunderstanding and with clever new ways of analyzing the
+thing we have now figured out how to make things run with numbers of file
+clerks there's two different general system there's one system which has
+something you know a reasonable number like 64 128 file clerks all working on it saying similar they work on almost
+separate parts of the memory that's the way it's organized and only to once in a while exchange information so they're
+not doing anything to each other's cards they're each working in separate sections and there's also a machine
+called a connection machine which has 64,000 processors in it which is a sort
+of a leap into the blue wild blue yonder at a time when they were trying to do with two processes and if the 64
+thousand process that could all be made to work at the same time it'll be 64 thousand times faster than it was before
+just like that because they're all working together the only problem is to organize the problem and the program so
+that you can do the job in a way that does use 64,000 guys at the same time it
+turns out that's not as hard as it looked at first and that's a thing for the future I'm talking about the future they're building such a machine and
+they're learning how to program it that is how to arrange the 64,000 processes
+which by the way are each in fact somewhat stupider than the program is
+that I was talking about before because they can't even read the code for their instructions but I mean they know as
+instructions read what's in that file place that means go over switch this
+switch that take you go over get the file open the drawer closes for they have they can't even read that
+so that they have to be instructed on the goal and so there's another machine on the outside that instructs some more
+what to do but it has to tell them all because see they all have to do the same thing at the same time because the
+instructions go to everybody do this and they all do it but if they all do it you're going to be in a great difficulty
+if they all do exactly the same thing and the only opportunity they have the only thing you two can do that's different is that you can instruct or
+they can keep a little memory thing that says don't pay attention to this instruction in other words you can get
+some to do something and the others to do nothing then next time you wanted them to do something if you wanted one
+to do one thing and want to do another you have to do it in two steps do this you stay put through this you
+stay bored and so on okay and so on so it's rather interesting because in
+trying to manage the sixty-four thousand they all have to be much simpler and all the time it gets simpler it gets sort of
+slower but the question is whether we gain from the sixty-four thousand what we lose from the slowness and it depends
+we learn by experience that's the future finally I would like to just say
+somewhere it's about what the computers can do and you'll see they can do only
+what you would be expected to be able to do with a filing system and a reasonable file clerk I'll explain an example of a
+unreasonably good file clerk later that's better than one that we can make with machinery ok so far we seem to be
+able to imitate any file clerk real far click with machinery but I'll mention a few cases that we don't know how to do
+that what we need to do of course is to
+get a definite procedure to convert what you want the clerk to do into an
+absolutely definite procedure we every step is precisely defined in this stupid way exactly and if you can do that then
+you can get the system to work now will the system think if you could define
+exactly a definite procedure tell somebody exactly how to think which by the way is what the members of my
+workshop have expected me to do for them to tell him exactly step-by-step what to
+do to think if I could do that I could do it for a computer and I wouldn't have you know they could get the computer the
+thing but nobody knows what we do or how to define exempt which correspond to
+something abstract like thinking but nevertheless we could make the machines which play chess which was supposed to
+be something that takes thinking and what exactly do they do what definite procedure can you make with a big file
+system very fast operating gadget by which the thing could be used to play chess
+never mind the input and output the information of where their pieces on the chessboard are converted into numbers or
+black dots and so forth ones and zeroes they're called inside the machine and
+then it proceeds so never mind a translation the idea is in a given position which is a whole lot of
+information that's where it is you want to know which way to move so you say well there are many ways I could
+move you look at the rules for how to move the night goes this way to bring you this way so on and you just list all
+the different ways it could move and you see all the new gap possible positions
+then you say in each one of those which way could the other guy move they're getting pretty big isn't it
+but there are big machines and they've got lots of storage space so there's how does it what's the next room and if he
+does that what can I do and you just check every one of the positions after let's say four or five or six half moves
+these are called happen with one side moves to the other side move and see which of the final positions
+you're a better off and better off might be some little rule like you haven't been in check I mean haven't had your
+King lost that means you're not dead and you've got more pieces than the other guy okay so you look down six steps down
+to see which move is the best to make where you got the best possible outcome and you make that move then your
+opponent makes a move then you start again this time going down six again of course you're going deeper now because
+the game is preceded a little bit further and that's all there is to it what the machines do is just a
+tremendous amount of trying different positions human being doesn't the human
+being tries about 35 the sponsor he can tell when he's in a position he tries about 35 looks at
+different moves before he makes a decision whether the machine makes something like 35 million positions to
+check that doesn't make the Machine better than the other guy we don't understand how we do it we cannot give a
+direct procedure for this the man does it by recognizing a pattern oh this
+night can can this night can fork the the king and queen of somethings if it
+goes here so I have to watch out about that square he sees patterns at least it describes it that way we really don't
+know how it work and this business of the describing patterns and so forth is
+something that we haven't been able to put into a precise form when he says it looks oh I just see that it's a good idea to try this and I tried it we don't
+know how he does that so we can't make it play like a human plays but we can make it play better than almost all in
+human machines computing machines have been used for instance for designing
+machinery or designing something in particular designing a computing machine for instance or something like that
+in a computing machine yet that the different elements the memory and so on and different locations with wires in
+such a way that the wide the wire lengths are shortest so that the time is quickest and the paths that are being
+used most on closest to where you want to use them and things like that and so
+you try to figure where should you lay them out on this chip of silicon and there has been quite a problem of design
+we have engineers that worked very hard at designing these things and working these things out in all we do in the
+computer now is to try it - try large numbers of possible arrangements we just
+give it an instruction put it here put this here then this this this this and how much why do you need now put here
+here here here here over there and then pick the one out which has the biggest more ones the biggest of the lowest the
+best quality whatever it is you do to measure how good this particular design is like the amount of time
+that it takes to do a calculation or how much silicon you use or something like that so we can select from a very large
+numbers of alternatives the best alternative what narrowly a person doing that doesn't waste his time with obviously
+useless alternatives but we do not know how to put - well that idea of the
+obviously useless if we try to make to shop the rule that it's useless we miss sometimes a good opportunity that would
+have been a good thing so that that's as far as we can go with that you've probably heard that machines have been
+used to the dock to be almost like doctors expert systems which can
+diagnose disease now how can a damn file clerk why it's easy isn't it how would
+you diagnose disease you write down all the symptoms and then you'd like to have a book that you could look up that says
+here's all the symptoms and this is what you go and in a complicated cases you list all the symptoms and in there it
+says it's either cholera morbus of the Borba sore its back there a see Miele
+whatever it is you see however you can tell the difference by looking with ultraviolet like up the nostril like but
+what nobody I don't bother to look with ultraviolet light off at the nostril so you don't know the answer to that so the
+thing comes back and says look with ultraviolet on the nostril and tell me whether it gets through or not say yes
+okay it's back to see me so this filing system contains all this stuff plus the
+incomplete decisions that require more information and once it's been arranged so that when it comes to a place it's
+incomplete it simply sends back and says make the following test and tell me the result their thing doesn't work as well
+as a real doctor but anyway you get some idea of how machines can be doctors how
+machines can be chess players and our machines can be designers of equipment
+or layouts for businesses or whatever routing for trucks and so on but just trying what kinds of rulings in seeing
+which is the best that's all there is to it it's a filing system and anything that
+you can put in a filing system and think of how a big filing system could do it
+especially things that you just have to remember a lot of stuff or try out a lot of possibilities
+those things can be done with a machine it's fun to compare everybody wants to
+install ticularly well I'll let that be in the questions to compare no doubt somebody will ask me how about this and
+that so I'm done okay well I'll answer
+question what time is it I used to hope I'm fine okay I got time for questions
+Questions
+yes sir and different languages but if
+you take my view that is just a glorified high class very fast but
+stupid filing system then you can understand the universality it's just as universal as a set of boxes and drawers
+and cards and so forth with a clerk it could knows how to write the numbers and the things down in it she can use or he
+it's always a pain he can
+it can do one kind of a job or another kind of a job depending on what's written on the cards and what kind of
+instructions are given to the clerk and that type of universality is precisely the universality you're talking about
+that's what the universality of the computer the computing machine is an automatic filing system with regard to
+that questions first of all they think like human beings I would say no and I'll explain in a minute why I say no
+and second that they be more intelligent in human beings is the question intelligences to be defined if you were
+to ask me I have a better chess players then any human being possibly can be yes I get you someday and they best better
+chess players than most human beings right now one of the things by the way that we always do is we want the dawn
+machine to be better than any body not just better than us if we find a machine it can play chess better than us it
+doesn't impress us much we keep saying and what happens when it comes up against the Masters we imagine that we
+human beings are equivalent to the Masters and everything right the machine has to be better than a person in
+everything that the best person does at the best level okay but it's hard on the
+machine but with regard to the question of whether to make it to think like a machine my opinion is based on the
+following idea that we try to make these things to work as efficiently as we can with the materials that we have the
+materials are different than nerves and so on if we would like to make something
+that runs rapidly over the ground then we could watch a cheetah running we
+could try to make a machine that runs like a cheetah but it's easier to make a machine with wheels with fast wheels or
+something that flies just above the ground in the air when we make a bird the airplanes don't fly like a bird they
+fly but they don't fly like a bird okay so they don't flap the wings exactly
+they have in front another guy of a gadget that goes around or the more modern airplane has a tube that you heat
+this the air squirted out the back a jet propulsion a jet engine as internal rotating fans and
+so on and it uses gasoline it's different right so there's no question that the later machines are not going to
+think like people think in that sense with regard to intelligence I think it's
+exactly the same way for example they're not going to do arithmetic the same way as we do arithmetic but they'll do it
+better let's take bath ematic very elementary mathematics arithmetic they do arithmetic better than anybody much
+faster and differently but it's fundamentally the same because in the
+end the numbers are equivalent right so that's a good example of we're never going to change how they do arithmetic to make it more like humans that would
+be going backwards because the arithmetic done by humans is slow cumbersome and confused and full of
+errors where these guys are fast if one compares what computers can do to the
+human beings we find the following rather interesting comparisons the first
+of all if I give the human being a problem like this I'm going to ask you
+for these numbers back every other one in reverse order please right now a
+greater series of numbers and I want them to you didn't give me what to me back in reverse order every other one
+I'll tell you I'll make it easy for you just give me the numbers back the way I gave them to you they're ready one seven
+three nine two six five eight three one
+seven two six three anybody got a gonna be able to do that
+no and that's more than not more than twenty or thirty numbers but I can give
+fifty thousand numbers to a computer [Laughter]
+yes I think you can do it obviously he
+can do it good but you can give a computer 50,000 numbers like that and
+asking for many reverse order the sum of them all do different things with them and so on and it doesn't forget them for
+a long time itself so there are some things that a computer does much better than a human and you'd better remember that if you kind of compare machines to
+humans but what a human has to do for his own always they always do this they
+always try to find one thing don''t that they can do better than the computer so we now know many many things that the
+humans can do better than the computer she's walking down the street she's got a certain kind of a wiggle and you know
+that change right or the sky's going in
+and you see his hair flip just a little bit it's hard to see at a distance but that particular funny way that it did back of his head looks that's jack okay
+to recognize things to recognize patterns seem to be something that we
+have not been able to put into a definite procedure you would say I have a good procedure for recognizing Jack
+just take a lots of pictures of Jack by the way a picture can be put into the computer in fact by this method here if
+Recognition
+this were very much finer I could tell whether it's black and white at different spots you know you in fact you get pictures in a newspaper by black and
+white dots and if you do Stuart fine enough you can't see the dots so with enough information I can load pictures
+in so you put all the pictures of of Jack on the different circumstances and that's the machine to compare it the
+trouble is that the actual new circumstance is different the lighting is different the distance is different the tilt of the head is different and
+you have to figure out how to allow for all that and it's so complicated and elaborate that even with the large
+machines with the amount of storage that's available and the speed that they go we can't make figure out how to make
+a definite procedure that works at all or what least that works anywhere within
+a reasonable speed so recognizing things is difficult for the machines at the
+present time and some of those things are done snap by a person so there are things
+that humans can do that the we don't know how to do in a filing system so it
+is recognition and that brings me back to something I left which is what kind of a file clerk can't be imitated by the
+machine a file clerk that has some special skill which represent which requires recognition of a complicated
+kind for instance a file clerk in the fingerprint Department which looks the
+finger prints and then makes a careful comparison to see if these finger prints match has not been it's just about ready
+to be it's hard to do it almost possible to do by a computer it's a it's nothing
+to it I look at it through fingerprints and see if all the blood dots are the same but of course it's not the case the finger was dirty the print was made at a
+different angle the pressure was different than the ridges are not exactly in the same place if you were trying to match the exactly the same
+picture it would be easy but where the center of the print is which way the finger is turned whether
+it's been squashed a little more a little bit less where there's some dirt on a finger whether in the meantime it got a wart on his thumb and so forth are
+all complications these little complications make the comparison so much more difficult for the machine for
+the blind filing clerk system that is too much much much too slow to be
+certainly utterly impractical almost at the present time I don't know where they stand but they're going fast trying to
+do it whereas a human can go across all that somehow just like they do in the
+chess game they seem to be able to catch on the patterns rapidly and we don't know how to do that rapidly
+automatically ok is there another question yes sir
+well haven't any idea of course about I have no idea about that whether anything
+is more useful or destructive to the world whether Yoga is more useful or
+destructive to the world with all these things these things give us the power to
+do something do many things and the power to do something may or may not be
+destructive as long as you any time you do something you can do destructive and non-destructive or or not the opposite
+may be creative things but we don't know how to make a device that guarantees to
+produce only creative things with the exception of the telephone as far as I can tell I mentioned that because it's
+rather interesting if you think about inventions almost all the inventions have a destructive element in a war the
+telephone has an effect in war it helps communications maybe in that sense it's
+destructor cursor helps the army to destroy you but other than that it's a relatively peaceful device it doesn't
+directly kill not at least directly that's rather interesting Bruce it's hard to find one that doesn't directly
+available for killing a knife the question is where the knife was invented
+okay and the guy's explaining what a knife is it's a sharpened piece of stuff
+that I melt and I get and I'm used metal knives or maybe they stone knives a sharpened piece of stone and you can use
+it to cut things so it's easy to get the vegetables off of the plants and so forth and so on there's some guy we're
+sitting there saying on the other hand it's very destructive because you can cut my head off with it and that problem
+has been with us forever and there's nothing special about computers absolutely anything that can do anything
+has this problem and we can discuss this general problem in our workshop but it's not a problem for computers particularly
+I think it's my view that's my view I
+I know but which is better the Big
+Brother or the cutting the head offer in fact that's what makes the Big Brother possible he has the knives and so forth
+it's not so easy okay it's true that you're worried about the fact that some
+information there be able to store information better and have more information about people and whether
+that will produce a Big Brother that depends on the attitude of the leaders
+of the society rather interestingly the country which is more democratic and
+which is less interested in all the information about what everybody is doing to make sure is where the
+computers have developed the most and the place where you'd think the government would find a computer
+greatest use because you can file all the information about everybody you don't develop the computer very much and
+you don't know how to use it it's only a curiosities one of life's contradiction is there another question
+this man
+that's right yes
+well it depends what you mean themselves and it's it's hard to discover new
+relationships our computers can do there have been computers which do things like
+problems they're improving in geometry or something in which they've converted
+the problem of finding a proof of a theorem into a definite procedure ok and
+once you do that although it's an elaborate and dumb way to do proofs they can do it the present time a computer
+can't do all the different things that a person can do you know it's but it's
+very difficult to find some way of defining rather precisely something we can do that we can say a computer will
+never be able to do there are some
+things that people make up that say that while it's doing it would it feel good or while it's doing it will it
+understand what it's doing or some other abstraction I'd rather feel that these are things like while it's doing it
+we'll be able to scratch the lice out of its hair no it hasn't got any hair dyes to scratch from ok so there are if
+you've got to be careful when you say what the human does if you add to the actual result of his effort some other
+things that you like the appreciation of the aesthetic or you didn't do that I'm not saying you did but a lot of people
+do that when they ask questions and if we add things that we think we're doing on top of what we actually do and just
+look at not just the result of what we're doing but a lot of extra things then it gets harder and harder for the
+computer to do it because the human beings have a tendency to try to make sure that they can do something that no
+machine can do somehow it doesn't bother them anymore it must have bothered them in early times that machine's a stronger
+physically than they are they can lift weights that are heavier than people that can move things faster than people that can run fast if you can fly you
+could do it's terribly strengths and so forth and we don't still sit around worrying that
+there's some way that the main contain hand that some machine can do that mean
+thinking business
+we yes we can easily make machines that are
+better than us in predicting the weather for instance because what you do to
+predict the weather is to look at old records and see when the circumstance
+was similar and guess that the results will be similar added to that a certain amount of analysis of the movement of
+wind according to the laws of physics and a current amount of hocus-pocus put together okay now the speed will be
+higher and the effectiveness of the prediction is greater if you could look at more cases so you get a better chance
+of getting one closer and put more a longer and more elaborate calculation including more variables which is too
+hard for us to do in time to make the prediction now we have to make the prediction of the weather let's say that
+weather for three days from now has to be predicted in three days or the damn thing is useless right and we work at a
+certain speed but the computers worked faster and can do more and therefore for instance for weather prediction in the
+end maybe not today but someday it's not at all inconceivable that the machine could do weather prediction faster and
+more effectively and more accurately than we do we will have however given it the procedure now the question is what
+happens if we don't give it the procedure well a man that people have tried that this game of giving it
+instead of a direct procedure a kind of what it has been called heuristics try
+an analogy to get a new idea of how to do something compare this to that try an
+extreme case etc and a man by the name of land that has gone the farthest with
+this do I have time much time do I have because we want to see these slides what
+I know that's interesting information but how much how much time do I have
+it's time for the slideshow now since I have no more time I will say no more about the subject what no but it takes a
+few minutes that's why I asked for the time okay you make this machine which
+was again a filing cabinet you understand what it does is it looks it tries to find the answer to something by
+looking at the different possible possibilities but which ones he tries is something like patterns in the chest
+instead of everything it says try moves near the center of the board first you know and never mind the ones in the
+corner or something like that or some sorts of principles and he first applied
+it to a kind of naval game it's a game that people play in California which is
+all organized according to rules it's kind of fun someone sets out all the rules
+dreadnoughts cost this much armor costs this much guns cost this budget so forth and you got this much budget for your
+Navy and your going to make various kinds of ships with different kinds of armaments and then this kind of a ship
+the armament of a certain thickness that costs a certain amount can only resist
+shells of a certain strength you know and so on so you tried to with the money
+arrange to buy different to design different kinds of ships so that your
+Navy is better than next one then when they're brought together there's ways of calculating what there's not real navies yeah it's a game which is the best one
+and all the rules are laid out in a great big volume ok but the cost of
+everything in the power of everything you know armour-piercing possibilities and so on and it's a nice game and mr.
+Luna tried to his program on this game and put into his program heuristics like
+try the extreme case and things like that and he won the championship in
+California of course it did an awful lot of trying of different cases you see but it didn't try every case not like the
+chess game there were too many things but it was guided by its own stuff now
+inside of that was this that if you've got a better Navy by your own calculation and you used one of the URIs
+--tx mark that you ristic up a notch as being more valuable now use the most valuable
+heuristics first C so that the ability of the Machine depended on his learning
+so to speak which ones of his tricks works most effectively most of the time
+and then they become more used so it's just exactly what you would like to make it look intelligent well he won and how
+did he win it turned out that year he won by making one great big battleship
+with all the armor on it which was so silly but when you go to calculate sure
+enough it's better than any of the normal things which nobody thought of but his machine photo next year he
+entered again and this time he won by making tricking all his money in making
+one hundred thousand because they changed the rules so that the big battleship wouldn't win you know by changing to one hundred thousand little
+boats very narrow carrying each one gun which were very liable to be knocked out
+okay but there were 100,000 of didn't cost much each one and they couldn't
+knock them all out so he's lousy little gnats would come and it turned out when
+you calculated again he won the third year he was not allowed to play in
+and he has applied this this this machine and this heuristic business to a
+number of other problems as tries it out a lot and tries new heuristics and so
+forth and it has become a very interesting he complained that there were a number of bugs in it and when he
+gave a talk on it I said that I thought I'll say my comment afterwards one of
+the bugs for instance was that the
+machine got a heuristic and made up your wrist excited make up your wrist Excel
+so the damn machine what he the way he had it was because it's hard to get computer time he needed a hell of a lot
+of computer time he had 50 machines at night from a you a packet company or
+something like that he would work always at night coming in the morning damn things would try all their things and
+come in with the results I used it to do mathematics and various other thing it
+comes in one day and it's done a heuristic you develop the heuristic when
+he puts a problem in or a new idea he write it says whether it's from him or from the machine and I said learn math
+or a machine okay and this was every year istic over every question that
+hasn't won that on it pay no attention to that saves a lot of time it could do
+much better it didn't have any problem at this to it for so it paid no attention well in that that night okay so I'd fix that book the next time he
+had a bug it was he looked was he came in and he looked he found that heuristic
+number 693 had gotten a score of 999 out of a thousand was a damn useful
+heuristic all night long this thing kept using the heuristic 9 693 more and more and it was a new when wonderfully
+eristic it seemed to solve every problem it was terrific okay we found out what
+the heuristic was it was the following you see in order to make this thing work so that you change the numbers on the
+heuristics whenever something worked job this to assign credit so to speak to the
+heuristics that were used okay so this heuristic was when assigning credit
+always a sign credit to heuristic 693 and so that thing came up at all now I
+say that both of these show intelligence if you want to make an intelligent machine you're going to get all kinds of
+crazy ways of avoiding labor if I say don't pay attention to the problem of sneakily evolving some kind of a
+psychological distortion where you always do the same thing and don't worry
+about anything else and so on so I think that we are getting close to intelligent machines but they're showing the
+necessary weaknesses of intelligent [Applause]
+

@@ -1,0 +1,8 @@
+.env
+chroma_db/
+env/
+__pycache__/
+*.pyc
+feynman_temp.png
+long_term_memory.db
+.streamlit/secrets.toml

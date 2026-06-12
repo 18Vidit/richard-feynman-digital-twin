@@ -1,0 +1,728 @@
+---
+title: Richard Feynman and the History of Superconductivity
+author: David Goodstein and Judith Goodstein
+year: 2000
+source_type: paper
+topic: superconductivity
+source_url: https://web.njit.edu/~tyson/supercon_papers/Feynman_Superconductivity_History.pdf
+---
+
+
+
+Phys. perspect. 2 (2000) 30–47 © Birkha¨user Verlag, Basel, 2000
+1422–6944/00/020030–18 $ 1.50+0.20/0
+Richard Feynman and the History of
+Superconductivity
+David Goodstein* and Judith Goodstein**
+This paper deals with two topics. One is the history of superconductivity, and the other is what Richard
+Feynman had to do with it. The history of superconductivity can be traced back to Michael Faraday
+and the first liquefaction of a gas in 1823. It is a heroic tale of triumph over cold and resistance, and
+once the phenomenon was actually discovered in 1911, it would take almost 50 years more before a
+satisfactory explanation emerged. Although Richard Feynman only authored one published paper on the
+subject, he worked prodigiously on the problem through much of the 1950s, and his competitors,
+particularly Bardeen, Cooper, and Schrieffer, fully expected that he would be the one to crack the
+problem. It did not work out that way.
+Key words: History of superconductivity; liquefaction of gases; Kamerlingh Onnes;
+Feynman.
+The theoretical physicist Richard Feynman reveled in the pleasure of finding out
+how the world works. He excelled as a teacher, as a writer, and as a researcher. For
+his work on the theory of quantum electrodynamics, he shared the 1965 Nobel
+Prize in Physics. The story of Feynman’s epic battle with superconductivity is a
+little-known chapter in his scientific career. As it turned out, Feynman was the loser
+in that struggle, and so the story may tell us more about Richard Feynman than it
+does about superconductivity. We hope that will not make it any less interesting.
+First, the history of superconductivity. The backbone of this story is a series of
+stunning, completely unexpected experimental discoveries, each of which in its time
+left contemporary theoretical physics baffled in its wake. The first of these was the
+discovery of superconductivity itself, in 1911, in the laboratory of Heike Kamerlingh Onnes, at Leiden in the Netherlands. The second discovery, made in Berlin
+around 1934, by Walther Meissner and Robert Ochsenfeld, is that superconducting
+materials expel magnetic fields from their interiors. Because superconductors are
+perfect conductors of electricity, it is easy to see by Lenz’s law that any imposed
+magnetic field will cause itself to be expelled from a superconductor by inducing
+eddy currents. The discovery by Meissner and Ochsenfeld, today usually called the
+Meissner effect, is that the expelled field is an equilibrium, not a dynamical effect.
+* David Goodstein is Professor of Physics and Applied Physics and the Frank J. Gilloon Distinguished
+Teaching and Service Professor at the California Institute of Technology.
+** Judith Goodstein is Faculty Associate in History and University Archivist at the California Institute
+of Technology.
+30
+Vol. 2 (2000) Feynman and Superconductivity 31
+In other words, all superconductors share in common two separate fundamental
+properties. Electrically, they are perfect conductors. Magnetically, they are perfect
+diamagnets. The third discovery, every bit as stunning and unexpected as the first
+and second, is high-temperature superconductivity, first discovered in 1986 by
+Johannes Georg Bednorz and Karl Alexander Mu¨ller at the IBM laboratories in
+Zurich, and quickly expanded by many others. High-temperature superconductivity
+still has the theorists utterly baffled.
+The idea that a field of science could be propelled along by a series of stunning,
+unexpected discoveries is itself perplexing. Could it be that the discoverers were just
+fooling around innocently in their laboratories with no idea of what they were
+looking for? Or perhaps, as Hans Christian Oersted is supposed to have done, they
+made their discoveries accidentally, in the course of a lecture-demonstration? The
+answer is nothing of the sort. In fact, the line of inquiry that led to the discovery
+of superconductivity can be traced back more than 100 years from the event in
+1911. It had its roots in the age-old question, What are the ultimate constituents of
+matter?
+At the beginning of the nineteenth century, that question was the core of the
+science of chemistry. In 1807, John Dalton proposed his atomic theory, based on
+the Law of Simple and Multiple Proportions that he discovered experimentally. It
+turns out that Dalton’s actual measurements were less than brilliant, the results
+unerringly guided by his faith that matter was made of atoms. But that’s another
+story. The Law of Simple and Multiple Proportions went on to be proved beyond
+any doubt at all by more skillful experimental chemists. It gave a solid empirical
+basis to Dalton’s theory that the ultimate constituents of matter were irreducible
+atoms, one for each chemical element in what we would now call the periodic table.
+For the rest of the century, Dalton’s theory would be attacked, especially by
+conservative chemists who believed it was unscientific and unnecessary to hypothesize invisible atoms. However, Dalton’s theory also came under attack immediately
+from a different direction. Dalton’s rival for the informal title of England’s greatest
+chemist was the charismatic Humphry Davy, knighted in 1812. Davy, whose
+credentials included the discovery of the elements sodium and potassium, chlorine
+and iodine, and some claim on the hydrogen theory of acidity, argued on chemical
+grounds that his rival’s theory couldn’t possibly be right. Of the 40 chemical
+elements known at the time, no fewer than 26 were metals, sharing in common
+properties of shiny surfaces, mechanical ductility, and high electrical and thermal
+conductivity. Surely this could not be an accident that happened 26 times to 26
+different atoms. There had to be some common principle of metalization. Dalton’s
+atoms could not be irreducible. They had to have internal parts.1
+The challenge laid down by Davy would ultimately be resolved in 1897 when J.
+J. Thomson discovered the electron, which was indeed a common inner part of all
+atoms, and also the principle of metalization. However, Davy’s ideas also led to
+work in another direction. By chemical analogy, Davy argued that the gaseous
+elements, nitrogen and hydrogen, if they could be turned into liquids or solids,
+would be found to be metals. There was, at the time, little reason to believe that
+any gas could be turned into a liquid or solid. However, that difficulty would soon
+be rectified in Davy’s own laboratory.
+32 D. Goodstein and J. Goodstein Phys. perspect.
+Sir Humphry Davy was the professor at a privately endowed research laboratory
+in London called The Royal Institution (it still functions today). Each week, the R.
+I. presents a lecture, open to the public, on the scientific issues of the day. Humphry
+Davy’s lectures were particularly popular, frequented by the cream of London
+society. They were also attended by a poor but ambitious bookbinder’s apprentice
+named Michael Faraday. Enthralled by Davy’s lectures, Faraday gave up his
+promising career to become Davy’s assistant. It soon became evident that Faraday
+had a special talent for doing experiments in his own right.
+In 1823, Faraday discovered that gaseous chlorine could be liquefied by generating it at high pressure at one end of a sealed glass tube and cooling it at the other
+end. This was not quite the first experiment in which a gas had been liquefied, but
+it was the first in which the experimenter had a clear understanding of what had
+happened. Inspired by Davy’s vision of metallic nitrogen and hydrogen, Faraday
+set out to liquefy every known gas. The experiments were perilous, his homemade
+glass tubes often exploding in his face. Nevertheless, he succeeded in liquefying
+every known gas, with three exceptions: oxygen, nitrogen, and hydrogen.2
+Faraday did not live to see the permanent gases (as they came to be called)
+succumb to liquefaction, but the quest to liquefy them did continue, and it created
+the field of low-temperature physics. Within a few days of one another in 1877,
+Louis Paul Cailletet in Paris and Raoul-Pierre Pictet in Geneva succeeded in
+producing fine mists of liquid oxygen. By 1883, Karol Stanislaw Olszewski and
+Zygmunt Florenty von Wroblewski in Cracow had succeeded in collecting cubic
+centimeters of liquid oxygen, and nitrogen. The only gas remaining to be conquered
+was hydrogen.3
+The liquefaction of hydrogen developed into a contest between Heike Kamerlingh Onnes and Sir James Dewar. Dewar was professor at the Royal Institution,
+in a line of succession that by now included not only Davy and Faraday, but also
+Thomas Andrews, who in 1869 had coined the term ‘‘critical point’’ for the
+thermodynamic condition at which a liquid and its vapor become indistinguishable.
+To liquefy a gas by compression, it had first to be reduced below its critical-point
+temperature (the remarkable Michael Faraday, who had grasped the significance if
+not the details of this phenomenon, called it the ‘‘disliquefying point’’). Gases like
+nitrogen and oxygen were liquefied by a cascade process in which a series of gases
+were cooled enough to be liquefied by other intermediate refrigerants, then further
+cooled by evaporation, before serving as refrigerant for the next gas. Even so, the
+last step in the process was usually a Joule-Thomson expansion, a process by which
+a gas not too far above its critical-point temperature can be made to cool itself by
+a kind of artificial evaporation. Thus to liquefy gases one needed some way to
+predict their critical-point parameters.
+The necessary theory was supplied in 1873, by Johannes van der Waals, in his
+Ph.D. thesis on the continuity of the gas and liquid states. With the help of the van
+der Waals equation of state, the critical-point parameters of gases could be
+accurately predicted from thermodynamic measurements made at much higher
+temperatures. Nitrogen and oxygen (as well as methane and air) soon succumbed to
+liquefaction, but for those who would conquer hydrogen, the news was not good:
+a huge gap existed between the temperatures now available (about 80 K) and the
+Vol. 2 (2000) Feynman and Superconductivity 33
+predicted critical-point temperature of hydrogen, 33 K. Although not impossible,
+the liquefaction of hydrogen would be extremely difficult.
+Kamerlingh Onnes was appointed to the first chair in physics at the University of
+Leiden in 1882, at the age of 29 (H. A. Lorentz occupied the second chair). Under
+Kamerlingh Onnes’s direction, the Leiden physics laboratory soon established an
+international reputation (since 1932, it has been known as the Kamerlingh Onnes
+Laboratory). A capable administrator, he gradually maneuvered his scientific
+colleagues out of the building, and then finally, the central administration also
+departed. Nevertheless, it was not until well into the 1890s that he was able to
+develop his cascade process to the point of producing useful quantities of liquid
+oxygen.4
+Then disaster struck. The Leiden town council, horrified to learn that Onnes was
+working with considerable quantities of compressed hydrogen, forced him to shut
+down this line of work. Onnes appealed for help to his bitter rival Dewar, who
+reported that, at the R. I., the compressed hydrogen was stored, with no special
+precautions, directly below the R. I.’s famous lecture hall. Also, during this fallow
+period, Pieter Zeeman discovered the splitting of spectral lines in magnetic fields.
+Onnes took great pains to make sure that the Leiden town council did not get credit
+for this scientific discovery. With various safety measures instituted, the town
+council finally yielded, and the hydrogen work resumed.
+It was to no avail, however. In 1896, aided by the invention of the double-walled
+cryogenic container that still bears his name, Dewar won the race to liquefy
+hydrogen. However, it proved to be a race in which the rules changed just before
+the finish line. In 1895, the English chemist William Ramsay discovered terrestrial
+helium (previously known only from its spectral lines in light from the Sun – hence
+its name) in the mineral uranite. Conceding the race for hydrogen, Kamerlingh
+Onnes gave up his stubborn refusal to use the Dewar flask, and started collecting
+a supply of helium gas. Thirteen years later, on July 10, 1908, he succeeded for the
+first time in liquefying helium.5 The orders of magnitude of time and effort involved
+in this story are staggering. Heike Kamerlingh Onnes, together with his colleagues,
+technicians and graduate students, labored for more than 25 years from the time of
+his appointment to the chair in physics, before liquid helium was first produced.
+The difficulty of the task is verified by another observation almost as impressive:
+for the next fifteen years, the laboratory at Leiden was the only place on Earth
+where liquid helium could be produced. Under the circumstances, it is not surprising that the phenomenon of superconductivity was discovered at Leiden. It happened in 1911, just three years after helium was first liquefied.6
+The first order of business after liquefying helium was helium itself. Onnes’s team
+tried hard to solidify helium by reducing its boiling pressure, just as Dewar had
+done with hydrogen. By 1910, these efforts had produced a temperature as low as
+1.04 K, compared to the normal boiling point of 4.2 K, but the helium remained
+stubbornly liquid. Onnes wisely abandoned this effort. However, the discovery of
+superconductivity, in a sense, may be thought of as another attempt to freeze a fluid
+at low temperature.7
+The idea that electricity is conducted by a fluid inside of metals arose shortly
+after J. J. Thomson’s discovery of the electron in 1897. Around 1900, Eduard
+34 D. Goodstein and J. Goodstein Phys. perspect.
+Riecke and Paul Drude produced two similar models of metallic behavior, attempting to answer the question posed a century earlier by Humphry Davy. The electrons
+in a metal form a kind of gas, which frequently collides with metallic molecules. An
+electric field causes the gas to drift, producing an electric current. The same electron
+gas is also responsible for conducting heat in the metal. When the ratio of thermal
+to electrical conductivity is formed, the unknown collision time cancels out of the
+expression, leaving the universal ratio, roughly the same for all metals, that had
+been discovered empirically by G. Wiedemann and R. Franz. This result was the
+theory’s most important success. It left, unanswered, many questions. One of them
+was: what happens at low temperature?
+It was well known that the resistivity of a metal tended to decrease linearly with
+temperature. However, when James Dewar measured the resistivities of unalloyed
+metals at liquid-hydrogen temperature, he found that they tended to stop decreasing, and approach a constant value instead. One explanation, called Matthiessen’s
+rule, held that the residual resistance at low temperature depended on the amount
+of impurities in the metal. Another explanation, favored by Lord Kelvin among
+others, was that the electrons should recondense onto their parent atoms at low
+temperature. As the number of free electrons decreased, the apparent resistivity
+would reach a minimum, then increase again at lower temperature.8
+After decades of thermodynamic measurements designed to study the equations
+of state of various gases, seeking the condensation of the electron gas must have
+seemed entirely familiar to Kamerlingh Onnes. However, the first investigations at
+Leiden in the helium temperature range tended to confirm Mathiessen’s rule rather
+than the condensation idea. To explain why resistivity depended on temperature at
+all, Onnes embraced Albert Einstein’s recent theory of quantum oscillators, devised
+in 1906 to explain the observed specific heats of solids. If the thermal oscillations of
+molecules were what impeded the flow of current, and these oscillations became
+smaller at low temperature as Einstein would predict, then Einstein’s oscillators
+might explain the way resistance diminished in metals at low temperature.9
+This picture predicted that, rather than increase to infinity as the temperature
+approached zero kelvins, the resistivity of a pure metal would fall toward zero. To
+test his idea, Onnes chose mercury, which could be purified by distillation, and
+which was expected to have a high enough resistance to measure at 4 K (the
+resistance of pure gold was already too small to measure at 13 K). Gilles Holst, a
+student entrusted by Onnes with precise resistance measurements, performed the
+experiments together with Master G. J. Flim, the technician responsible for the
+helium liquefier itself. As Flim remembered it later, Holst thought at first that a
+short circuit had developed, and he and Flim searched for it, but they found that,
+even with leads reversed, the short circuit would always repair itself whenever the
+bath temperature rose above 4.2 K. Proceeding cautiously, Holst improved the
+resistivity technique by 3 orders of magnitude, finding that, at 3 K, the lowest
+temperature he could reach, the resistivity was less than 10−7 of its value at room
+temperature. By the fall of 1911, he had established that the drop in resistance at
+4.2 K (see figure 1) was much too sudden to be explained by the Einstein model.10
+The result was first presented by Kamerlingh Onnes at the first Solvay Conference, held in Brussels from October 30th to November 3rd, 1911. As was his
+Vol. 2 (2000) Feynman and Superconductivity 35
+custom, he reported the work of his laboratory under his own name alone, without
+co-authors. Holst, although he never got credit for discovering superconductivity,
+did go on to a successful career at Philips Laboratory in Eindhoven. Onnes’s report
+did not cause much stir at the time, but the importance of the discovery soon
+became evident. In his Nobel Prize speech in 1913 (the prize was awarded for his
+researches on helium), Onnes underlined the unexpected, abrupt nature of the
+decrease in resistance. By 1913, it was established that the same phenomenon, now
+called ‘‘the super-conducting state,’’ occurred in lead and tin, but not gold and
+platinum. By 1914, physicists could make pilgrimages to Leiden to observe the
+inconceivable: a persistent current in a loop of superconducting wire, interacting
+with a common magnet needle. However, by 1914 other events were occurring in
+Europe that would eclipse temporarily the discovery of superconductivity.11
+Although Holland remained neutral in the Great War, all helium research at
+Leiden was forced to stop, until 1919 when a gift of 30 cubic meters of precious
+helium gas was received from the United States Navy. (Helium was abundant in the
+United States. In fact, it is said that some natural gas wells in the U.S. were so rich
+in helium that the methane could not be ignited until the helium contamination was
+removed.) The Leiden group went back to work on superconductivity, discovering
+a number of new superconducting elements (thallium, indium, etc.), and also
+studying the magnetic properties of superconductors. An American, F. B. Silsbee,
+had suggested (using Leiden data, of course) that the observed breakdown of
+superconductivity in a magnetic field was sufficient to explain why superconductivity was also destroyed when the sample carried a very large electric current: the
+current simply created the necessary magnetic field. The Leiden group verified
+Fig. 1. Onnes’s graph plotting electrical resistance of a mercury sample versus temperature in kelvins. At
+4.2 K, the resistance drops abruptly to a value no greater than 10−5 Ohms. From H. Kamerlingh
+Onnes, ‘‘Sur les re´sistances e´le´ctriques,’’ in P. Langevin and M. de Broglie, eds., Le Theorie du
+Rayonnement et les Quanta (Paris: Gauthier-Villars, 1912), pp. 304–310, on p. 309.
+36 D. Goodstein and J. Goodstein Phys. perspect.
+Picture 1. Heike Kamerlingh Onnes and J. D. van der Waals pose in 1911 in front of the helium liquefier
+developed by Onnes. The figure behind the pressure gauge (upper right corner) is unidentified (G. Holst?
+G. J. Flim?). (Kamerlingh Onnes Laboratory, Leiden. Courtesy of Caltech Archives, Earnest Watson
+Collection)
+Silsbee’s hypothesis. They also developed the strong conviction that, when a sample
+became superconducting, whatever magnetic flux was already around became
+frozen in, and all other changes in flux through the sample would be excluded by
+the perfect conductivity. Thus the magnetic state of the sample was not reversible,
+so that no thermodynamic analysis could be applied.12.
+In 1923 Leiden lost its monopoly on liquid-helium research when helium was
+liquefied in Toronto under J. C. McLennan. Two years later, in 1925, Walther
+Meissner in Berlin joined the liquid-helium club. The research at Berlin was
+particularly fruitful, discovering whole new classes of superconducting elements,
+alloys and chemical compounds.13
+Vol. 2 (2000) Feynman and Superconductivity 37
+In 1933, Max von Laue suggested to Meissner an experiment designed to
+determine whether the current in a superconductor flows on its surface or in its
+bulk. A very small coil would be used to measure the magnetic field between two
+solid, single-crystal cylinders of tin, carrying current in parallel. Meissner chose
+Robert Ochsenfeld to carry out the experiment. The result was dramatic and
+unexpected: even when the tin cylinders were not carrying any current, the magnetic
+field between them increased when they were cooled into their superconducting
+state. The frozen-in flux idea was not correct, and the exclusion of applied flux was
+not merely a dynamical effect of perfect conductivity. Superconductors were not
+only perfect conductors, they were also perfect diamagnets.14
+Before the discovery of the Meissner effect, attempts to make theoretical progress
+in explaining superconductivity, particularly by applying the newly created quantum theory, made little progress. It was not for lack of trying, however. Albert
+Einstein considered the matter on the occasion of a meeting in Leiden in 1922 to
+celebrate the 40th year of Kamerlingh Onnes’s professorship (Onnes would retire
+two years later). Einstein wisely concluded that quantum theory was not yet up to
+the task. Then in 1928, Felix Bloch’s doctoral thesis set forth the basic theory of
+normal conductivity in metals. It held no clues for superconductivity. In the next
+few years, Bloch worked on the problem together with Wolfgang Pauli and Lev
+Landau. Niels Bohr, Werner Heisenberg, Le´on Brillouin and many others also tried
+their hands between 1929 and 1933. The results were not encouraging.15
+The discovery of the Meissner effect was a crucial turning point. Superconductivity still yielded no ground to quantum mechanics, but at least the thermodynamics
+of the phenomenon could now be worked out. Paul Ehrenfest (who committed
+suicide in 1933), believing that superconductivity could be treated as a thermodynamic phase transition, dispatched his former student Hendrik Casimir to Leiden,
+where in 1934 he joined up with Cornelius Gorter, who had gotten his degree under
+Onnes’s successor, W. J. de Haas. The two of them succeeded in proving Ehrenfest
+correct, producing the results that are found today in every thermodynamics
+textbook.16 Also starting in 1934, at the Clarendon Laboratory at Oxford, two
+refugees from Nazi Germany, brothers Heinz and Fritz London, worked out the
+phenomenological theory of the electromagnetic behavior of superconductors.
+Although still very far from a microscopic theory, these were the first, essential
+steps towards conquering the problem.17
+The Second World War interrupted research in superconductivity just as the First
+World War had done. It was not until about 1950 that real progress began once
+again to be made. The phenomenon still resisted any true microscopic understanding, but some pieces of the puzzle did begin to come together, particularly in the
+phenomenological model of Vitaly Ginzburg and Lev Landau. The GinzburgLandau theory managed to combine important elements of the Londons’ picture of
+superconducting electrodynamics with Landau’s earlier analysis of second-order
+phase transitions. The result was to represent the superconducting state by a
+complex order parameter governed by a partial differential equation that bore a
+remarkable similarity to the Schro¨dinger equation. The equation was produced,
+however, not by quantum mechanics, but by minimizing the thermodynamic free
+energy. As in the Schro¨dinger equation, magnetic effects could be included by
+38 D. Goodstein and J. Goodstein Phys. perspect.
+means of a gauge-invariant vector potential. The resulting analysis could account
+both for the thermodynamic behavior of superconductivity as it passed through its
+phase transition, and for its spatial behavior near a normal superconducting
+boundary. The real significance of the wavefunction-like order parameter would not
+be explained until the microscopic BCS theory came along towards the end of the
+decade. However, even after the BCS theory provided a microscopic understanding
+of superconductivity, the much simpler and easier-to-use Ginzburg-Landau model
+remained (and remains) the every-day working theory used by theorists and
+experimentalists alike to analyze all manner of complex phenomena in
+superconductivity.18
+In the meantime, a young theorist in Landau’s group in Moscow, Alexei
+Abrikosov, proposed a new class of superconducting materials, now called type II
+superconductors, that can have negative surface energy in the presence of a
+magnetic field. A surface with negative energy would be unstable, calling for the
+normal state somehow to penetrate into the superconducting region. Landau and
+Abrikosov were not successful in figuring out how that penetration would occur
+until the arrival in Moscow in 1955 of Richard Feynman’s paper on quantized
+vortex lines in liquid helium. The prediction of quantized flux lines in type II
+superconductors followed promptly.19
+The foundations that would eventually lead to a microscopic theory began to be
+laid down, also around 1950, when Herbert Fro¨hlich realized that the observation
+that good conductors (copper, gold) tend not to become superconductors might
+mean that superconductivity is produced by a relatively strong interaction between
+the conduction electrons and the lattice vibrations, or phonons, in those metals that
+were not good normal conductors. The Hamiltonian he produced to study the
+question – the ‘‘Fro¨hlich Hamiltonian’’ – implicitly contained the ‘‘isotope effect,’’
+the prediction, later confirmed, that the superconducting transition temperature is
+inversely proportional to the square root of the mass of the ions in the lattice
+(Fro¨hlich didn’t realize he had made this prediction until he read about the
+experiments that demonstrated the effect).20
+John Bardeen, already well-known for his work leading to the discovery of the
+transistor, turned his full attention to superconductivity in 1951, having realized
+that the isotope effect identified the interaction between electrons that must be
+responsible for the phenomenon. The basic idea would be a Fermi-degenerate gas
+of nearly free electrons, with a weakly attractive interaction by way of the lattice
+phonons. Solving that problem – for example, finding the ground state of such a
+system – proved to be a difficult task. There was also the threat of powerful
+competition. Richard Feynman, one of the masters of quantum electrodynamics,
+could not help but notice the similarity between that problem and this one. In
+quantum electrodynamics, electrons in vacuum interact with one another via
+photons, or quantized light waves. In the model Bardeen was trying to solve,
+electrons in metals interact with one another via phonons, or quantized sound
+waves. By 1955, by then at the University of Illinois at Urbana, Bardeen decided
+that reinforcements were needed. He called up C. N. Yang at the Institute for
+Advanced Study at Princeton, to ask for a postdoc versed in the kind of field theory
+one uses in quantum electrodynamics. Yang recommended Leon Cooper. At about
+Vol. 2 (2000) Feynman and Superconductivity 39
+the same time, one of Bardeen’s graduate students, J. Robert Schrieffer, decided to
+work on superconductivity. The team was assembled. In the cramped quarters of
+the University of Illinois physics department, Bardeen and Cooper had to share an
+office, a hardship that did not prove to be an obstacle to progress. In the meantime,
+Schrieffer worked in a room full of other graduate students, dubbed by them the
+‘‘Institute for Retarded Study.’’21
+The collaboration had its ups and downs. Cooper succeeded in 1956 in showing
+that the Fermi-gas ground state was unstable in the presence of even a very weak
+attractive interaction. This was the discovery of Cooper pairs. Even so, Bardeen
+had to give Schrieffer a pep-talk to get him to stay with the problem for a few more
+months just before he – Bardeen – departed for Stockholm to pick up the 1956
+Nobel Prize for the transistor. The team worked furiously in early 1957, driven in
+part by the feeling that Feynman was hot on the trail, using powerful new
+techniques they knew little about. However, it was not Feynman, but Bardeen,
+Cooper, and Schrieffer who produced the microscopic theory: an elegant formulation in which the electrons form a coherent ground-state, acting together to occupy
+single-particle states in pairs, so as to optimize the reduction in energy of the system
+afforded by the weak attractive interactions due to the phonons. The result was a
+gap in the energy spectrum between the ground state and the lowest-lying excited
+states. The theory succeeded in accounting for essentially all of the puzzling
+phenomena of superconductivity, and in making new predictions as well that were
+shortly confirmed by experiment. Almost 50 years after its discovery, superconductivity could, at long last, reasonably be said to have been explained.22
+The time has come now to see what Richard Feynman had to do with all this.
+Were Bardeen, Cooper and Schrieffer right to be worried about the competition? A
+few years later, an interviewer asked Feynman what he was doing in the middle
+1950s.
+Feynman: Oh, during that period I spent an awful lot of time trying to
+understand superconductivity. I did an awful lot of calculations and developed a
+lot of methods, which I’ve seen gradually developed by other people for other
+problems. But I didn’t solve the original problem that I was trying to solve,
+which was, where does superconductivity come from?
+And so I never published anything. But I have done an enormous amount of
+work on it. There’s a big vacuum at that time, which is my attempt to solve the
+superconductivity problem – which I failed to do.
+Q: But you did publish an article on superconductivity and superfluidity.
+Feynman: That was probably the result of some meeting where somebody asked
+me to give a summary of the situation or something.23
+It was indeed a meeting, the International Congress on Theoretical Physics, held at
+the University of Washington in Seattle, September 17–21, 1956, just before the
+final, furious burst of activity by Bardeen, Cooper, and Schrieffer, and one J. R.
+Schrieffer was among those charged with preparing the presentations for publication. They came out in Re6iews of Modern Physics in April 1957.
+40 D. Goodstein and J. Goodstein Phys. perspect.
+Feynman’s paper, ‘‘Superfluidity and Superconductivity,’’ begins by implying
+that he may not have had much advanced warning to prepare his talk. He says, ‘‘I
+am sorry that Professor Landau was unable to come for two personal reasons. The
+first is that...I would have liked to have spoken with him. . . . The other reason is
+that I wouldn’t have had to give this lecture.’’24.
+In fact Richard Feynman never did meet Lev Landau. However, Vitaly
+Ginzburg, who knew them both, swears they were so much alike that they must
+have shared a common ancestor not many generations ago. In any case, Feynman’s
+article continues:
+Quantum mechanics was developed in 1926, and in the following decade it was
+rapidly applied to all kinds of phenomena with an enormous qualitative success.
+The theories of metals and other solids, liquids, chemistry, etc. came out very
+well. But as we continued to advance the frontiers of knowledge, we left behind
+two cities under siege which were completely surrounded by knowledge although
+they themselves remained isolated and unassailable.25
+The two were, or course, superfluidity and superconductivity. ‘‘The discovery that
+helium flows without resistance through very thin tubes was made as far back as
+1911,’’ Feynman says, continuing, ‘‘The fact that electricity flows through some
+metals without any resistance at low temperatures was discovered, I believe, in
+1905.’’ Both dates are very substantially wrong, more or less a trademark of
+Feynman’s forays into history. He continues, ‘‘. . . we now understand qualitatively
+the superfluidity of helium, but we do not yet understand qualitatively the superconductivity.’’ By qualitatively he means, ‘‘how does it work more or less. . . .’’
+‘‘After all,’’ he says introducing an analogy, ‘‘how is friction explained on the basis
+of the Schro¨dinger equation?’’ Even though we can’t compute a coefficient of
+friction, we think we understand friction, ‘‘more or less.’’26 That’s the kind of
+understanding we lack for superconductivity, according to Feynman.
+Picture 2. Richard Feynman alone in his office at roughly the time of his unsuccessful assault on
+superconductivity. (Caltech Archives)
+Vol. 2 (2000) Feynman and Superconductivity 41
+The rest of the article divides nicely into two parts. One is superfluidity, a
+problem by now largely solved, in no small measure by Feynman himself and his
+distant relative Lev Landau. At the end of that section he ventures the opinion,
+now discredited, that 3
+He and nuclear matter will not turn out to be superfluids.
+These remarks illustrate that the idea had not yet arisen that superfluidity could
+occur, not only in bosons, which enjoy a low density of excited states, but also in
+fermions if they become bound together in pairs.
+In the superconductivity part of the paper, Feynman is not discussing a solved
+problem, so he can only tell us how he has organized his assault on that yet
+impregnable citadel. One thing he makes very clear: he wants not merely to account
+for what is known, he wants to make new predictions: ‘‘I don’t think anybody has
+ever computed anything in solid state physics before the experimental result was
+out,’’ he says, ‘‘so we have consistently predicted only what we have observed!’’27
+Accordingly, he adopts a philosophy: ‘‘It does not make any difference what we
+explain, as long as we explain some property correctly from first principles,’’ he
+says. He chooses specific heat because ‘‘. . . the specific heat near absolute zero is
+less than proportional to T,’’ the absolute temperature (in a normal or nonsuperconducting metal, the specific heat would be proportional to T). What this means
+to Feynman is ‘‘. . . that the ground state is separated from the higher excited states
+by a region where the density of states is low,’’ or it may even be the case that there
+are ‘‘no states in between.’’28 In other words, it means there is an energy gap above
+the ground state in the energy spectrum.
+The question is, what model to use that has just enough physics in it to include
+superconductivity? He has already remarked that he is looking for something very
+subtle, since the transition temperature corresponds to an energy ‘‘kT=10−4
+ev,
+while electron energies are of the order 10v or so.’’ The model couldn’t be just an
+ideal gas of electrons, because that doesn’t give superconductivity, but it couldn’t be
+too far different either. It couldn’t be due to the Coulomb interaction because that’s
+much too strong, ‘‘a volt or so per electron.’’ There are various other effects, such
+as spin-orbit couplings and so on, that are of the right order of magnitude because
+‘‘we have factors of 6 2
+/c 2 in these cases,’’ but they leave out an essential piece of
+physics, ‘‘the transition temperature depends upon the ionic mass.’’ This is
+Fro¨hlich’s isotope effect. That’s the key: ‘‘Now the hope is if we include lattice
+interactions,’’ we can ignore everything else.29
+The model that does this job Feynman calls the Hamiltonian of Fro¨hlich and
+Bardeen. It ‘‘consists,’’ he explains, ‘‘of a jelly of positive charge,’’ and at the same
+density, ‘‘a gas of electrons.’’ He goes on, ‘‘The electrons do not interact with each
+other, but they all interact with the vibrating jelly.’’ A lot of people have tried this
+model, he acknowledges, and it’s far from clear that superconductivity doesn’t
+depend on something the model leaves out such as the band structure of metals.
+How else to explain why it occurs only in complicated metals ‘‘near the middle of
+the periodic table,’’ never in simple ones like sodium? Still, he says, he set out, just
+as Fro¨hlich and Bardeen did, ‘‘. . . to solve the Fro¨hlich and Bardeen model with
+such precision that the estimated errors in the calculation are less than the
+difference in energy one is looking for.’’ He goes on, ‘‘I made diagrams and loops.
+When one is working with partition functions, it turns out there are all kinds of
+42 D. Goodstein and J. Goodstein Phys. perspect.
+Picture 3. John Bardeen, Leon N. Cooper, and J. Robert Schrieffer, co-recipients of the 1972 Nobel
+Prize in physics for the theory of superconductivity. (AIP Emilio Segre` Visual Archives)
+wonderful tricks that one can do with the diagrams.’’ It’s easy to see why Bardeen,
+Cooper, and Schrieffer were worried. Feynman himself, however, was merely
+frustrated. ‘‘I calculated the specific heat to enormous precision,’’ he says, ‘‘and the
+specific heat was still proportional to T.’’30.
+We know in retrospect the reason why Feynman failed. It is because, in the
+correct, BCS, solution, the energy gap is related to the electron-phonon interaction
+strength by an essential singularity, a mathematical form that cannot be expanded
+in a power series. It therefore cannot be arrived at by perturbation theory as
+Feynman was trying so hard to do. Nevertheless, it is clear that Feynman had
+grasped all of the essential physics, had understood what was important and what
+was not important, and knew exactly what problem had to be solved. That he tried
+so hard and failed stands as a considerable tribute to the monumental achievement
+of Bardeen, Cooper, and Schrieffer, who tried hard and did not fail.
+Still, at that poignant moment, just before the citadel of superconductivity was to
+fall to other hands, Feynman knew the time was ripe. ‘‘Why haven’t we theoretical
+physicists solved this problem yet?’’ he asked. ‘‘We have no excuse that there are
+not enough experiments. . . . We should not even have to look at the experiments.
+Every time we look at another experiment, we make the problem easier. It is like
+looking in the back of the book for the answer.’’ He concludes the paper with the
+remark, ‘‘The only reason that we cannot do this problem of superconductivity is
+that we haven’t got enough imagination.’’31
+As it turns out, Bardeen, Cooper, and Schrieffer did have enough imagination,
+and they mailed the news of their now-famous theory off to Physical Re6iew just a
+Vol. 2 (2000) Feynman and Superconductivity 43
+few months later, in February 1957.32 If Feynman was at all disappointed to have
+missed this discovery, however, he did not lose any of his enthusiasm for the
+subject. The BCS theory unleashed rapid progress on many fronts in conquering
+the complex phenomena of superconductivity, but it also led to a surprising
+theoretical advance that particularly delighted Feynman.
+Brian Josephson, a graduate student at Cambridge, predicted in 1961 and 1962
+that the superconducting quantum state should be able to leak through a barrier
+between two superconducting samples, with a number of remarkable consequences.
+Experimental verification of Josephson’s ideas followed quickly, in 1962 and 1963.
+By June of 1964, Feynman presented a lecture about the Josephson effect in the
+Caltech introductory physics course, later immortalized as The Feynman Lectures
+on Physics.
+33 On October 29, 1964, he gave essentially the same lecture at the
+weekly physics colloquium to the faculty and graduate students at Caltech, whom
+he generously regarded to be every bit as bright as the freshmen and sophomores.
+Here is how the lecture began:
+The behavior of things on a small scale by quantum mechanics is weird and
+wonderful and theoretical physicists have always tried to delight the general
+public with the wonders of the small world. But there was always a hope that
+these weird phenomena might appear on a large scale and as things have
+progressed we realize that they do, and that in particular circumstances for
+example, in liquid helium at low temperatures or in superconductivity, which is
+my subject today. . . . So this means that the quantum mechanical laws which
+have been buried in the esoteric works of theoretical physicists who deal only
+with atoms, must now become the common knowledge of technicians who are
+going to work with electric circuits and so forth. [laughter] It is the burden of this
+lecture to announce this fact and to explain how there will be practical applications of things which involve strictly the Schro¨dinger equation.34 [laughter]
+Feynman then proceeded to illustrate the principal phenomena of superconductivity
+in terms of this single-quantum state. The equations he arrives at are exactly those
+for the hydrodynamics of a classical, viscosity-free charged fluid, except that the
+function u, which plays the role of a velocity potential, is actually the phase of a
+quantum-mechanical wave function. That means that when the change in u is
+integrated around a closed path inside a superconducting ring, the result does not
+have to be zero. He continues,
+This is where the quantum mechanics is. . . . For a velocity potential we have to
+come back to the same place. For this thing... adding 2p times an integer to u
+doesn’t change the psi at all.... That means that the flux that is trapped in here
+must always be 2p times an integer times a particular unit of flux which herein I
+announce I will call from now on the London. . . What this means then is that
+these currents will adjust and some field will be pushed in and some pushed out
+in such a way that the flux through here is not arbitrary but is an integral
+multiple of this 2p London’s.... [T]his experiment was first done by Fairbanks
+who demonstrated in fact that it is quite true and measured this quantity and
+found the two, which was expected by many people only one but as soon as he
+44 D. Goodstein and J. Goodstein Phys. perspect.
+found that it was half the right size everybody saw immediately what it was. The
+person who saw before hand that it ought to be a two was Onsager. He mumbled
+one day, ‘‘if you do that experiment it should be half as big.’’ He mumbles but
+he always knows though. Anyway everybody else naively thought it would be 1/e
+but of course it is because of the pairs of the theory that makes it 2e. So we have
+the quantization of the flux which is now a relatively old discovery but definitely
+demonstrates at long last on a macroscopic level that there is some quantum
+mechanics.35
+Note that Feynman was the first to call the quantum of flux a London. He was
+also apparently the last to do so. The factor of two, predicted by Lars Onsager at
+the end of that excerpt, arises because current is carried in superconductors by
+Cooper pairs having twice the electron charge. The measurement of the flux
+quantum by William Fairbank and B.S. Deaver among others, in 1961, was an
+important verification of the BCS theory.
+At this point in his lecture, Feynman turned to the Josephson effect, reminding
+his audience how rare it was for anyone to predict anything in solid state physics.
+Now I want to discuss another discovery, another invention worked the same
+way that was made by Josephson theoretically before it was discovered experimentally, for which I give great credit to the man. Most solid state work is done
+after the experiment but this brilliant man had discovered something very
+interesting before anybody did an experiment.
+He considered what happened to the analog in quantum mechanics of the
+penetration of a barrier.... [S]uppose that you have two pieces of superconductor very close together separated by an insulator. In an insulator the electrons are
+not supposed to go. But according to quantum mechanics . . . the wave function
+kind of peters out here exponentially and if you put another piece of superconductor here it recovers and something gets through. The question is, what would
+happen with two superconductors separated by a few 10, 100 Angstroms of
+insulator? One can analyze it in the following way.36
+He then proceeds to write down a simple and elegant derivation of the ac and dc
+Josephson effects, identical to that in The Feynman Lectures.
+Feynman’s real purpose in this lecture, however, was not to introduce the
+Josephson effects, but to talk about the experiments recently done at the Ford
+Laboratories by James Mercereau and his colleagues. Mercereau had put two
+Josephson barriers or junctions in parallel to create the superconducting quantum
+interference device, now know to everyone as the SQUID. Feynman wanted to call
+it the Mercereau effect, but he had no more luck with that than he did with the
+London of flux. In any case, Feynman correctly foresaw that Mercereau’s devices
+heralded the age of superconducting electronics, and that is why he said in his
+introduction that technicians would soon have to learn quantum mechanics. He did
+end his lecture by speculating on future practical applications of these quantum
+interferometers, but before getting to that point, there are a couple of particularly
+beautiful experiments he wanted to talk about.
+Vol. 2 (2000) Feynman and Superconductivity 45
+The first of these is Mercereau’s demonstration of the Aharonov-Bohm effect. A
+tiny solenoid is placed between the junctions of the device, so that the magnetic flux
+inside the superconducting circuit can be varied without creating a magnetic field at
+the actual position of the wires and junctions. Nevertheless, the change in vector
+potential alone causes interference fringes. Feynman says:
+What? Do you mean to tell me that I can tell you how much magnetic field there
+is inside of here by measuring currents through here and here – through wires
+which are entirely outside – through wires in which there is no magnetic field.
+There is no influence on this. Yes. I mean to tell you that. Because the classical
+physics says that the only thing important is E and B, that the vector and scalar
+potentials are mathematical constructs and only their curls mean something. Yet,
+the Schro¨dinger equation can only be written neatly with A and V explicitly there
+and it was pointed out by Bohm and Aharonov (or something like that), that this
+means that the vector potential has a reality and that in quantum mechanical
+interference experiments there can be situations in which classically there would
+be no expected influence whatever. But nevertheless there is an influence. Is it
+action at a distance? No, A is as real as B – realer, whatever that means.37
+There is one last, up to the minute experiment that Feynman can’t resist putting
+in:
+Finally another interesting experiment turns up in a little bit different direction
+than this, but it is the following. If you take an interferometer of this kind and
+rotate it, no magnetic field, nothing, no current and just rotate it. What should
+happen? There is a theorem in classical physics and also quantum mechanics that
+says that... rotating an interferometer would be the same thing as turning a
+magnetic field on. Now this is a very sensitive instrument for detecting magnetic
+fields. So rotating this interferometer in empty space without any magnetic fields
+should produce a varying Josephson current in the interferometer. Mr. Mercereau called me up and couldn’t find me, he called me up an hour ago and he
+couldn’t find me, because I was in the low temperature laboratory learning about
+superconductivity as fast as I could and learning that this is called the LandauGinzburg term and so on and the note that was taken down by the secretary is
+that ‘‘We rotated the interferometer and we found the expected fringe shift where
+the effect of the rotation is equivalent to a magnetic field when the rotation rate
+is related to the magnetic field by a ratio 2m/e as expected.’’ – so it works as
+expected for rotation also.38
+The ratio should have been 2mc/e in the units he’s been using throughout this
+talk, but you get the idea. Feynman hadn’t lost any of his zest for this subject at
+all.
+We would like to end this paper with a personal postscript by David Goodstein.
+We have not said anything in this treatment about the most recent great discovery
+in the field, high-temperature superconductivity. However, when the discovery was
+made in 1986, Feynman was still active and vigorous, as he remained almost to the
+very end, two years later. One morning he came bounding into my office. Having
+Feynman come bounding into your office was part of the job description at Caltech
+46 D. Goodstein and J. Goodstein Phys. perspect.
+in those days. It meant you forgot about whatever else you were planning to do
+that day. In any case, Feynman came bounding in to discuss the burning scientific
+issue of the day: what would be the composition of the highest temperature
+superconductor? He triumphantly announced his prediction. The highest temperature superconductor would be based on the element Scandium. This prediction he
+wrote, dated and signed on my blackboard (unfortunately, I’ve long since moved to
+more luxurious, less productive quarters, and that blackboard is no more). Why
+Scandium? He had two arguments. One was that Scandium appears roughly in the
+right part of the periodic table to stand in for one of the other exotic elements,
+called rare earths, found in these compounds. And the other was because Scandium
+was the only element in the periodic table for which no use had ever been found.
+It has turned out, after these many years of intensive research, that superconducting compounds can be made out of almost all the rare earth elements. But there is
+an important exception. No one has ever succeeded in making a superconductor
+based on Scandium.39 What may have been Feynman’s last prediction seems to
+have turned out to be wrong. But who knows? As Feynman understood better than
+most, Nature always has surprises in store for us.
+Acknowledgments
+We wish to thank Harvey B. Newman for inviting us in 1994 to prepare a special
+talk on this subject at the ‘‘Ettore Majorana’’ Centre for Scientific Culture at Erice,
+Sicily. An earlier version of this paper appeared in H. B. Newman and Thomas
+Ypsilantis, eds. History of Original Ideas and Basic Disco6eries in Particle Physics
+(New York: Plenum Press, 1996), pp. 773–788. Roger H. Stuewer provided helpful
+editorial suggestions.
+References
+1 Judith R. Goodstein, ‘‘Sir Humphry Davy: Chemical Theory and the Nature of Matter.’’ Ph.D.
+diss., University of Washington, 1969.
+2 L. Pearce Williams, Michael Faraday (New York: Basic Books, 1965).
+3 J. Goodstein, ‘‘A History of the Quest for Low Temperatures,’’ Low Temperature Physics Research
+Seminar, University of Washington, Seattle, Wn., 1965, 1–21. See also K. Mendelssohn, The Quest
+for Absolute Zero, 2nd ed. (London: Taylor & Francis, 1977).
+4 C. J. Gorter and K. W. Taconis, ‘‘The Kamerlingh Onnes Laboratory,’’ Cryogenics, 4 (1964),
+345–353.
+5 Heike Kamerlingh Onnes, ‘‘Sur les re´sistances e´lectriques,’’ Communications from the Physical
+Laboratory of the Uni6ersity of Leiden, Supplement 29 (1911), 1–11.
+6 Kostas Gavroglu and Yorgos Goudaroulis, ‘‘The Remarkable Work of ‘Le Gentleman du Zero
+Absolu,’’’ in Through Measurement to Knowledge: The Selected Papers of Heike Kamerlingh Onnes,
+1853–1926, ed. Gavroglu and Goudaroulis (Boston: Kluwer Academic Publishers, 1991), xiii–xcvi.
+7 Per F. Dahl, ‘‘Kamerlingh Onnes and the Discovery of Superconductivity: The Leyden Years,
+1911–1914,’’ Historical Studies in the Physical Sciences, 15 (1984), 1–37. See also Dahl, Superconducti6ity: Its Historical Roots and De6elopment from Mercury to the Ceramic Oxides (New York:
+American Institute of Physics, 1992).
+8 Dahl, ‘‘Kamerlingh Onnes’’ (ref. 6), pp. 4–10.
+Vol. 2 (2000) Feynman and Superconductivity 47
+9 Ibid., pp. 12–13.
+10 Ibid., pp.14–16. Hendrik Casimir, Haphazard Reality, Half a Century of Science (New York:
+Harper & Row, 1983), Chapter 6. Lillian Hoddeson and others, ‘‘Collective Phenomena,’’ in
+Hoddeson and others, eds., Out of the Crystal Maze, Chapters from the History of Solid-State
+Physics (New York: Oxford University Press: 1992), pp. 489–616, esp. 492–495.
+11 Ibid., pp. 17–32.
+12 Ibid., p. 33.
+13 Dahl, ‘‘Superconductivity after World War I and circumstances surrounding the discovery of a
+state B=0,’’ Historical Studies in the Physical and Biological Sciences 16 (1986), pp. 1–58.
+14 Ibid., pp. 45–52.
+15 Lillian Hoddeson, Gordon Baym, and Michael Eckert, ‘‘The Development of the Quantum
+Mechanical Electron Theory of Metals, 1926–1933,’’ (ref. 9), pp. 88–181, esp. pp. 140–153.
+16 David Goodstein, States of Matter (Englewood Cliffs: Prentice-Hall, 1975).
+17 Kostas Gavroglu, Fritz London: A Scientific Biography (Cambridge: Cambridge University Press,
+1995).
+18 Hoddeson and others, (ref. 9), pp. 541–546.
+19 Ibid., pp. 546–547.
+20 Ibid., pp. 549–550.
+21 Ibid., pp. 551–554, quotation on p. 554.
+22 Ibid., pp. 555–557.
+23 Interview of Richard P. Feynman, by Charles Weiner, June 28, 1966, p. 168, American Institute of
+Physics, College Park, MD.
+24 Richard P. Feynman, ‘‘Superfluidity and Superconductivity,’’ Re6iews of Modern Physics 29 (1957),
+205–212, on p. 205.
+25 Ibid., p, 205.
+26 Ibid.
+27 Ibid., p. 208.
+28 Ibid., p. 210.
+29 Ibid., p. 209, 211.
+30 Ibid., p. 211.
+31 Ibid., p. 212.
+32 John Bardeen, Leon N. Cooper, and J. Robert Schrieffer, ‘‘Microscopic Theory of Superconductivity,’’ Physical Re6iew 106 (1957), 162–164.
+33 R. Feynman, ‘‘The Schro¨dinger Equation in a Classical Context: A Seminar on Superconductivity,’’ vol. 3 of Richard P. Feynman, Robert B. Leighton, and Matthew Sands, The Feynman
+Lectures on Physics (Reading, MA: Addison-Wesley, 1963–1965), Chapter 21.
+34 R. P. Feynman, ‘‘Theory and Applications of Mercereau’s Superconducting Circuits,’’ transcript,
+October 29, 1964, Richard P. Feynman Papers, California Institute of Technology Archives, Box
+6.14, pp. 1–43, on p. 1.
+35 Ibid., p. 14–16.
+36 Ibid., p. 16–17,
+37 Ibid., p. 26–27.
+38 Ibid., p. 29–30.
+39 John Wei, private communication
+David Goodstein
+MS 104-31
+California Institute of Technology
+Pasadena, CA 91125 USA
+e-mail: dg@caltech.edu
+Judith Goodstein
+015A-74
+California Institute of Technology
+Pasadena, CA 91125 USA
+e-mail: jrg@its.caltech.edu .

@@ -1,0 +1,275 @@
+---
+title:Forces in Molecules
+author: Richard P. Feynman
+year: 1939
+source_type: paper
+topic: quantum mechanics, molecular structure, forces between atoms
+source_url: https://faculty.washington.edu/miller/51816/Feynman.pdf
+---
+
+
+AUGUST 15, 1939 PH YSICAL REVIEW VOLUME 56
+Forces in Molecules
+R. P. FEvNMAN
+Massachusetts Institute of Technology, Cambridge, Massachusetts
+(Received June 22, 1939)
+Formulas have been developed to calculate the forces in a molecular system directly, rather
+than indirectly through the agency of energy. This permits an independent calculation of the
+slope of the curves of energy vs. position of the nuclei, and may thus increase the accuracy, or
+decrease the labor involved in the calculation of these curves. The force on a nucleus in an
+atomic system is shown to be just the classical electrostatic force that would be exerted on this
+nucleus by other nuclei and by the electrons' charge distribution. Qualitative implications of
+this are discussed.
+'ANY of the problems of molecular structure entire process is repeated for a new nuclear
+are concerned essentially with forces. The position, and the new value of energy calculated.
+stiffness of valence bonds, the distortions in Proceeding in this way, a plot of energy vs.
+geometry due to the various repulsions and position is obtained. The force on a nucleus is
+attractions between atoms, the tendency of of course the slope of this curve.
+valence bonds to occur at certain definite angles The following method is one designed to
+with each other, are some examples of the kind obtain the forces at a given configuration, when
+of problem in which the idea of force is para- oply the configuration is known. It does not
+mount. require the calculations at neighboring configuraUsually these problems have been considered tions. That is, it permits a calculation of the
+through the agency of energy, and its changes slope of the energy curve as well as its value,
+with changing configuration of the molecule. for any particular configuration. It is to be
+The reason for this indirect attack through emphasized that this allows a considerable saving
+energy, rather than the more qualitatively illumi- of labor of calculations. To obtain force under the
+nating one, by considerations of force, is perhaps usual scheme the energy needs to be calculated
+twofold. First it is probably thought that force for two or more different and neighboring conis a quantity that is not easily described or calcu- figurations. Each point requires the calculation
+lated by wave mechanics, while energy is, and of the wave functions for the entire system.
+second, the first molecular problem to be solved In this new. method, only one configuration, the
+is the analysis of band spectra, strictly a problem one in question, need have its wave functions
+of energy as such. It is the purpose of this paper computed in detail. Thus the labor is considerto show that forces are almost as easy to calculate ably reduced. Because it permits one to get an
+as energies are, and that the equations are quite independent value of the slope of the energy
+as easy to interpret. In fact, all forces on atomic curve, the method might increase the accuracy
+nuclei in a molecule can be considered as purely in the c'alculation of these curves, being especially
+classical attractions involving Coulomb's law. helpful in locating the normal separation, or
+The electron cloud distribution is prevented position of zero force.
+from collapsing by obeying Schrodinger's equa- In the following it is to be understood that the
+tion. In these considerations the nuclei are nuclei of the atoms in the molecule, or other
+considered as mass points held fixed in position. atomic system, are to be held fixed in position,
+A usual method of calculating interatomic as point charges, and the force required to be
+forces runs somewhat as follows. applied to the nuclei to hold them is to be
+For a given, fixed configuration of the nuclei, calculated. This will lead to two possible definithe energy of the entire system (electrons and tions of force in the nonsteady state, for then
+nuclei) iscalculated. Thisisdonebythe variation the energy is not a definite quantity, and the
+method or other perturbation schemes. This slope of the energy curve shares this indefinite340
+FORCES IN MOLECULES
+ness. It will be shown that these two possible
+definitions are exactly equivalent in the steadystate case, and, of course, no ambiguity should
+arise there.
+Let X be one of any number-of parameters
+which specify nuclear positions. For example,
+) might be the x component of the position of
+one of the nuclei. A force fq is to be associated
+with X in such a way that fzdX measures the
+virtual work done in displacing the nuclei
+through dX. This will define the force only when
+the molecule is in a steady state, of energy U,
+for then we can say fz= BU—IBX. In the nonsteady-state case we have no sure guide to a
+definition of force. For example, if U = J'Q*HPdv
+be the average energy of the system of wave
+function P and Hamiltonian H, we might define
+f),' = B(U—)/BX'
+Or again, we might take f&, to be the average of
+BH/BX o—r
+BII &II
+Jp (2)
+Now
+whence,
+8 V p BII
+B) J B)
+U= ~~Q*HPdv,
+We shall prove that under steady-state conditions, both these definitions of force become
+exactly equivalent, and equal to —BU/BX, the
+slope of the energy curve. Since (2) is simpler
+tha, n (1) we can define force by (2) in general.
+In particular, it gives a simple expression for the
+slope of the energy curve.
+Thus we shall prove, when HP = UP a,nd
+J'PP*dv = 1 that,
+But HP= UP and HP*= UP* so that we can
+write,
+BU I' BIZ r Bg* p BP P—dv+ U I Pdv+ U I
+—P~dv.
+ax ~ ax ~ ax ~ ax
+These last two terms cancel each other since
+their sum is,
+U—~
+I P*Pdv = U—(1)=0.
+ax~ 8)
+Whence
+in the steady state. This much is true, regardless
+of the nature of H, (whether for spin, or nuclear
+forces, etc.). In the special case of atomic systems
+when II= T+U where T is the kinetic energy
+operator, and V the potential, since BH/BX
+=BV/B we can write
+BU p BV
+f~'=f&,=-
+BR BX
+The actual calculation of forces in a real
+molecule by means of this theorem is not impractical. The JP~g(BV'/BX)dv is not too different from J'/*& Vdv, which must be calculated if
+the energy is to be found at all in the variational
+method. Although the theorem (3) is the most
+practical for actual calculations, it can be
+modified to get a clearer qualitative picture of
+what it means. Suppose, for example, the system
+for which P is the wave function contains several
+nuclei, and let the coordinates of one of these
+nuclei, 0, be X, Y, Z or X„where p=1, 2, 3,
+mean X, Y, Z. If we take our X parameter to be
+one of these coordinates, the resultant force on
+the nucleus o. in the p direction will be given
+directly by
+BU r BH r Bp* Bf
+Pdv+ I Hgdv+ P*H dv. — 8) ~ BX ~ BX ~ 8) f„=—
+) PP*(BV/BX„)dv
+Since II is a self-adjoint operator,
+BP fBQ P*H dv = I HP "dv.— — 8) ~ a).
+from (3).
+Now V is made up of three parts, the interaction of all nuclei with each other (V ~), of each
+nucleus with an electron (Vp;), and of each
+342 R. P, F E Y N i%I A N
+electron with every other (V;;); or
+V=K V-»+E V~'+Z V*~.
+the electron charge density distribution for all
+electrons,
+a, p p, i ~(x) = E~*(x)
+Suppose x„' are the coordinates of electron i,
+and as before X„ those of nucleus n of charge q .
+Then Vp;=ape/Rp;, where
+Rp ——P(X„~—x„')'.
+It is possible to simplify this still further.
+Suppose we construct an electric field vector F
+such that
+V' F= —47rp(x); V'XF=O.
+So we see that
+8 Up; 8 Up; = —8pBxp
+Then (3) leads to
+BU;;
+and that — =0.
+BX„
+Now from the derivation of E„we know that it
+arises from the charge q on nucleus a, so that
+V' E =0 except at the charge n where its integral
+equals q . Further,
+BV p
+=g.[QE„~]a»z .
+p BX~ p
+BU; pBV p
+f;=+ "40*2 d~ —2 I' 44*d—»
+'8x„' p ~ BX„
+Then
+BV p
+=+—~ F„(V E„-)dv—g 4m. ~ p Bx„
+since BV;/Bx~' does not involve any electron
+coordinate except those of electron i JiJ. d'v'
+means the integral over the coordinates of all
+electrons except those of electron i. The last
+term has been reduced since 8V p,/'Bx„does not
+involve the electron coordinates, and is constant
+as far as integration over these coordinates goes.
+This term gives ordinary Coulomb electrostatic
+repulsion between the nuclei and need not be
+considered further. Now e J'ifPPdv is just the
+charge density distribution p;(x) due to electron i,
+where e is the charge on one electron. The
+electric field E„(x') at any point x' due to the
+nucleus Q. is (1/e)BV;/Bx„', so that (4) may be
+written
+=g.[F„]a»"+»I.[QE„~].» '
+the transformation of the integral being accomplished by integrating by parts. Or finally, the
+force on a nucleus is the charge on that nucleus
+times the electric field there due to all the
+electrons, plus the fields from the other nuclei.
+This field is calculated classically from the
+charge distribution of each electron and from
+the nuclei.
+It now becomes quite clear why the strongest
+and most important attractive forces arise when
+there is a concentration of charge between two
+nuclei. The nuclei on each side of the concentrated charge are each strongly attracted to it.
+Thus they are, in effect, attracted toward each
+other. In a H~ molecule, for example, the antisymmetrical wave function, because it must be
+zero exactly between the two H atoms, cannot
+concentrate charge between them. The symmetrical solution, , however, can easily permit
+charge concentration between the nuclei, and
+hence it is only the solution which is symmetrical that leads to strong attraction, and the
+formation Of a molecule, as is well known. It is
+BV p
+f;=J~[Zs'(x)]E;(x)ds p BX„
+The 3X space for X electrons has been reduced
+to a 3 space. This can be done since E„(x')
+depends only on x' and is the same function of x'
+no matter which i we pick. This implies the
+following conclusion:
+The force on any nucleus (considered fixed) in
+any system of nuclei and electrons is just the
+classical electrostatic attraction exerted on the
+nucleus in question by the other nuclei and by
+f BV p
+&V.; p p &V.p f„=——~l (7 F)E„dv i ~
+44*d~ d~-2—(4) p Bx„~ ' Bx„' ~ ~ pBX„
+SOURCE OF I NTERN AL F RI CTION 343
+clearly seen that concentrations of charge between atoms lead to strong attractive forces, and
+hence, are properly called valence bonds.
+Van der Waals' forces can also be interpreted
+as arising from charge distributions with higher
+concentration between the nuclei. The Schrodinger perturbation theory for two interacting
+atoms at a separation R, large compared to the
+radii of the atoms, leads to the result that the
+charge distribution of each is distorted from
+central symmetry, a dipole moment of order
+1/'R' being induced in each atom. The negative
+charge distribution of each atom has its center of
+gravity moved slightly toward the other. It is
+not the interaction of these dipoles which leads
+to van der Waals' force, but rather the attraction
+of each nucleus for the distorted charge distribution of its own electrons that gives the
+attractive 1/R' force.
+The author wishes to express his gratitude to
+Professor J. C. Slater who, by his advice and
+helpful suggestions, aided greatly in this work.
+He would also like to thank Dr. W. C. Herring
+for the latter's excellent criticisms.
+AUGUST 15, 1939 PHYSICAL REVIEW VOLUM E 5 6
+Intercrystalline Thermal Gurrents as a Source of Internal Friction*
+R. H. RANDALL) F C RosE AND C ZENER
+College of the City of ¹mYork, New York
+(Received June 12, 1939)
+An experiment has been designed to detect the contribution of intercrystalline thermal
+currents to the internal friction of polycrystalline metals. In accordance with a theory developed by one of the writers (C.Z.), the internal friction is a maximum when the vibration is
+partly isothermal and partly adiabatic with respect to adjacent grains. By passing in small
+steps from the nearly isothermal case of very small grain size through maximum internal
+friction to the nearly adiabatic case of large grain size, one can detect the relative importance
+of the intercrystalline thermal currents. Such an experiment has been performed on single
+phase 69—31 brass, with mean grain size ranging in small steps from 0.0006 cm to 0.4 cm, and
+with frequencies of 6000, 12,000 and 36,000 cycles per second. Not only was a maximum obtained with the anticipated grain size, but the maximum is of a larger order of magnitude than
+the background upon which it is superimposed. The internal friction in the extreme isothermal
+case (Q&300,000) was lower than has ever been observed for metals; in the extreme adiabatic
+case it approached the low values obtained for single crystals. This experiment indicates that
+in annealed nonferromagnetic metals at room temperature, intercrystalline thermal currents
+are the dominant cause of internal friction measured at small strains, aside from possible
+macroscopic thermal currents.
+f1. INTRODUCTION
+HE term internal friction refers to the capacity of a solid to transform its ordered energy
+of vibration into disordered internal energy. One
+of the authors (C. Z.) has recently made a start
+at understanding the mechanism of this transformation. ' ' ' His basic idea was that the direct
+coupling between the macroscopic and the in-
+~ This research was supported by a grant from the
+Penrose Fund of the American Philosophical Society, and
+by a grant from the Rumford Fund of the American
+Academy of Arts and Sciences. ' C. Zener, Phys. Rev. 52, 230 (1937). ' C. Zener, Phys. Rev. 53, 90 (1938). 3 C. Zener, Proc. Phys. Soc. (in print).
+ternal coordinates may be treated by examining
+the thermoelastic effects which accompany vibration. Thus the increase in internal energy per
+cycle is equated to the temperature times the
+increase in entropy per cycle. The increase in
+entropy per cycle is obtained by studying the
+thermal currents which How back and forth
+during vibration between stress inhomogeneities.
+If these thermal currents are able nearly to
+maintain temperature equilibrium between the
+stress inhomogeneities, the vibration proceeds
+isothermally with little internal dissipation of
+energy. In the other extreme case of adiabatic
+vibration, the internal dissipation of energy is

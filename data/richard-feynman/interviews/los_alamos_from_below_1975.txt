@@ -1,0 +1,598 @@
+---
+title: Los Alamos from Below
+author: Richard P. Feynman
+year: 1975
+source_type: interview
+topic: "life and work at Los Alamos during the Manhattan Project"
+source_url: "https://www.youtube.com/watch?v=18qL3x1Q97M" 
+---
+this joint may get raided by the police department any we're going to get started um our speaker today as you know
+Chapter 2: Feynman with Oppenheimer at Los Alamos
+is Richard Philips Fineman Nobel Prize winner in physics and scientist extraordinary
+the difference between dick feinan and other people is that he is more logical and has a greater
+[Music]
+imagination uh this is a rare combination most people who are logical don't have much
+[Music]
+imagination as a great Russian physicist Frankle said knowledge progresses by elogical
+steps Fineman uses his imagination to probe the scientific Frontiers beyond
+the bounds of logic in much the same manner as mathematicians use complex
+variables in order to make analytic continuations uh at las
+Alas at las Alas Robert Oppenheimer rated dick as his most valuable player
+uh besides being an extremely talented theoretical physicist he is a super duper
+troubleshooter he can go into an experimental lab and by asking the right questions find the reasons why the
+experiment doesn't work uh it's a great pleasure to have dick here and I and
+thanks very much how do you do hello down there and how to everybody else the
+introduction is quite inappropriate for my talk which is Los Alamos from below and I mean from below because although
+as Mr herfeld says in my field at the present time I'm a slightly famous man at the time I was not anybody famous at
+all I did not even have my degree when I started to work on uh stuff associated
+with the Manhattan Project so I want to describe it from many of the other people who tell you about Los alos uh
+know something they're up in some higher Echelon of government of the organization or something or worried about some big decisions I worried about
+no big decisions I was always flittering about underneath somewhere I wasn't the absolute bottom as you'll turn out I did
+uh get sort of up a few steps but I wasn't one of the higher people said I want you to try to put yourself in a different kind of condition than the
+introduction said and just imagine this young graduate student that hasn't got his degree yet he's working on his thesis and I'll start by studing how I
+got into the project and then what happened to me that's all just what happened to me during the project I was working at Princeton in my room one day
+when Bob Wilson came in I was working what the hell it isn't funny yet I got lots of better J
+[Applause]
+Bob Wilson came in and said that he had been funded to do a job that was a secret and was uh not supposed to tell
+anybody but he was going to tell me because he knew that as soon as I knew what he was going to do I'd see that I had to go along with it so he told me about the problem of separating
+different isotopes of uranium he had a to make a ultimately a make a bomb he had a process for separating the Isotopes of uranium which is different
+than the one that was ultimately used that he'd wanted to try to develop and he told me about it and he said there's a meeting I said I didn't
+want to do it he says all right there's a meeting at 3:00 I'll see you there he said I said it's all right that you told me the secret because I'm not going to
+tell anybody but I'm not going to do it so I went back to work on my thesis for about 3 minutes and then I began to Pace
+the floor and to think about this thing the Germans had Hitler and the possibility of developing an atomic bomb was obvious and the possibility that
+they would develop before we did was very much of a fright so I decided to go to the meeting at
+3:00 by 4:00 I already had a desk in a room and was trying to calculate whether this particular method was limited by
+the total amount of current that you can get in an ion beam and so on I wouldn't go into the details but I had a desk and I had paper I'm working as hard as I
+could and as fast as I can whereas the fellas were building the apparatus to do the experiments right there the other Fells who were joined and it was like
+those moving pictures that you see you see a piece of equipment go every time I look up the thing was getting bigger and what was happening of
+course is that all the boys had decided to work on this and to stop their research in science all the science stopped during the war except the little bit that was done at Los
+Al it was not much science it was a lot of engineering and uh they were robbing their equipment from their research and
+all the equipment of different research was being put together to make the new apparatus do the experiments to try to separate the Isotopes of uranium
+and I stopped my work also for the same reason uh it is true that I did take a six- we vacation off after a while from
+that job and finished writing my thesis so I did get my degree just before I got to Los Alamos so I wasn't quite as far
+down as I led you to believe one of the first experiences that was very interesting to me in this project at
+Princeton was to meet Great Men I had never met very many great men before but there was a committee evaluation
+committee that had to decide which way we're going and to try to help us along to ultimately decide which way we're going to separate the uranium this
+evaluation committee had men like Tolman and SMI and Yuri and Robbie and uh
+Oppenheimer and so forth on it and there was Compton for example one of the things that was a terrible shock I'd sit
+there because I had understood the theory of this process that we're doing and so they asked me questions and I'd be there and then we discuss it and then they start to discuss something and then
+one man would make a point and then Compton would explain a different point of view and he would be perfectly right and it was a right idea and he said it should be this way another guy would say
+well maybe there's this possibility we have to consider against it another possibility we have to consider I'm jumping they should repeat Compton he
+should say it again he should say it again CU everybody's disagreeing with them all the way around the table so finally at the end the tomus chairman says well having heard all these
+arguments I guess it's true that compens argument is the best of all and then we have to go ahead and it was such a shock to me to see that a committee of men
+could present a whole lot of ideas each one thinking of a new facet and remembering what the other fell said
+having paid attention and so at the end the decision is made as to which idea was the best to summary it all together without having to say it three times you
+see so that was a shock and these were very great men indeed uh this project was ultimately
+decided not to be the way that they were going to separate uranium and we were told then that we were going to stop and that there would be starting in Los
+Alamos in New Mexico the project which would actually make the bomb and that we would all go out there to make it there would be experiments that we would have
+to do theoretical work that we'd have to do I was in the theoretical work all the rest of the fellas were in experimental work the question was what to do because
+we had this heus of time where we had just been told to turn off but with the losos wasn't ready yet Bob Wilson tried
+to make use of This Time by saying to send me to Chicago to find out all that we could find out about the bomb and the
+problems so that we could start to build in our Laboratories equipment counters of various kinds and so on that would be useful when we got to Los Alamos so no
+time was wasted I was sent to Chicago with the instructions to go to each group tell them I was going to work with them have them tell me about a problem
+to the extent that I knew enough details that I could actually sit down and start working on the problem and as soon as I got that far go to another guy and ask for for a problem in that way I would
+understand the details of everything it was a very good idea my conscience bothered me a little bit but it turned out accidentally I was very lucky and one of the guys explaining the problem I
+says why don't you do it that way and in a half an hour he had it solved and they' been working on it for 3 months so I did
+something so I came back from Chicago and I described this situation how much energy was released what the bomb was going to be like and so forth to the
+fellas I remember a friend of mine who was worked with me Paul ol m mathematician came up to me after he says when they make a moving picture
+about this they'll have the guy coming back from Chicago telling the Princeton men all about the bomb and he'll be dressed in a suit and carry a briefcase and sign and you're in dirty shirt
+sleeves and just telling us all about it but it's very serious thing anyway and so he appreciated the difference between the real world and that in the
+movies well there still seemed to be a delay and Wilson went to L Alamos to find out what was holding things up and
+how they were progressing and when he got there he found that construction company was working very hard and had finished the theater and a few buildings because they
+understood how but they hadn't gotten instructions clear on how to build the Laboratories how many pipes for gas how much for water so he simply stood around
+and decided how much water how much gas and so on and told him to start building the Laboratories and he came back to us uh we were all ready to go you see and
+Oppenheimer was having some difficulties in discussing some problems with Groves and we were getting impatient so what as far as I understand
+it from the position I was in Wilson called Manley in Chicago and they all got together and they decided we'd go out there anyway when it wasn't ready so
+we all went out to Los Alamos before it was ready we were recruited by the way by uh Oppenheimer and other people and he was
+very patient with everybody he paid attention to everybody's problems he worried about my wife who had TB and whether there would be a hospital out there and everything and it was the
+Chapter 3: Colloquium on the Super at Los Alamos. (1946)
+first time I met him in such a personal way and he was such a wonderful man we were told among other things to be careful and not to buy our train ticket
+in Princeton because Princeton was a very small train station and if everybody bought a train ticket to Albuquerque New Mexico in there'd be
+Chapter 4: Front row left to right: Norris Bradbury, John Manley, Enrico Fermi and J.M.B. Kellogg.
+some suspicion that something was up and so everybody bought that ticket somewhere else ex me because I figured
+if everybody bought that ticket somewhere else so when I went to the train station
+and I said I want to go to Albuquerque New Mexico he says oh oh he says so all the stuff is for
+you we've been shipping out crates full counters for weeks and expecting they didn't notice that the address was
+Albuquerque so at least I explained why it was that we were shipping out crates I was going out through
+Albuquerque well when we arrived we were ahead of time and the houses for the dormitories and things like that were not ready in fact the Laboratories
+weren't quite ready we were pushing them we were driving by coming down ahead of time they went crazy at the other end and they rented Ranch houses all around
+in the neighborhood and we stated first at a ranch house and would drive in in the morning the first morning I drove in was tremendously impressive the beauty
+of the scenery for a person from the East who didn't travel much was Sensational there's a great cliffs you've probably seen the pictures I wouldn't go into it much detail this
+thing was high on a Mason and you'd come up from below and see these great cliffs and uh we were very surprised and the most impressive thing to me was that as
+I was growing up I said maybe there were Indians even living here the guy who was driving the car said just stop he stops the car walks around the corner and there are Indian caves that you in
+respect so it was really very exciting in that respect when I got up to the site the
+first time I saw at the Gate of the you see that was a technical area where we're supposed to do the work with a fence supposed to have a fence around It
+ultimately but because they were still building it was open then there was supposed to be a town and then a big fence further out around the
+time they were still building and my friend Paul olm who was my assistant was standing with a clipboard checking the trucks coming in and out and telling them which way to go and to deliver the
+materials in different places when I went into the laboratory I would meet men that IID heard of by seeing that papers in their physical review and so on I never met him before this is John
+Chapter 5: Second row left to right: Colonel Oliver G. Haywood, Unknown, Robert Oppenheimer. Richard Feynman, Phil B.Porter.
+Williams they said the guy comes standing up from a desk which is covered with blueprints and sleeves all rolled up and he's standing by some windows at
+one of the buildings ordering trucks and things going in different directions to build the things in other words we took over the construction company and
+finished the finished the job the physicist in other words at the beginning the experimental physicist particularly had nothing to do until their buildings were ready and apparat
+ready so they just built the buildings or assisted in building the buildings the theoretical physicist on now that was decided that they wouldn't
+live in the ranch houses but they would live up at the site because they could start working right away so we started working immediately and that meant we
+would each get we in some rooms there were no Blackboard except for one a rolled Blackboard you know that on wheels that you'd roll around and we'd
+roll it around and CBA would explain to us all the things that they thought of in Berkeley about the atomic bomb and nuclear physics and all these things and
+I didn't know very much about it I'd been doing other kinds of things and so uh I had to do an awful lot of work every day I'd study and read and study
+and read and it was a very hectic time I had some luck uh all the big shots my son kind of
+accident everybody but hun beta happened to have left at the same time like Vice scop had to go back to fix something at MIT and Teller was away just at a
+certain moment and what beta need is somebody to talk to to push his ideas against so he came into this little squirt in an office and he starts to
+explain this idea and I says no no you're crazy it'll go like this and he says just a moment and he explains that he's not crazy that I'm crazy and we
+keep on going like that but I turned out that although you see when I hear about physics I just think about physics and I don't know who I'm talking to so I say the dopiest things like no no that's
+wrong you're crazy but it turned out that's exactly what he needed and he was so I got a notch up on account of that and so when
+I I ended up as a group leader with four guys under me and which is underneath beter there was several groups but I wasn't quite as far below as the title
+Chapter 6: Third row left to right: Edward Teller. Gregory Breit, Arthur Hemmendinger, Arthur Schelberg
+might indicate but I wasn't anywhere up anywhere I had a lot of interesting experiences with beta the first day when he came in we had an adding machine at M
+shant that you work with your hands and so he says uh let's see he says the formula they've been working out he says involves a precious Square the precious 48 the square of 48 I reached for the
+machine he says it's about 2300 so I plug it out just to find out he says you want to know exactly it's
+2304 and so it came out 2304 how do you do that he says don't you know how to take squares and numbers
+near 50 if it's near 50 if it say three below then it's 3 below 25 like 47 squar is 22 and how much is left over is the
+square of what's residual for you three lost so you get nine 2209 for 47 squared very nice okay so we keep on he was very good in
+arithmetic so we kept that going and a few moments later we have to take the cube root of 2 and A2
+now to do cube roots there was a little chart that you take you have some trial numbers that you try on the aing machine that Maran company had given so open
+this takes him a little longer you see I open the drawer I take out the chart he says 1.35 so I figured there's some way to take
+cube roots numbers near two and a half but it turns out no how do you do that he says well he says you see the logarithm of two a half
+is so and so you divide by three to get the cube root so and so now the log of 1.3 is this the log of 1.4 it I interpolated in
+between I couldn't have divided anything by three much less so he knew all his arithmetic and he was very good at it and that was a
+challenge to me I kept practicing we used to have little contests every time we'd have to calculate anything we we rush to the answer he and I and I would
+win after several years I began to be able to do it you know get in there once maybe one out of four cuz you'd notice something funny about a number like if
+you have to multiply 174 by 140 for example you notice that's like 173 by 141 which is like theun of 3 * theun of
+two which is theun of 6 which is 245 but you have to notice the numbers
+you see each I would notice a different way around we had lots of fun well when I was first there as I said we didn't have the dormitories and
+the theoretical physicist had to stay up there and the first place they put us was in the old school buildings from the boys school that had been there
+previously the uh first place I lived in was a thing called The Mechanics Lodge we were all jammed in there in bunk beds and so on and it turned out it wasn't
+organized very well and the Bob Christie and his wife had to go to the bathroom in the morning through our bedroom so know so that was very uncomfortable the
+next place we moved to was a thing called the big house which had a big patio all the way around the outside on the second floor where all beds had been stuck next to each other all along along
+and then downstairs there's a big chart that told you what your bed number was and which bathroom you changed the clothes in so under my name it said
+bathroom C no bed number as a result of this I was rather
+annoyed by this time I was getting annoyed at last the dormatory is built I'm C down down to the dormatory place to get the rooms
+assigned and they say uh these are you pick your room now I tried to pick one you know what I did I looked and see where the girl's dormatory was and I I
+picked one that you could look out across later I discovered a big tree was growing right in front of but anyway I picked this room and uh
+they told me that temporarily there would be two people in a room but that would only be temporary the rooms with two rooms which would share a bathroom but it would be double deck of bunk in
+there and I didn't want two people in the room so when I first got there the first night nobody else was there now my wife was sick with TB in Santa Fe in
+Albuquerque so I had some boxes of stuff of hers so I opened the box and I took
+out a little night gown I opened the top bed I threw the night gown carelessly on the top bed I took out the slippers I threw some powder on the floor in the
+bathroom I just made it look like somebody else is there okay so that the other bed is occupied nobody's going to sleep there okay so what happened
+because it's the men's dormatory well I came home that night and my uh pajamas are folded nicely and put under the pillow at the bottom and
+the slip is put nicely at the bottom of the bed and the lady's pajama is nicely folded the bed has been all fixed up and made and it's put under the pillow and
+the slippers are put down nicely and the powder is cleaned from the bathroom and nobody is sleeping up there I still have the room to myself so next night same
+thing when I wake up I smuggle up the bed at the top sloppily I throw the night gown and powder in the bathroom and so on and I
+went on like this for four nights until it settled down everybody was settled and there was no more danger that they would put a second person in the room
+and each night perpetually each morning everything was set very neatly everything was all right even though it was a men's dormatory so that's what
+happened there in that situation I got involved in politics a little bit because there was a thing
+called The Town Council and apparently were certain things that the army people would decide how the town was supposed to be run with some assistance from some
+governing board up there that I never knew anything about from the civilians or something but there were all kinds of excitement like there isn't any
+political thing and so there were factions the housewife faction the mechanics faction you know the technical people faction so on well the bachelors
+and Bachelor girls the people who lived in the dormitories felt they had to have a faction because a new rule had been
+prated no women in the men's dorms well this is absolutely ridiculous all grown people of course haha and
+so what kind of nonsense and Stu so we had to have political action and we disced and we debated and all this stuff
+you know how it is and so I was elected to represent a domator people you see in the Town Council so I was in the Town
+Council for a while after I was in the Town Council about a year or so a year and a half I was talking once to hun bet about something and uh he was up in the
+governing in Council during all this time and I told him this story I forgotten about that I did this trick one time with my wife's stuff on the
+upper bed and he started to laugh he says Ah that's how you got on the Town Council because it turned out that what
+happened was this there was a report a very serious report the poor woman was shaking the woman who cleans the rooms in the dormatory it just opened and all
+Chapter 7: Bohr, Oppenheimer, Feynman, Fermi
+of a sudden there's trouble somebody's sleeping with one of the guys she Shak it she doesn't know what to do charwoman reports to the chief choman the chief
+choman reports to the lieutenant the lieutenant reports to the major it goes all the way up it goes all the way up through to the general to the governing board what are they going to do what are
+they going to do you're still going to think about it so in the meantime what in the meantime instructions go down bound through the captains down through
+the major through the lieutenant through the chief through the charwoman to just put things back the way they are clean them up and see what
+happens okay next day report same thing meantime for 4 days they worried up
+there what they're going to do so they finally promulgated a rule no women in the men's dormitories and that caused such a stink
+down there you see that they had have all the politics and they elected somebody to represent
+the S now I'd like to tell you about the censorship that we had they decided to
+do something utterly illegal which is the censor mail of people inside the United States in the continental United States which I have no right to do so it
+had to be set up very delicately as a voluntary thing we would all volunteer not to seal our envelopes that we would
+send the letters out with we would accept it' be all right if they would open letters coming into us that was
+voluntarily accepted by us and we would leave the letters open they would seal them if they were okay if they weren't okay okay in their opinion in other words they said something that we
+shouldn't send out they would send the letter back to us with a note that said there was a violation of such and such a paragraph of our understanding and so on
+so very delicately amongst all these liberal-minded scientific guys agreeing to such a proposition we finally got the
+censorship set up with many rules about that we were allowed to comment on the character of the administration if we wanted to so we could write our Senator
+and tell them we don't like the way things are run and things like that so it was all set up and uh they said that would notify us of any difficulty so the
+day starts the first day for censorship telephone bring me what please come down I come down what's this it's a letter
+from my father what is it there's lined paper and there's these lines going on with dots four dots under one dot above
+two dots under one dot above two what's that I said it's a
+code they said yeah what's a the code but what does it say I said I don't know what it says he said well what's the key to the code how do you decipher it I said I
+don't know then they said and what's this it was a letter from my wife it says TJX y wz TW W1
+X3 what's this I said another code what's the key to it I don't know they said you mean you're receiving codes you don't know the key I said
+precisely I said I have a game I challenged them to send me a code that I can't decipher see so they're making up codes at the other
+end then they're not going to tell me what the key is and they're sending them in now one of the rules of the censorship was that they aren't going to disturb anything that you would
+ordinarily do in the mail so they said well you're going to have to ask them please to send
+the key in with the code I said I don't want to see the key he says all right we'll take the key
+out so we had that Arrangement okay all right next day I get a letter from my wife which says uh it's very difficult
+writing because I feel that the is looking over my shoulder and in the spot there's nicely eradicated a splotch with
+a ink Eradicator so I went down to the bureau I says you're not supposed to touch the incoming male if you don't like it you can tell me but you're not supposed to do anything to it that you
+look at it but you're not supposed to take anything out they said don't be ridiculous that's not the way sensors work with ink Eradicator they cut things out with a
+scissors okay so I wrote a letter back to my wife did you use ink Eradicator in your letter she writes back no I didn't use incor in my later it must have been
+the and there's a hole cut out with a so I went
+back I went back to the guy in charge the the major who was supposed to be in charge of all this and complain this went on for several days I felt I was
+sort of the representative to get the thing straightened out he tried to explain to me that these people who were the sensors had been taught how to do it and they didn't understand this new way
+that we had to be so delicate about so I was trying to be the front to try to the one with the most experience I was writing to my wife back and forth every
+day anyway so he said what's the matter don't you think I have good will I saids yes you have perfectly good will but I don't think you have power cuz he had
+done three or four days he said we'll see about that he grabs the telephone everything was straightened out so no more was the letter cut however there was a number of difficulties that arose
+for example one day I got a letter from my wife and a note from the sensus said there was a code enclosed without the key and so we removed it so I went to
+Chapter 8: Left to right: Stanislaw Ulam, Richard Feynman, John von Neumann
+see my wife in Albuquerque that day she says well where's all the stuff I said what stuff she says liage glycerin hot dogs laundry I says wait a minute that
+was a list she says yes that was a code I said they thought it was a code liage glycerin list
+Lord then one day I'm jiggling around we in the first few weeks all this went on it was a few weeks before we ever got it straightened out but I'm ping around
+with the eding machine the Computing machine I noticed something so having writing every day I had lot of things I write it's very peculiar notice what
+happens if you take 1 divided by 273 you get .4 115 226 337 is quite cute and then it
+goes a little cockeye when the carrying occurs only for about three numbers and then you can see how the 101013 is really equivalent to 114 again
+or 115 again and keeps on going and I explained that how nicely it repeated itself after a couple of Cycles I thought it was kind of amusing well I
+put that in the mail and it comes back to me it doesn't go through and there's a little note look at paragraph 17b I look at paragraph 17b says letters are
+to be written only in English Russian Spanish Portuguese uh Latin I God knows what I can't German and so forth
+permission to use any other language must be obtained in writing and then it said no codes so I wrote back to the sensor a
+little note included in my letter which said of course this cannot be a code because there's no more if you actually do divide one into you do in fact get
+and I wrote the whole thing and therefore there's no more information in the number 11411 and there is in the number 273
+which is hardly any information and so forth I therefore ask for permission to write my letters in Arabic
+numerals I like to use Arabic numerals in my letter so I got that through all right there was always some kind of
+difficulty with the letters going back and forth for example at one time my wife kept insisting on mentioning the fact that she feels uncomfortable writing feeling that the censor is
+looking over sold and there was a rule we aren't supposed to mention censorship we are right but how can they tell her so they keep sending me a note your wife mentioned censorship sir my wife
+mentioned censorship so finally they sent me a note and said please inform your wife not to mention censorship in her letter so I take my letter and I start I have
+been instructed to inform you not to mention censorship in your letter boom boom comes right back
+so I right I have been instructed to inform an not the how in the heck am I going to do it furthermore why do I have to instruct an not the mener you're
+keeping something from me it's very interesting the sensor himself has to tell me to tell my wife not to tell me that
+she's but they had an answer they said yes that they're worried about the mail being intercepted on the way from Albuquerque and that they would find out
+that there was censorship if they looked in the mail and would she please act much more normal and so I went down the next time to have a K and I talked to her and I said now look let's not
+mention censorship but we had had so much trouble that we had at last worked out a code something illegal we had a code if I would put a dot at the end of
+my signature it meant that we had had trouble again and she would move on to the next of the moves that she had concocted she sit there all day long cuz
+she was ill and she'd think of things to do the last thing that she did was to send me because she found perfectly
+legitimately an advertisement that said s send your boyfriend a letter on a jigsaw puzzle here are the blank we sell
+you the blank you write the letter on it take it all apart and put a little sack in mail so I receed that one with a note
+saying we do not have time to play games please instruct please instruct your wife to confine herself to ordinary
+letters well we're ready with the one more dot but they got ready just in time but the thing that we had ready for the next one was the letter would start I
+hope hope you remember to open this letter carefully because I have included the Pepto bismo for your stomach as we arranged would be a letter full of
+powder in the office we expect they'd open it quickly the powder would go all over the floor they get all upset because not supposed to disturb anything
+you see have to gather this pep but we didn't have to use that one okay as a result of all these
+experiences with the sensor I knew exactly what could get through and what could not get through nobody else knew as well as I and so I made a little money fin out of all this by making
+bets one day on the outside fence the outside fence I had discovered that workmen who lived still further out and
+wanted to come in were too lazy to go around through the gate and so they had cut themselves a hole some distance along and so I went out the gate went
+over to the hole and came in went out again and so on until the guy the sergeant at the gate begins to wonder what's happening this guy's always going
+out and never coming in and of course his natural reaction with was to call a lieutenant and try to put me in jail for doing this I explained there was a hole
+so I was always trying to straighten people out point out there was a hole and so I made a bet with somebody that I could tell where the hole in the fence was in a mail mail it out and sure
+enough I did and the way I did it as I said you should see the way they administer this place see that's what we were allowed to
+say there's a hole in the fence 71 ft away from such in such a place that's this size and that size you can walk through now what can they do they can't
+say to me that there's no such home hole I mean what are they going to do it's their own hard look that there's such a hole they should fix the hole so they got that one through I also
+got through a letter which told about how one of the boys who worked in one of my groups had been wakened up in the middle of the night and grilled with
+lights in front of them by some idiots in the Army there because they found out something about his father or something I don't know supposed to be a his name was camon he's a famous man
+now well there were also some other things I was always trying to straighten out like point out the holes in the fence and so forth but always these
+things were I was always doing these pointings out in a nondirect manner and one of the things I wanted to point out was this that at the very beginning we
+had terribly important secrets we worked out lots of stuff about uranium how it worked and all this stuff was in documents that were in filing cabinet
+that were made out of wood that had on them little ordinary common padlocks and various things made by the
+shop like a rod that would go down and then a padlock to hold it but so is L the padlock furthermore you could get the stuff out even without opening the pad
+loock out of these wooden cab you just tilt it over backwards and the bottom drawer you know has a little rod that's supposed to hold in there's a hole in the wood underneath you can pull the
+papers out from below it so I used to pick the locks all the time and point out that it was very easy to do and every time we had a meeting of everybody
+together i' get up and I'd say that we have important secrets and we need better locks and so uh one day teller got up at the meeting I got up at and he
+says to me uh well I don't keep my most important secrets in my filing cab I keep him in my desk drawer isn't that better I said I don't know I haven't
+seen your desk drawer well he's sitting near the front of the meeting and I'm sitting further back so the meeting
+continues and I sneak out of the meeting and I go down to see his desk dra okay I don't even have to pick the lock on the
+desk dra it turns out if you put your hand in the back underneath you can pull out a paper like those toilet paper dispensers you pull out one it pulls another pulls
+another I emptied the whole damn drawer took everything out and put it away to one side and then went up on the higher
+floor and came back and the meeting is just ending and everybody's coming out and I join the crew like this you see and walking along with and run up to
+catch up with tell and says oh by the way let me see your desk drawer you see so he says certainly he saids so we walk into his office and he uh shows me the
+desk on I look at I that looks pretty good to me that's pretty safe it looks to me like it's pretty safe I said let's see what you have in there so he says
+I'd be very glad to show it he says putting the key opens it looks and he says if you hadn't already seen it yourself the trouble with playing a
+trick on a highly intelligent man like Mr Teller is the time that it takes him to figure out from the
+moment that he sees that there something wrong till he understands exactly what happened he's too damn small to give you
+any pleasure well I had a lot of other fun with the
+safes but it has nothing to do with Los Alamos so I won't discuss it further
+there we I want to tell about some of the special problems that I had that are rather interesting one of them had to do with the safety of the plant at Oak
+Ridge Los Alamos is going to make the bomb but at Oak Ridge they're trying to separate the Isotopes of uranium uranium 238 and uranium 236 the latter of which
+is the 235 which is the explosive one all right so they were just beginning to get
+infinite amounts from an experimental thing of the 235 and at the same time they were practicing there's a big plant
+that was going to be we going to have Vats of the stuff and they're going to chemicals and re take the purified stuff and then rep purify and get it ready for the next stage have to purify in several
+stages so they were practicing the chemistry on the one hand then they were just getting a little bit from one of the pieces of apparatus experimentally on the other hand and they were trying
+to learn how to assay it to determine how much uranium 235 there is in it and we would send instructions and they
+never got it right so finally SRA said that the only possible way to get it right is to go down there to see what they're doing to understand why the ass
+say is wrong the army people said no it our policy to keep all the information Los Alamos in one place and that the people in O would not know anything
+about what it was used for they just knew what they were trying to do I mean the higher people knew they were separating uranium but they didn't know how full of bomb was or exactly how it
+worked or anything and the people underneath didn't know at all what they were doing the Army wanted to keep it that way that there was no information going
+back and forth but SRA finally insisted on it that it was important they would never get the assays right the whole thing would go up and smoke so SRA went
+down to see what they were doing and as he was walking through he saw them Wheeling a tank cboy of water green
+water the green water is uranium nitrate he says uh you're going to handle it like that when it's purified
+too they said sure why not well W it explode he says huh explode how are they going and so the Army said you see we
+shouldn't have let any information go across well it turned out that the Army
+had realized how much stuff we needed to make a bomb 20 kg or whatever it was and they realized that that much material purified would never be in the plant so
+there was no danger but they did not know that the neutrons are enormously more effective when they're slowed down in water and so in water it takes less
+than a 10th no 20 100th very much less material you can make a reaction which makes radioactivity doesn't make a big explosion but makes radioactivity kills
+people around and so on so it was very dangerous and they had not paid any attention to safety at all so a telegram
+goes from opheim to S go through the entire plant notice where all the concentrations are supposed to be with the process as they've designed it we
+will calculate in the meantime how much material can come together before there's an explosion and so two groups started working on it Christie's group
+worked on Water Solutions and I worked on dry powder in boxes my group and we calculated about how much material and
+Christy was going to go down and tell them all at Oak Ridge what the situation was the whole thing was broken down we have to go down and tell them now and so
+I happily give all my numbers to Christie and say you have all this stuff you go Christie got pneumonia I had a go
+I never traveled in an air before I traveled in an airplane they strapped the secrets with a little thing with belt on my
+back the airplane in those days were like a bus you stop off every once in a while except the stations were further apart you stop off and wait there's a
+guy standing next me with a chain swinging like this saying something like it must be terribly difficult to fly without a priority on airplanes these
+days I couldn't resist I said well I don't know I said I have a priority a little bit later it looks like some general are coming they're going to put
+out some of us number threes it's all right I'm a number two he probably wrote to his Congressman
+if he wasn't a congressman himself saying what are they doing sending these little kids around with number two priorities in the middle of the
+wall at anyway I arrived there and the first thing I did was had them take me through the plant and I said nothing I just looked at everything I found out
+that the situation was even worse than SRA reported because he was confused the first time you noticed certain boxes in Big Lots and he didn't notice another
+boxes in another room in a big lot but it was the same room on the other side and things like that so if you have too much stuff together it goes up you see so it was right I went through the
+entire plant and I have a very bad memory but when I work intensively I have a good shortterm memory and so I could remember all kinds of crazy things
+like building 9207 vat number so and so and so forth you see so I had all that stuff I went home that night and I went through the whole thing explaining where
+all the dangers were what you would have to do to fix this rather easy you put cadmium in solutions to absorb the neutrons in the water you separate the
+boxes so they're not too dense too much uranium together and so on according to certain rules and so I worked out all the examples and how it worked I felt
+that you couldn't make the plant safe unless you knew how it worked and so forth so the next day there's going to be a big meeting I forgot to say before
+I left Oppenheimer said to me uh now he said when you go their following people are technically able down there at Oak
+Ridge Mr Julian web so and so and so I want you you to make sure that these people are at the meeting that you tell them the safety problem that they really
+understand they're in charge of and I said suppose they're not at the meeting what am I supposed to do he said then you should say Los Alamos cannot accept
+the responsibility for the safety of the Oakridge plant unless these guy I said you mean me Little Richard's going to go in there and say he says yes Little
+Richard you go and do that said I really grow up fast I so when I arrived sure enough I arrived there and the meeting was the next day and all these people
+from the company the big shots in the company and the technical people that I wanted were there and the generals and so forth that were interested in the problems and organizing everything it
+was a big meeting about this very serious problem of the safety because the plant would never work it would have blown up I swear it would have if nobody had paid attention to
+it so there was a lieutenant who took care of me he told me that some Colonel says that I shouldn't tell him how the neutrons work and all the details
+because we want to keep the thing separate by just tell them what to do to keep it safe I said in my opinion it's impossible for them to understand or to
+obey to rules that they don't understand unless they understand how it works and so it's my opinion that it's only going to work if I tell him and La solos
+cannot accept the responsibility for the safety oakd plant unless they are fully informed as to how it works it was
+great so he goes to the colonel and he says it to Colonel turn just five minutes he says so he goes to the window and he starts and thinks and that's what
+they're very good at they're good at making decision I thought it was very remarkable how a problem of whether or not information
+as to how the bomb Works should be in the LK Ridge plant or not had to be decided and could be decided in 5 minutes so I have a great deal of
+respect for these military gu because I never can decide anything very important in any length of time at all so he looks five minutes he says all right Mr fman
+go ahead so he sat down I told him all about neutrons how they work know they too many neutrons together you got to keep the material apart cadmium absorbs
+them slow neutrons are more effective than fast neutrons yak yak all stuff which was Elementary Prim stuff at Los Al but they had never heard of any of it
+so I turned out to be a tremendous genius to them I was the Gods coming down from the sky with all all these phenomena that were not understood never
+heard of before I knew all about it I could give facts and numbers and everything else so by being rather primitive back there at Los Al I was a
+super genius at the other end well the result was that they made little groups to make their own calculations to learn how to do it they
+started the redesign the designers of their plants were there the construction designer Engineers chemical Engineers for the new plant that was going to
+handle a separated material were there and other people were there and I went away again they told me to come back in a few months they were going to redesign their plant for the
+separation so I came back in a month or so and stone and Webster company Engineers had finished design the plant and now it was for me to look at the
+plant okay how do you look at a plant that ain't built yet I don't know so I go into this room with these fellas take me into the room there was always a
+lieutenant Zumwalt that was always coming around with me taking care of me you know I had to have an escort everywhere so he goes with me takes me into this room and there are these two
+engineers and a long table great big long table tremendously covered with a blueprint that's as big as a t not one
+blueprint but a stack of blueprints like this I took mechanical drawing when I was in school but I wasn't too good at reading blueprints so they start to
+explain it to me because they thought I was a genius and they start out Mr P would like you to understand the plant is so designed you see one of the things
+we had to avoid was accumulation problems like there's an evaporator working which is trying to accumulate stuff if a valve gets stuck or something like that and it accumulate too much
+stuff it'll explode so they explain to me that this plant is designed so that no one valve if any one valve gets stuck nothing will happen it needs at least
+two valves everywhere okay so then explain how it works the carbon tetrachloride comes in here the uranium nitrate from here comes in here goes up
+and down it goes through the floor comes up through the coming up from the second floor through the footprints down up down up very fast talking explaining it
+very complicated chemical plant I'm completely dazed worse I don't know what the symbols on the blueprint
+mean there's some kind of a thing that at first I think it's a window it's a square with a little cross in the middle like this all over the damn place lines
+with this damn Square lines with this damn Square I think it's a window no it can't be a window cuz it ain't always at the
+edge I you want to ask him what it is now you must have been in a situation like this you didn't ask him right away right away it would have been okay but
+they've been talking a little bit too long you hesitated too long if you ask him now he'll say what are you wasting
+my time all this time for I don't know what to do I think to myself I swear I often in my life I've been lucky you are
+not going to believe this story but I swear it's absolutely true it's such Sensational luck of I what am I going to do what am I going to do
+I got an idea maybe it's a valve so we ordered to find out whether it's a valve or not I take my finger and I put it down in the middle of one of the blueprints on page number three down in
+here and I said what happens if this valve gets stuck figuring they're going to say that's not a valve so that's a window so one looks at the other says
+well if that valve gets stuck and they go up and down in the blueprints up and down the blueprint other guy up and down and blueprints back and forth and back and forth and back they both look at each other and they chick chick chick and they turn around to me and they open
+them up like this you're absolutely right sir
+[Applause]
+so uh they rolled up the blueprints of the way they went and we walked out and Mr zumalt who'd been following
+me all the way through he says you're a genius he says I got the idea you're a genius when you went through the plant once and you could tell him about evaporator c21 and
+build a 9207 the next morning he says and when you knew all about about the newr but what you have just done he said
+was so fantastic I want to know how how do you do something like that I told him you try to find out whether it's a valve or
+not that's well another kind of problem that
+I worked on was this we had to do lots of calculations and we did them on MAR and calculating machines by the way just
+to give you an idea what Los alos was like we had these marant computers I don't know if you know what they look like hand calculator with numbers and you push them and they multiply divide
+add and so on not like they do easy now but hard they were mechanical gadgets and they had to be sent back to the factory to be repaired we didn't have a
+special man to do it and that was the standard way to do it and so they were always being sent to the factory and pretty soon you were running out of machines so I and a few other fellas
+started to take the covers off we weren't supposed to as a rule you take the covers off we cannot be responsible so we took the covers off we had nice series of lessons like the first one we
+took the cover off for there was a Sha with a hole in it and a spring which was hanging this way and obviously the spring went in the hole so it was easy
+so we got like a series of lessons by God and how to fix them and we got better and better and we did more and more elaborate repairs when we got something too complicated we send it out
+back to the factory but we' do the easy ones and kept the things going uh I also did some typewriters I ended up doing all the computers the other fellas quit
+on me I did a few typewriters but was a guy in the Machine Shop who was better than I was and he took care of typew Rise I took care of heading
+machines however we decided that the big problem which was to figure out exactly what happened during the bomb's explosion when you push the stuff in by
+an explosion and then it goes out again exactly what happened so we could figure out how much energy was released in so on required much more calculating than
+we were capable of and the rather L fellow by the name of Stanley Frankl realized that it possibly could be done on IBM machines the IBM company had
+machines for business purposes which adding machines they called tabulators for listing sums and multiplier just the machine big machine you put cards in and
+it would take two numbers from a card and multiply and print it on the card and then they were caters and sorters and so on so he figured out a nice program if we got enough of these
+machines in the room we could take the cards and put them through a cycle everybody who does numerical calculation now knows exactly what I'm talking about but this is kind of a new thing mass
+production with machines we had done things like this on adding machines usually you go one step across yourself doing everything but this was different
+we go first to the add then we go to the multipli then we go to the adder and so on so he designed this thing and ordered the machines from the IBM company we
+realized it was a good way of solving our problems and we found that there was somebody in the army that had IBM training we needed a man to repair them
+to keep them going and everything and they were going to send this fell but it was delayed always delayed now we always were in a hurry I have to explain that
+everything we did we tried to do as quickly as possible so in this particular case we worked out all the numerical steps that the machines were supposed to do multiply this and then do
+this and subtract that know we wored without the program but we didn't have any machines to test it on so what we did is we all I arranged was a room with
+girls in it each one had a marshan but she was the multiplier and she was the A and this one cubed so we we had cards
+index cards all she did was Cube this number and send it to the next one she was imitating the multiplier the next one's imitating the era and we went through our cycle we got all the bugs
+out well we did it that way and it turned out that the speed at which we were able to do it we've never done mass production calcula everybody ever
+calculated before your single person did all the steps but his for had a good idea the damn thing works a hell of a
+lot faster the other way and we got speed with this system that was the predicted speed for the IBM machines the
+same the only difference is that the IBM machines didn't get tired and could work three shifts but the girls got tired after a while so anyway we got the bugs
+out during that process and finally the machines ared but not the repair man so we went down to put them together one of
+the most complicated Machines of Technology of those days these Computing machines a big thing they came partially disassembled with lots of wires and
+blueprints of what to do we went down and we put them together Stan Franklin and I and another F and uh we had our trouble most of the trouble was the big
+shots coming all the time and saying you're going to break something you're going to break something we put them together and sometimes they would work and sometimes
+they were put together wrong and they didn't work so he fiddled around and they got it to work we didn't get them all to work and I was at last working on
+some multiply I saw a bent part inside but I was afraid to straighten it because it might snap off and they were always telling us we're going to bust it
+irreversibly and finally the man from the IBM company came in time as a matter of fact according to schedule but he came and he fixed the rest that we
+hadn't got ready and everything was going we got the program going but he had trouble with the one that I had had trouble with I couldn't fix so after 3 days he was still working on that one
+last one I went down I oh I noticed that was B oh he says of course he that's all I is to
+it was all right so that was it well Mr Frankle started this program
+and began to suffer from a disease the computer disease that anybody who works with computers now knows about it it's a very serious disease and it interferes completely with the work it was a
+serious problem we were trying to do the disease with computers is you play with them they're so wonderful you have these X switches that determine if it's a even
+number you do this and if it's an odd number you do that and pretty soon you can do more and more elaborate things if you're clever enough on one machine and so after a while it turned out the whole
+system broke down he wasn't paying any attention he wasn't supervising anybody the system was going very very slowly the real problem while he was sitting in
+a room figuring out how to make One tabulator automatically print arc tangent X and then it would start and
+print columns and then and calculate the arc tangent automatically by integrating as it went along and make the whole table in one operation absolutely
+useless we had tables of AR then but if you've ever worked with computers you understand the disease the Delight to be able to see how much you
+can do but he got the disease for the first time the poor fellow who invented the thing got the disease and so I was asked to stop working on the stuff I was
+doing in my group and to go down and to take over the IBM group and so I noticed the disease and I tried to avoid the disease and although they did three
+problems in 9 months I had a very good group the first problem was that they had never told the fellas they had selected all over the country thing called special engineer Detachment
+clever boys from high school to go into the army who had engineering ability and they collected them together special engineer Detachment they sent them up to La Alamos they put him in barracks and
+they would tell them nothing then they came to work and what they had to do was work on IBM machines punching holes numbers that they didn't understand nobody told them what it was the thing
+was going very slowly I said that the first thing it has to be is that the technical guys know what we're doing so upim went and talked to the security and
+got special permission so I had a nice lecture which I told them what we're doing they were all excited we're fighting a war we see what it is they knew what the numbers meant if the pressure came out High it meant was more
+energy release and was and so on and so on they knew what they were doing complete transformation they began to invent ways
+of doing it better they improved the scheme they worked at night they didn't need supervisors in the night they didn't need anything they understood everything they invented several of the
+programs that were used and so forth so my boys really came through and all they had to be done was to tell them what it was was that's all they just not tell
+them they're punching holes please as a result although it took them 9 months to do three problems before we
+did nine problems in three months nearly 10 times as fast but one of the secret ways that we did our problems was this the problem consisted of a bunch of
+cards which had to go through a cycle first add then multiply and so it went through the cycle of machines in this room slowly about as it went around and
+around so we figured a way by taking a different colored set of cards to put them through a cycle too but out of phase we' do two or three problems at a
+time see this was another problem but while this one was adding that was multiplying on the other problem and such managerial schemes we got many more
+problems finally near the end of the war just before we had to make a test in Albuquerque the question was how much
+would re released we had been calculating and release from various designs but the specific design which is ultimately used we hadn't computed so
+Bob Christie came down and said we would like the result for how this thing is going to work in one month or some very short time less than that 3 weeks I said
+it's impossible but he says look you're putting out so and so many problems a month it takes only two 3 weeks per problem I said I know it takes much longer to do the problem but we're doing
+them in parallel they go through it takes a long time and there's no way to make it go around faster so he went out and I began to think is there a way to
+make it go around faster well if we did nothing else on the machine so there was nothing interfering and so on so I began to think I put on the black Bo a
+challenge can we do it to the boys they all St yes we'll work double shift we'll work over time we'll try it we'll try it
+and so the rule was all of the problems out only one problem and just concentrate on this thing and so forth so they started to work and my wife died
+in Albuquerque I had to go down I borrowed fuch's car he was a friend of mine in the dormatory he had an automobile he was using the automobile
+to take the secrets away you know at Santa Fe he was the Spy I didn't know that I borrowed his car to go to Albuquerque the damnn thing got three
+flat tires on the way I came back from there and I went into the room CU I was supposed to be
+supervising everything but I couldn't do it for 3 days and it was in this mess this big rush to get the answer for the test that was going to be done in the
+desert I go into the room and there are three different color cards there's white cards there's blue cards there's yellow cards and I start to say but
+you're not supposed to do more than one problem only one problem they said get out get out get out wait we'll explain everything so I waited and what happened was this as
+they went through sometimes the machine made a mistake where they put a wrong number in what we used to have to do when we find something to go back and do
+that over again but they notice this that there's a deck of cards representing positions in depth in space of something the mistake made here in
+one cycle only affects the nearby numbers and next cycle affects the nearby numbers s it only works its way through the pack of cards you have 50 cards you make a mistake in card number
+39 it affects 37 38 and 39 the next time 36 37 38 39 and 40 next time it spreads
+like a disease the error so they found an error back way and they got an idea they would only compute a small deck of
+10 cards around the era and because 10 cards could be put through the machines faster than the deck of 50 cards they
+would go with this other deck rapidly through while they continued with the 50 cards with the disease spreading but the other thing was Computing faster and
+they would seal it all up and correct it okay very clever there was the way those guys work really hard very clever to get speed there's no other way if Z had
+stopped to try to fix it we'd have lost our turn we couldn't have got it result that's what they were doing of course you know what happened while they were doing that they found an era in the blue
+deck and so they had a yellow Deck with fewer cards it was going around faster and the Blue Deck I just when they going
+crazy you know because after they get it straight now they got to fix the white one they got to take the other cards out and replace it by the right ones and continue correctly and it's rather confusing you how those things always
+are you don't want to make a mistake and just at the time when they got these three decks going they're trying to seal every the there the boss comes walking in leave us alone they said so I left
+them alone and everything came out we solved the problem in time and uh that's the way it worked I would like to uh tell you just a few words about some of
+the people that I met I was an underling at the beginning I became a group leader but I met some very great men beside the men on the evaluation committee the men
+that I met in Los angos and there's so many of them that it's just one of my great experiences in life was to have met all these wonderful physicists men
+that I had heard of smaller and larger but the greatest ones were there also there was of course fairy he came down
+once the first time that he came he came from Chicago to consult a little bit to help us if we had some problems and we had a meeting with him and I had been
+doing some calculations and gotten some results the calculation was so elaborate was very difficult now usually I was the expert at this I could always tell you
+what the answer was going to look like or when I got it I could explain why but this thing was so complicated I couldn't explain why it was like that so I said
+to family that I was doing this problem and I start the kite to get before you tell me the result let me think it's going to come out like this he's right
+and it's going to come out like this because of so and so and it's a perfectly obvious explanation of the thing that I so he was doing what I was supposed to be good at 10 times better
+so that was quite a lesson for me then there was Von noyman who was the great mathematician he suggested I won't go into the things here some very clever
+technical observations we had some very interesting phenomena in the Computing the numbers the problem looked as if it was unstable and he explained why and so
+forth he was very good technical advice but we used to go for walks often to get rest like on Sunday or something we walk in the canyons in the neighborhood we
+often walk with Bayer and Van noyon and bker it was great pleasure and the one thing that van noyon gave me was an idea that he had which is interesting that
+you don't have to be responsible for the world that you're in and so I have developed a very power powerful sense of social irresponsibility as a result of
+Norman advice and I've made me a very happy man since I but it was Van Norman who put the seed in which grew now into
+my active irresponsibility I also met Neil's boore that was interesting he came down his
+name was Nichols Baker in those days and he came with Jim Baker his son whose name is really oore they came from Denmark and they came to visit and there
+were very famous physicist as you all know and all the big shot guys to him they was even the great God just so they were listening to him he was talking
+about things and we were at a meeting and everybody wanted to see the great boy so there were a lot of people and I was back in the corner somewhere and they discussed the problems of the
+bomb that was the first time he came in he went away and all I could see him from between somebody's heads from the corner next time he's due to come in the
+morning of the day he's due to come I got a telephone call hello Fineman yes this is Jim Baker it's his son
+my father and I would like to speak to you me I'm fine man I'm just that's right okay so 8:00 in the morning before
+anybody I go down to the place we go into an office in a technical area and we started this St he says we have been thinking how we could make the bomb more
+efficient that we think of the following idea so no a going to work it's not good list and that he say how about so and so I said that sounds a little bit better
+now but I've got this damn full idea in it so forth back and forth I I was always dumb about one thing I never knew who I was talking to I would only worry
+about the physics if the idea looked lousy I said it looked lousy if it looked good I said it looked good simple proposition I've always lived that way it's nice it's Pleasant if you can do it
+I'm lucky just as lucky as I am with that blueprint I'm lucky in my life that I can do that so after this went on for about two hours of going back and forth
+over lots of ideas at the back and forth arguing the great Neil's always lighting his pipe perpetually it always went out
+and he talked in a way that was ununderstandable your question your question is hot to understand I couldn't understand him but his son I could
+understand that finally he said well he says lighting his pipe I guess we can call in the big shots now so then they called
+all the other guys and had a discussion with them and his son told me that what happened was the last time he was there he said to his son remember the name of
+that little fell in the back over there he's the only guy that's not afraid of me and we'll say when I got a crazy idea
+so next time when we want to discuss ideas and not going to be able to do it with these guys who all say everything is yes yes Dr Bo get that guy first
+we'll talk with him first so that was
+it well it's almost finished uh the next thing that happened was of course the test after we' made the
+calculations we after made the test I was actually at home on a short vacation at that time because I guess because my
+wife died and so I got a message that said the baby was expected on such and such a day so I flew back and I just
+arrived on the site while the buses were leaving I couldn't even get to my room and I got out to the site and we waited out there at the distance we were 20 mil
+away and we had a radio and they were supposed to tell us when the thing was going to go off and so forth and the radio wouldn't work and we never knew what was happening but just a few
+minutes before it was supposed to go off the radio started to work and they told us there was 20 seconds or something to go the people that were far away like we
+were the others were closer 6 miles away and uh they gave out dark glasses that you can watch us dark glasses we're 20
+miles away from the damn thing we dark glasses I said they're going to see a damn thing through dark
+glasses and so what I figured Al the only thing that really hurt your eye bright light never can hurt your eye it's ultraviolet light that does so I
+got behind a truck windshield so that the ultraviolet can't go through glass so that would be safe and so I could see the damn thing other people are never
+going to see the damn thing okay time comes and this tremendous flash out there so bright I quickly My head goes
+like this because it was so bright and I see this purple splotch on the floor of the truck and I says that ain't it that's an afterimage so I turn back
+up and I see this this white light changing into yellow and into orange the clouds form and then they disappear
+again the compression and the expansion forms and makes clouds disappear and I saw and then finally a big ball of uh
+orange it become a center that was so bright became a ball of orange that started to rise and Billow a little bit and get a little bit black around the edges and then you see it's a big ball
+of smoke with flashes on the inside of the fire going out the Heat and I saw all that and all this that I've just described in just a moment took about 1
+minute it was a series from Bright to dark and I had seen it I'm about the only guy in the world who actually looked that the damn thing the first Trinity test everybody else had dark
+glasses the people of 6 miles couldn't see it because they were all told to lie on the floor with the eyes like this so nobody saw it and the guys up where I
+was all had dark glasses I'm the only guy I saw it with the human eye finally after about a minute and a
+half suddenly there's a tremendous noise bang and then rumbles like thunder and that's what convinced me nobody had said
+a word during this whole minute we're all just watching quietly but this sound released everything body at least me particularly because the solidity of the
+sound at that distance meant that it really worked uh the man who was standing next to me said when the sound
+off what's that I said that was the Bob the man was William Lawrence who had come he was going to write an article
+going to describe the whole situation I had been the one who was supposed to have taken him around uh it was found that it was too technical for him and so
+later Mr Smite came around and I showed Mr Smite around when I was showing Mr Smite around we went into a room and there on
+the end of a pedestal a little narrower than that was a small ball about so big silverplated you could put your hand on
+it was warm it was radioactive it was plutonium and we stood at the door of this room talking about it there was a
+new element that was made by man that had never existed on the earth before except for very short period possibly at the very beginning and here was all
+isolated radioactive and had these properties and we had made it and so it was tremendously valuable there nothing more valuable and so forth and so on
+meanwhile you sort of you know how people do when you talk you kind of Dibble around and jiggle and so forth he's kicking the door stop you see I says yes and I said and the door stop is
+appropriate to the door the door stop was a hemisphere yellowish metal gold as a matter of fact it was a gold hemisphere about so big what had
+happened was we needed to do experiments to see how many neutrons were reflected by different materials in order to save the neutrons so we didn't use so much
+material and so we had tested many different materials we had tested Platinum we had tested zinc we tested brass we tested gold so making the test
+with the gold we had these pieces of gold and somebody had the clever idea to use that great ball of gold for a door
+stop for the door that contain the plutonium which is quite appropriate after the thing went off there was tremendous excitement at Los
+alos everybody had parties we all ran around I sat on the end of a Jeep and beat drums and so except for one man that I remember his
+name was Bob Wilson who got me into it in the first place he's sitting there moping say what are you moping about he says it's terrible thing we made I said
+but just start it you got us into it you see what happened to me and what happened to the rest of us is we started for a good reason but then we're working
+very hard to do something and to accomplish it is a pleasure it's excitement and you don't stop to think any you know you just stop after you
+thought at the beginning you stopped thinking so he was the only one who was still thinking about it at that particular moment I returned to civilization shortly after that and went
+to Cornell to teach and my first impression was a very strange one and I can't understand
+anymore but I felt very strongly then I'd sat in a restaurant in New York for example and I looked out at the buildings and how far away I would think
+you know how much the radius of the Hiroshima bomb damage was and so how far down there was down to 34th Street all
+those buildings all smashed up and so on and I got a very strange thing I would go along and I'd see people building a bridge or they're making a new road and
+I thought they're crazy they just don't understand they don't understand why are they making new things that's useless but fortunately it's been
+useless for 30 years now wasn't it almost maybe we'll make 30 years so I've been wrong for 30 years about being useless to make
+bridges and I'm glad that those other people were able to go ahead but my first reaction after I was finished with this thing was it's useless to make
+anything thank you very much
+much yes I want mention a story about some saes yes well so what's the
+question could you tell us that story well there's a lot of stories about safes if you give me 10 minutes I'll tell you three stories about safes all right
+[Applause]
+all right now I'll tell you more stories about safe the fact that I was able to pick the locks uh interested me in the safety
+of the whole thing somebody had taught me how to pick locks then they got filing cabinets which had safe combinations one of my diseases one of my things in life is
+anything that secret I try to undo and so those filing cabinets were made by the mosa Lock Company we put our
+documents after that everybody had them they represented a challenge to me how the hell to open them so I worked on them and I worked on him there's all
+kinds of stories about how you can feel the numbers and listen to things and so on that's true and I understand it very well for oldfashioned sakes they had a new design so that nothing would be
+pushing against the wheels while you were trying them I would't go into the technical details but none of the old method would work I read books by locksmiths books by
+locksmith always say in the beginning how the safe's under water and a woman who drowny go something you open a safe I don't know a crazy story and then in the back they tell you how they do it
+and they don't tell you anything sensible it doesn't sound like they could really open safes that way like guess the combination on the basis of the psychology of the person who owns
+it so I always figured they keep it a secret anyway I kept working and so like a kind of a disease I kept working on these things until I found out a few
+things first I found out how big a range you need to open the commentation how close you have to be and then I invented a system by which you could try all the
+combinations that you'd have to try 8,000 it turned out because you could be within two of every number and it turns out that's every fifth number out of 100
+and 20,000 20 8,000 combinations and then I worked out a scheme by which I could try numbers without altering a number that I already set by correctly
+moving the wheels so that I could do it in 8 hours to try all the combinations and then I discovered still further this took me about two years of
+researching I had nothing to do up there you see and I was fiddling finally I discovered a way that it's easy to take the the last two numbers of the
+combination off the safe if the safe is open if the draw is pulled out and you can turn the number and see the bolt go up and play around and find out what
+makes it what number it comes back at and stuff like that with a little trickery you can get the combination off so I used to practice with like a card
+shop practices cards you know all the time all the time all the time quicker and quicker more and more unobtrusively I would come in and i' talk to some guy
+and I kind of lean against his filing C just like I'm playing with this watch now you wouldn't even notice I'm doing anything I'm not doing anything I just play with the wild that's so well just
+play with the dial but I was taking the two numbers off and I go back to my office and I write the numbers down the last two numbers of the three
+now if you have the last two numbers it takes a minute to try the first number there's only 20 possibilities and it's open okay take three minutes to open a safe if you know the last two numbers so
+I got an excellent reputation for safe cracking they would tell to me Mr schmal is out of town we need a document from his safe can you open
+it I'd say yes I can open it I have to get my tools I don't need any tools I go to my office and I look at the number his safe I had the last two
+numbers I had everybody safe in my office I put a screwdriver in my back pockets CU I would account for the tool I claimed I needed I'd go back to the
+room and I would close the door the attitude is that this business about how you open state is not something that everybody should know because it's very
+you know it makes everything unsafe it's very dangerous to have everybody know how to do this so I close the door and then I sit down and read a magazine or
+do something I'd average about 20 minutes of doing nothing and then I'd open it to see well I open it right away make sure everything was all right and I'd sit
+there for 20 minutes to give myself a good reputation that it wasn't too easy there was no trick to it no trick to it and then I come out I say you know sweating a bit it's
+open there you are and so forth okay I also at one particular moment I did open a safe purely by accident and
+that helped to enforce my reputation it was a sensation it was pure luck the same kind of luck I had with the blueprints but uh after the war was over
+I went back to Los Alamos to finished some papers and there I did some safe opening which I could write a safe cracker book better than any safe cracker book it would start in the
+beginning and it would explain how I opened the safe absolutely cold without knowing the combination which contained more secret thing than any safe has ever
+been opened I opened the safe that contained behind it the secret of the atomic bomb all the secrets the formulas the rates at which neutrons are liberated from uranium how much uranium
+you need to make a bombb all the theories all the calculations whole damn thing this is the way it was done all
+right I was trying to write this report I needed this report it was a Saturday I thought everybody work I thought it was like Los Alamos used to be so I went
+down to the library the library at Los Al had all these documents and there was a great Vault with a great knob of a different kind of Knob I didn't know
+anything about it filing cabins I understood but I was only an expert on filing Camp not only that but there were guards walking back and forth in front
+with guns so you can't get that one open okay so I didn't get that and I think wait old Freddy de Hoffman in a
+declassification section he's in charge of declassifying document Which documents now can be Declassified and so he had to run down to the librarian back
+so often he got tired of it and he got a brilant idea did he get a copy made of every document in the B Alamos library right and he sck it in his filing cab
+and he had nine filing cabinets one right next to the other in two rooms full of all the documents of Los Alamos and I knew he had that so I'll go up to
+the hop and I'll ask him to borrow the document from him he's got a copy so I went up to his office and the office doors open and it looks like it's coming
+back the light is lit looks like he's coming back any minute so I wait and as always when I'm waiting I diddle The Knobs I tried 10 20 30 didn't work 20 40
+60 didn't work try everything I'm waiting nothing to do then I begin to
+think you know those locksmith people I ain't never been able to figure out how to open them cleverly maybe they
+don't either maybe all the stuff they're telling me about psychology is right I'm going to open this one by
+psychology first thing first thing in the book it says the secretary is very often nervous that she will forget the combination and she's been told the
+combination she might forget and the boss might forget she has to know so she nervously writes it somewhere list of places where secretaries write
+combinations okay starts out with you know the most clever things starts right out with you open the drawer and the wood along the side of the drawer on the outside is written carelessly a number
+like as if it was a invoice number that's the combination number so it's on the side of the desk okay I I remember that in the book best BR Locker I could
+pick the lock easy I open the lock right away pull out the drawer look Al the wood nothing all right sorry there's a lot of papers in the drawer I fish
+around among the papers and finally I find is a nice little piece of paper which is the Greek alphabet Alpha Beta Gamma Delta and so forth carefully printed the SEC have to know how to make
+those letters and have to call them when they're talking about them right so they all Had Each one had a copy of this thing but carelessly scrolled across the
+top is pi is equal to 3.14159 well why does she need the numerical value of pi she's not
+Computing anything so I go up to the safe sonest it's like any other book The only I'm just telling you how it was done I walk up to say 3141 59 doesn't
+open 13 1495 doesn't open 95 14 13 doesn't open 41 31 20 minutes I'm
+turning pie upside down nothing happened so I start walking out of the office and I remember the book about the
+psychology and I said you know but it's true psychologically I'm right Freddy de Hoffman is just the kind of a guy to use
+a mathematical constant for his safe combination so the other important mathematical constant is e so I walk
+back to the safes 27 1828 click it
+opens I checked by the way that all the combinations were the same well there's a lot of stories about
+it but it's getting late and that's a good one so we'll let it go with that
+good
+

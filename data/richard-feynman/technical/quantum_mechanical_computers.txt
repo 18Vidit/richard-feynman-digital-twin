@@ -1,0 +1,730 @@
+---
+title: Quantum Mechanical Computers
+author: Richard P. Feynman
+year: 1986
+source_type: journal article
+topic: quantum computing, reversible computation, Hamiltonian
+source_url: http://www.quantum-dynamic.eu/doc/feynman85_qmc_optics_letters.pdf
+
+Quantum Mechanical Computers
+By Richard P. Feynman
+Introduction
+His work is a part of an effort to T
+analyze the physical limitations
+of computers due to the laws of
+physics. For example, Bennett! has
+made a careful study of the free energy
+dissipation that must accompany computation. He found it to be virtually
+zero. He suggested to me the question
+of the limitations due to quantum mechanics and the uncertainty principle. I
+have found that, aside from the obvious
+limitation to size if the working parts
+are to be made of atoms, there is no
+fundamental limit from these sources
+either.
+We are here considering ideal machines; the effects of small imperfections will be considered later. This study
+is one of principle; our aim is to exhibit
+some Hamiltonian for a system which
+could serve as a computer. We are not
+concerned with whether we have the
+most efficient system, nor how we
+could best implement it.
+Since the laws of quantum physics
+are reversible in time, we shall have to
+consider computing engines which
+obey such reversible laws. This problem already occurred to Bennett¹, and
+to Fredkin and Toffoli², and a great deal
+of thought has been given to it. Since it
+may not be familiar to you here, I shall
+review this, and in doing so, take the
+opportunity to review, very briefly, the
+conclusions of Bennett2, for we shall
+confirm them all when we analyze our
+quantum system.
+It is a result of computer science that
+a universal computer can be made by a
+suitably complex network of interconnected primitive elements. Following
+the usual classical analysis we can imagine the interconnections to be ideal
+wires carrying one of two standard voltages representing the local 1 and 0. We
+can take the primitive elements to be
+just two, NOT and AND (actually just
+the one element NAND = NOT AND
+suffices, for if one input is set at 1 the
+output is the NOT of the other input).
+They are symbolized in Fig. 1, with the
+logical values resulting on the outgoing
+wires, resulting from different combinations of input wires.
+From a logical point of view, we must
+consider the wires in detail, for in other
+systems, and our quantum system in
+particular, we may not have wires as
+OPTICS NEWS
+such. We see we really have two more
+logical primitives, FAN OUT when two
+wires are connected to one, and EXCHANGE, when wires are crossed. In
+the usual computer the NOT and NAND
+primitives are implemented by transistors, possibly as in Fig. 2.
+What is the minimum free energy that
+must be expended to operate an ideal
+computer made of such primitives?
+Since, for example, when the AND operates the output line, c'is being determined to be one of two values no matter
+what it was before the entropy change is
+In(2) units. This represents a heat generation of kT In(2) at temperature T. For
+many years it was thought that this represented an absolute minimum to the
+quantity of heat per primitive step that
+had to be dissipated in making a calculation.
+The question is academic at this time.
+In actual machines we are quite concerned with the heat dissipation question, but the transistor system used actually dissipates about 1010kT! As
+Bennett3 has pointed out, this arises
+because to change a wire's voltage we
+dump it to ground through a resistance;
+and to build it up again we feed charge,
+again through a resistance, to the wire.
+It could be greatly reduced if energy
+Richard P. Feynman is a professor of theoretical physics àt California Institute of Technology.
+This article is based on his plenary talk presented at the CLEO/
+IQEC Meeting in 1984.
+February
+could be stored in an inductance, or
+other reactive element.
+However, it is apparently very difficult to make inductive elements on silicon wafers with present techniques.
+Even Nature, in her DNA copying machine, dissipates about 100 kT per bit
+copied. Being, at present, so very far
+from this kT In(2) figure, it seems ridiculous to argue that even this is too high
+and the minimum is really essentially
+zero. But, we are going to be even more
+ridiculous later and consider bits written on one atom instead of the present
+1011 atoms. Such nonsense is very entertaining to professors like me. I hope
+you will find it interesting and entertaining also.
+What Bennett pointed out was that
+this former limit was wrong because it
+is not necessary to use irreversible
+primitives. Calculations can be done
+with reversible machines containing
+only reversible primitives. If this is done
+the minimum free energy required is
+independent of the complexity or number of logical steps in the calculation. If
+anything, it is kT per bit of the output
+answer.
+But even this, which might be considered the free energy needed to clear the
+computer for further use, might also be
+considered as part of what you are going to do with the answer-the information in the result if you transmit it to
+another point. This is a limit only
+achieved ideally if you compute with a
+reversible computer at infinitesimal
+speed.
+Computation with a
+reversible machine
+We will now describe three reversible
+primitives that could be used to make a
+universal machine (Toffoli4). The first is
+the NOT which evidently loses no information, and is reversible, being reversed by acting again with NOT. Because the conventional symbol is not
+symmetrical we shall use an X on the
+wire instead (see Fig. 3a).
+Next is what we shall call the CONTROLLED NOT (see Fig. 3b). There are
+two entering lines, a and b and two
+exiting lines, a'and b. The a is always
+the same as a, which is the control line.
+If the control is activated a = 1 then the
+out bis the NOT of b. Otherwise b is
+unchanged, b'= b. The table of values
+11
+NOT
+ala
+이
+α
+b
+0-
+AND FAN OUT
+α
+-0
+abic
+00
+ΟΙ100
+Fig. 1. Primitive elements.
+for input and output is given in Fig. 3.
+The action is reversed by simply repeating it.
+The quantity b'is really a symmetric
+function of a and b called XOR, the
+exclusive or; a or b but not both. It is
+likewise the sum modulo two of a and Ь.
+and can be used to compare a and b,
+giving a 1 as a signal that they are different. Please notice that this function
+XOR is itself not reversible. For example, if the value is zero we cannot tell
+whether it came from (a,b) = (0,0) or
+from (1,1) but we keep the other line
+a'=a to resolve the ambiguity.
+We will represent the CONTROLLED
+NOT by putting a 0 on the control wire,
+connected with a vertical line to an X on
+the wire which is controlled.
+This element can also supply us with
+FAN OUT, for if b = 0 we see that a is
+copied onto line b. This COPY function
+will be important later on. It also supplies us with EXCHANGE, for three of
+them used successively on a pair of
+lines, but with alternate choice for control line, accomplishes an exchange of
+the information on the lines (Fig. 3b).
+It turns out that combinations of just
+these two elements alone are insufficient to accomplish arbitrary logical
+functions. Some element involving
+three lines is necessary. We have chosen
+what we can call the CONTROLLED
+CONTROLLED NOT. Here (see Fig. 3c)
+we have two control lines ab. which
+appear unchanged in the output and
+which change the third line e to NOT c
+only if both lines are activated (a = 1
+and b= 1). Otherwise c' c. If the third
+line input c is set to 0, then evidently it
+becomes 1 (c'= 1) only if both a and b
+are 1 and therefore supplies us with the
+AND function (see Table 1).
+Three combinations for (a,b), namely
+(0,0), 0,1), and (1,0) all give the same
+value, 0, to the AND (a,h) function so
+the ambiguity requires two bits to resolve it. These are kept in the lines a,b in
+the output so the function can be reversed (by itself, in fact). The AND function is the carry bit for the sum of a and
+b.
+12
+EXCHANGE
+b
+ab
+00 00
+ΟΙ 10
+0
+From these elements it is known that
+any logical circuit can be put together
+by using them in combination, and in
+fact, computer science shows that a universal computer can be made. We will
+illustrate this by a little example. First,
+of course, as you see in Fig. 4, we can
+make an adder, by first using the CONTROLLED CONTROLLED NOT and
+a
+Fig.
+NOT
++V
+NAND
++V
+2. Transistor circuits
+NOT and NAND.
+c
+for
+then the CONTROLLED NOT in succession, to produce from a and b and 0, as
+input lines, the original a on one line,
+the sum on the second line and the
+carry on the third.
+A more elaborate circuit is a full
+adder, (see Fig. 5), which takes a carry,
+c, (from some previous addition), and
+adds it to the two lines a and b and has
+an additional line, d, with a 0 input. It
+requires four primitive elements to be
+put together. Besides this total sum, the
+total of the three, a,b, and c and the
+carry, we obtain on the other two lines,
+two pieces of information. One is the a
+that we started with, and the other is.
+some intermediary quantity that we calculated on route.
+This is typical of these reversible systems, they produce not only what you
+want in output, but also a certain
+amount of garbage. In this particular
+case, and as it turns out in all cases, the
+garbage can be arranged to be, in fact,
+just the input, if we would just add the
+extra CONTROLLED NOT on the first
+two lines, as indicated by the dotted
+lines in Fig. 5, we see that the garbage
+would become a and b, which were the
+inputs of at least two of the lines. (We
+know this circuit can be simplified but
+we do it this way for illustrative purposes.)
+In this way, we can by various combinations produce a general logic unit
+that transforms n bits to n bits in a
+reversible manner. If the problem you
+are trying to do is itself reversible, then
+there might be no extra garbage, but in
+general, there are some extra lines
+needed to store up the information
+which you would need to be able to
+reverse the operation. In other words,
+we can make any function that the conventional system can, plus garbage. The
+garbage contains the information you
+need to reverse the process.
+And how much garbage? It turns out
+in general, that if the output data that
+you're looking for has k bits, then starting with an input and k bits containing
+0, we can produce, as a result, just the
+input and the output and no further
+garbage. This is reversible because
+knowing the output and the input, permits you of course, to undo everything.
+(a) NOT (b) CONTROLLED NOT
+의
+0
+b
+αα
+Ο
+ablab
+FAN OUT
+a
+00 00 EXCHANGE
+(c) CONTROLLED CONTROLLED NOT
+February
+b
+c00
+*
+See Table
+-c'
+Fig. 3. Reversible primitives.
+OPTICS NEWS
+a α
+o
+α
+a .a---O---a = 0'
+s' os--x--b = b
+SUM
+C SUM = c'
+CARRY c' d=o * CARRY = d'
+Fig. 4. Adder. Fig. 5. Full adder.
+This proposition is always reversible.
+The argument for this is illustrated in
+Fig. 6.
+Suppose we began with a machine M,
+which, starting with an input, and some
+large number of 0's, produces the desired output plus a certain amount of
+extra data which we call garbage. Now
+we've seen that the copy operation
+which can be done by a sequence of
+CONTROLLED NOT's is possible, so if
+we have originally an empty register,
+with the k bits ready for the output, we
+can, after the processor M has operated,
+copy the output from the M onto this
+new register.
+After that, we can build the opposite
+machine, the M in reverse, the reverse
+machine, which would take this output
+of M and garbage and turn it into the
+input and 0's. Thus, seen as an overall
+machine, we would have started with
+the k O's of the register for the output,
+and the input, and ended up with those
+k O's occupied by the output data, and
+repeat the input data as a final product.
+The number of 0's that was originally
+needed in the M machine in order to
+hold the garbage, is restored again to 0,
+and can be considered as internal wires
+inside the new complete machine (M, M
+and copy).
+Overall, then, we have accomplished
+what we set out to do, and therefore
+garbage need never be any greater than
+a repetition of the input data.
+A quantum mechanical
+computer
+We now go on to consider how such a
+computer can also be built using the
+laws of quantum mechanics. We are
+going to write a Hamiltonian, for a system of interacting parts, which will behave in the same way as a large system
+in serving as a universal computer. Of
+course the large system also obeys
+quantum mechanics, but it is in interaction with the heat baths and other things
+that could make it effectively irreversible.
+What we would like to do is make the
+OPTICS NEWS
+computer as small and as simple as
+possible. Our Hamiltonian will describe
+in detail all the internal computing actions, but not of course, those interactions with the exterior involved in entering the input (preparing the initial
+state) and reading the output.
+How small can such a computer be?
+How small, for instance, can a number
+be? Of course a number can be represented by bits of 1's and O's. What we're
+going to do is imagine that we have twostate systems, which we will call "atoms." An n bit number is then represented by a state of a "register;" a set of
+n two-state systems.
+Depending upon whether or not each
+atom is in one or another of its two
+states, which we call |1> and 10>, we
+can of course, represent any number.
+And the number can be read out of such
+a register by determining, or measuring, in which state each of the atoms are
+at a given moment. Therefore one bit
+will be represented by a single atom
+being in one of two states, the states we
+will call 11> and 10>.
+What we will have to do then can be
+understood by considering an example;
+the example of a CONTROLLED CONTROLLED NOT. Let G be some sort of
+an operation on three atoms a, b and c,
+which converts the original state of a,b,
+and c into a new appropriate state,
+a'b'c', so that the connection between
+a'b'and c'and a,b,c, are just what we
+would have expected if a,b, and c represented wires, and the a',b' and c'were
+the output wires of a CONTROLLED
+CONTROLLED NOT.
+It must be appreciated here, that at
+the moment we are not trying to move
+the data from one position to another,
+we are just going to change it. Unlike
+the situation in the actual wired computer in which the voltages on one wire
+then go over to voltages on another,
+what we're specifically making is something simpler, that the three atoms are
+in some particular state, and that an
+operation is performed, which changes
+the state to new values, a',b',c.
+What we would have then is that the
+February
+state, in the mathematical form
+la,b',c'> is simply some operation G
+operating on la,b,c>. In quantum mechanics, state changing operators are
+linear operators, and so we'll suppose
+that G is linear. Therefore, G is a matrix,
+and the matrix elements of G, Gabeabe
+are all 0 except those in the following
+table, which are of course 1.
+a b c a' b c'
+0 0 0 0 0 0
+이 이 1 0 이 1
+0 1 0 0 0
+0 1 0 1 1
+1 이 이 1 0 이
+0 1 1 0 1
+1 1 0 1 1
+1 1 1 1 0
+TABLE 1
+This table is the same table that represents the truth value table for the CONTROLLED CONTROLLED NOT. It is apparent that the operation is reversible,
+and that can be represented by saying
+that G*G = 1, where the * means Hermitian adjoint. That is to say G is a unitary
+matrix. (In fact G is also a real matrix G*
+G, but that's only a special case.) To
+be more specific, we're going to write
+Anh.e for this special G. We shall use the
+same matrix A with different numbers
+of subscripts to represent the other
+primitive elements.
+To take a simple example, the NOT,
+which would be represented by A is the
+simple matrix
+This is a 2 x 2 matrix and can be represented in many ways, in different notations, but the particular one we will use
+to define these is by the method of creation and annihilation operators. Consider operating in this case, on a single
+line a. In order to save alphabets, let us
+13
+call a the matrix 1 for the down-state. We'll use I to
+represent the diagonal matrix,
+which annihilates the 1 on atom a and
+converts it to 0; a is an operator which
+converts the state ll> to|0>. But, if the
+state of the atom were originally 10>,
+the operator a produces the number 0.
+That is, it doesn't change the state, it
+simply produces the numerical value
+zero when operating on that state. The
+conjugate of this thing, of course, is:
+10
+which creates, in the sense that operating on the 0 state, it turns it to the 1
+state. In other words, it moves from10>
+toll>. When operating on the1> state,
+there is no further state above that that
+you can create, and therefore it gives it
+the number zero. Every other operator
+2 × 2 matrix can be represented in
+terms of these a and a*. For example,
+the product a*a is equal to the matrix
+a*a =
+이
+which you might call N. It is 1 when the
+state is 1> and 0 when the state is 10>.
+It gives the number that the state of the
+atom represents. Likewise the product
+au
+To 이
+01
+is 1- N, and gives 0 for the up-state and
+M
+TIME
+Γ
+A
+COPY
+OUT PUT
+이
+OUTPUT+GARB OUTPUT+GARB -NPUT0000
+Ο
+0 1
+As a consequence of all this, aa* +
+a*u = 1.
+It is evident then that our matrix for
+NOT, the operator that produces NOT,
+is A a + a* and further of course,
+that's reversible, A*A = 1, A is unitary.
+In the same way the matrix Ab for the
+CONTROLLED NOT can be worked
+out. If you look at the table of values for
+CONTROLLED NOT you see that it can
+be written this wav:
+a*a (b + b*) + aa*
+In the first term, the a*a selects the
+condition that the line a = 1 in which
+case we want b +b* the NOT to apply to
+b. The second term selects the condition that the line a is 0,in which case we
+want nothing to happen to b and the
+unit matrix on the operators of b is
+implied. This can also be written as 1+
+a*a (b + b* - 1), the 1 representing all
+the lines coming through directly, but
+in the case that a is 1, we would like to
+correct that by putting in a NOT instead
+of leaving the line b unchanged.
+INPU1000000
+MACHINE COPY REVERSE
+MACHINE
+The matrix for the CONTROLLED
+CONTROLLED NOT is:
+Aah.e= 1+ a* ab*b (c + c* - 1)
+as perhaps, you may be able to see.
+The next question is what the matrix
+is for a general logic unit which consists
+of a sequence of these. As an example,
+we'll study the case of the full adder
+which we described before (see Fig. 5).
+Now we'll have, in the general case,
+four wires represented by a,b,c and d;
+コト
+00 OUTPUTINPUT
+NEW OVERALL
+MACHINE
+(ZEROS NEEDED FOR M
+CAN BE CONSIDERED
+INTERNAL TO NEW MACH)
+we don't necessarily have to have d as 0
+in all cases, and we would like to describe how the object operates in general (if d is changed to 1 d' is changed to
+its NOT). It produces new numbers a',
+b, c'and d', and we could imagine with
+our system that there are four atoms
+labeled a,b,c,d in a state labeled
+la,b,c,d> and that a matrix M operates
+which changes these same four atoms
+so that they appear to be in the state
+la', b', c', d'> which is appropriate for
+this logic unit. That is, ifIYIN represents the incoming state of the four bits
+M is a matrix which generates an outgoing state lYoUT> = MIIN for the four
+bits.
+For example, if the input state were
+the state 1,0,1,0> then, as we know, the
+output state should be [1,0,0,1>; the
+first two a',b'should be 1,0 for those two
+first lines come straight through, and
+the last two c',d' should be 0,1 because
+that represents the sum and carry of the
+first three, a, b, c, bits in the first input,
+as d = 0. Now the matrix M for the adder
+can easily be seen as the result of five
+successive primitive operations, and
+therefore becomes the matrix product
+of the five successive matrices representing these primitive objects.
+M= Ab Abc Abcd Aa.b Aab.d
+The first, which is the one written
+farthest to the right, is Aab.d for that
+represents the CONTROLLED CONTROLLED NOT in which a and b are the
+CONTROL lines, and the NOT appears
+on line d. By looking at the diagram in
+Fig. 5 we can immediately see what the
+remaining factors in the sequence represent. The last factor, for example, Aa.b
+means that there's a CONTROLLED
+NOT with a CONTROL on line a and
+NOT on line b. This matrix will have the
+unitary property M*M = 1 since all of
+the A's out of which it is a product are
+unitary. That is to say M is a reversal
+operation, and M* is its inverse.
+Our general problem, then, is this.
+Let A1, A2, A3,A be the succession of
+operations wanted, in some logical
+unit, to operate on n lines. The 2"X2"
+matrix M needed to accomplish the
+same goal is a product Ak A3A2A1, where
+each A is a simple matrix. How can we
+generate this M in a physical way if we
+know how to make the simpler elements?
+In general, in quantum mechanics,
+the outgoing state at time t, is eitVIN.
+where IN is the input state, for a system
+with Hamiltonian H. To try to find, for a
+given special time t, the Hamiltonian
+which will produce M = eitlt when M is
+such a product of non-commuting ma14
+Fig. 6. Clearing garbage.
+February OPTICS NEWS
+trices, from some simple property of
+the matrices themselves, appears to be
+very difficult.
+We realize however, that at any particular time, if we expand the etl out (as
+1 + iHt - H212/2-..) we'll find the operator H operating an innumerable arbitrary number of times, once, twice,
+three times and so forth, and the total
+state is generated by a superposition of
+these possibilities. This suggests that we
+can solve this problem of the composition of these A's in the following way.
+We add to the n atoms, which are in
+our register, an entirely new set of k +1
+atoms, which we'll call "program
+counter sites." Let us call q; and qi the
+annihilation and creation operators for
+the program site i for i = 0 to k. A good
+thing to think of, as an example, is an
+electron moving from one empty site to
+another. If the site i is occupied by the
+electron, its state is Il>, while if the site
+is empty, its state is 10>.
+We write, as our Hamiltonian:
+k-1
+H= qi+1* qiAi+1
+i=0
++ complex conjugate
+= 91 * q A1 + 92 * qi A2
++ 43* q2A3 +.
++ 90* 91A* +q1* q92A2
++ 92 * 933 +
+The first thing to notice is that if all
+the program sites are unoccupied, that
+is all the program atoms are initially in
+the state 0, nothing happens because
+every term in the Hamiltonian starts
+with an annihilation operator and it
+gives 0 therefore.
+The second thing we notice is that if
+only one or another ofthe program sites
+is occupied (in state 1>), and the rest
+are not (state 10>), then this is always
+true. In fact the number of program
+sites that are in state |l > is a conserved
+quantity. We will suppose that in the
+operation of this computer, either no
+sites are occupied (in which case nothing happens) or just one site is осcиpied. Two or more program sites are
+never both occupied during normal operation.
+Let us start with an initial state where
+site 0 is occupied, is in the|1> state, and
+all the others are empty, 10> state. If
+later, at some time, the final site k is
+found to be in the II> state, (and therefore all the others in 10>) then, we
+claim, the n register has been multiplied by the matrix M, which is Aк..
+A2A1 as desired.
+Let me explain how this works. Suppose that the register starts in any initial
+state, Vin, and that the site, 0, of the
+OPTICS NEWS
+program counter is occupied. Then the
+only term in the entire Hamiltonian
+that can first operate, as the Hamiltonian operates in successive times, is the
+first term, q1* GoA. The yo will change
+site number 0 to an unoccupied site,
+while qı* will change the site number 0
+to an occupied site. Thus the term
+q1* qo is a term, which simply moves
+the occupied site from the location 0 to
+the location 1. But this is multiplied by
+the matrix A₁ which operates only on
+the n register atoms, and therefore multiplies the initial state of the n register
+atoms bу А₁.
+Now, if the Hamiltonian happens to
+operate a second time, this first term
+will produce nothing because qo produces 0 on the number 0 site because it
+is now unoccupied. The term which can
+operate now is the second term,
+42* 41A2 for that can move the occupied
+point, which I shall call a "cursor." The
+cursor can move from site I to site 2 but
+the matrix A2 now operates on the register, therefore the register has now got
+the matrix A2A1 operating on it.
+So, looking at the first line of the
+Hamiltonian, if that is all there was to it,
+as the Hamiltonian operates in
+successive orders, the cursor would
+move successively from 0 to k, and you
+would acquire, one after the other, oрerating on the n register atoms, the
+matrices, A, in the order that we would
+like to construct the total М.
+However, a Hamiltonian must be hermitian, and therefore the complex conjugate of all these operators must be
+present. Suppose that at a given stage,
+we have gotten the cursor on site number 2, and we have the matrix A2A
+operating on the register. Now the 42
+which intends to move that occupation
+to a new position, needn't come from
+the first line, but may have come from
+the second line. It may have come, in
+fact, from gi * q2A2* which would move
+the cursor back from the position 2 to
+the position 1.
+But note that when this happens, the
+operator A2 * operates on the register,
+and therefore the total operator on the
+register is A2 *A2A1 in this case. But
+A2 * A2 is 1 and therefore the operator is
+just A1. Thus we see that when the
+cursor is returned to the position 1, the
+net result is that only the operator A1
+has really operated on the register. Thus
+it is that as the various terms of the
+Hamiltonian move the cursor forwards
+and backwards, the A's accumulate, or
+are reduced out again.
+At any stage, for example, if the
+cursor were up to the j site, the matrices
+from A₁ to A, have operated in succesFebruary
+sion on the n register. It does not matter
+whether or not the cursor on the i site
+has arrived there, by going directly
+from 0 to j, or going further and returning, or going back and forth in any
+pattern whatsoever, as long as it finally
+arrived at the state j.
+Therefore it is true, that if the cursor
+is found at the site k, we have the net
+result for the n register atoms that the
+matrix M has operated on their initial
+state as we desired.
+How then could we operate this computer? We begin by putting the input
+bits onto the register, and by putting the
+cursor to occupy the site 0. We then
+check at the site k, say, by scattering
+electrons, that the site k is empty, or that
+the site k has a cursor. The moment we
+find the cursor at site k we remove the
+cursor so that it cannot return down the
+program line, and then we know that
+the register contains the output data.
+We can then measure it at our leisure.
+Of course, there are external things involved in making the measurements,
+and determining all of this, which are
+not part of our computer. Surely a computer has eventually to be in interaction
+with the external world, both for
+putting data in and for taking it out.
+Mathematically it turns out that the
+propagation of the cursor up and down
+this program line is exactly the same as
+it would be if the operators A were not
+in the Hamiltonian. In other words, it
+represents just the waves which are familiar from the propagation of the tight
+binding electrons or spin waves in one
+dimension, and are very well known.
+There are waves that travel up and
+down the line and you can have packets
+of waves and so forth.
+We could improve the action of this
+computer and make it into a ballistic
+action in the following way. By making
+a line of sites in addition to the ones
+inside, that we are actually using for
+computing, a line of say, many sites,
+both before and after. It's just as though
+we had values of the index i for q which
+are less than 0 and greater than k, each
+of which has no matrix A, just a 1 multiplying there. Then we'd have a longer
+spin chain, and we could have started,
+instead of putting a cursor exactly at the
+beginning site 0, by putting the cursor
+with different amplitudes on different
+sites representing an initial incoming
+spin wave, a wide packet of nearly definite momentum.
+This spin wave would then go
+through the entire computer in a ballistic fashion and out the other end into
+the outside tail that we have added to
+the line of program sites, and there it
+15

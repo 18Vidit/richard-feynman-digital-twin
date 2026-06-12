@@ -1,0 +1,241 @@
+---
+title: Quantum Electrodynamics: The Strange Theory of Light and Matter
+author: Richard P. Feynman
+year: 1985
+source_type: book
+topic: "quantum mechanics, electrodynamics, QED, photons, electrons, path integrals, particle physics"
+source_url: https://faculty.washington.edu/seattle/physics441/feynman-QED/qed2.pdf
+---
+
+QED
+THE STRANGE THEORY OF LIGHT AND MATTER
+By RICHARD P. FEYNMAN
+Chapter One
+INTRODUCTION
+Alix Mautner was very curious about physics and often asked me to explain things to her. I would do all
+right, just as I do with a group of students at Caltech that come to me for an hour on Thursdays, but
+eventually I'd fail at what is to me the most interesting part: We would always get hung up on the crazy
+ideas of quantum mechanics. I told her I couldn't explain these ideas in an hour or an evening-it would
+take a long time-but I promised her that someday I'd prepare a set of lectures on the subject.
+I prepared some lectures, and I went to New Zealand to try them out-because New Zealand is far enough
+away that if they weren't successful, it would be all right! Well, the people in New Zealand thought they
+were okay, so I guess they're okay-at least for New Zealand! So here are the lectures I really prepared for
+Alix, but unfortunately I can't tell them to her directly, now.
+What I'd like to talk about is a part of physics that is known, rather than a part that is unknown. People are
+always asking for the latest developments in the unification of this theory with that theory, and they don't
+give us a chance to tell them anything about one of the theories that we know pretty well. They always
+want to know things that we don't know. So, rather than confound you with a lot of half-cooked, partially
+analyzed theories, I would like to tell you about a subject that has been very thoroughly analyzed. I love
+this area of physics and I think it's wonderful: it is called quantum electrodynamics, or QED for short.
+My main purpose in these lectures is to describe as accurately as I can the strange theory of light and
+matter-or more specifically, the interaction of light and electrons. It's going to take a long time to explain
+all the things I want to. However, there are four lectures, so I'm going to take my time, and we will get
+everything all right.
+Physics has a history of synthesizing many phenomena into a few theories. For instance, in the early days
+there were phenomena of motion and phenomena of heat; there were phenomena of sound, of light, and
+of gravity. But it was soon discovered, after Sir Isaac Newton explained the laws of motion, that some of
+these apparently different things were aspects of the same thing. For example, the phenomena of sound
+could be completely understood as the motion of atoms in the air. So sound was no longer considered
+something in addition to motion. It was also discovered that heat phenomena are easily understandable
+from the laws of motion. In this way, great globs of physics theory were synthesized into a simplified
+© Copyright, Princeton University Press. No part of this book may be
+distributed, posted, or reproduced in any form by digital or mechanical
+means without prior written permission of the publisher.
+For general queries, contact webmaster@press.princeton.edu
+theory. The theory of gravitation, on the other hand, was not understandable from the laws of motion, and
+even today it stands isolated from the other theories. Gravitation is, so far, not understandable in terms of
+other phenomena.
+After the synthesis of the phenomena of motion, sound, and heat, there was the discovery of a number of
+phenomena that we call electrical and magnetic. In 1873 these phenomena were synthesized with the
+phenomena of light and optics into a single theory by James Clerk Maxwell, who proposed that light is an
+electromagnetic wave. So at that stage, there were the laws of motion, the laws of electricity and
+magnetism, and the laws of gravity.
+Around 1900 a theory was developed to explain what matter was. It was called the electron theory of
+matter, and it said that there were little charged particles inside of atoms. This theory evolved gradually to
+include a heavy nucleus with electrons going around it.
+Attempts to understand the motion of the electrons going around the nucleus by using mechanical lawsanalogous to the way Newton used the laws of motion to figure out how the earth went around the sunwere a real failure: all kinds of predictions came out wrong. (Incidentally, the theory of relativity, which
+you all understand to be a great revolution in physics, was also developed at about that time. But
+compared to this discovery that Newton's laws of motion were quite wrong in atoms, the theory of
+relativity was only a minor modification.) Working out another system to replace Newton's laws took a
+long time because phenomena at the atomic level were quite strange. One had to lose one's common sense
+in order to perceive what was happening at the atomic level. Finally, in 1926, an "uncommon-sensy"
+theory was developed to explain the "new type of behavior" of electrons in matter. It looked cockeyed,
+but in reality it was not: it was called the theory of quantum mechanics. The word "quantum" refers to
+this peculiar aspect of nature that goes against common sense. It is this aspect that I am going to tell you
+about.
+The theory of quantum mechanics also explained all kinds of details, such as why an oxygen atom
+combines with two hydrogen atoms to make water, and so on. Quantum mechanics thus supplied the
+theory behind chemistry. So, fundamental theoretical chemistry is really physics.
+Because the theory of quantum mechanics could explain all of chemistry and the various properties of
+substances, it was a tremendous success. But still there was the problem of the interaction of light and
+matter. That is, Maxwell's theory of electricity and magnetism had to be changed to be in accord with the
+new principles of quantum mechanics that had been developed. So a new theory, the quantum theory of
+the interaction of light and matter, which is called by the horrible name "quantum electrodynamics," was
+finally developed by a number of physicists in 1929.
+But the theory was troubled. If you calculated something roughly, it would give a reasonable answer. But
+if you tried to compute it more accurately, you would find that the correction you thought was going to be
+small (the next term in a series, for example) was in fact very large-in fact, it was infinity! So it turned out
+you couldn't really compute anything beyond a certain accuracy.
+© Copyright, Princeton University Press. No part of this book may be
+distributed, posted, or reproduced in any form by digital or mechanical
+means without prior written permission of the publisher.
+For general queries, contact webmaster@press.princeton.edu
+By the way, what I have just outlined is what I call a "physicist's history of physics," which is never
+correct. What I am telling you is a sort of conventionalized myth-story that the physicists tell to their
+students, and those students tell to their students, and is not necessarily related to the actual historical
+development, which I do not really know!
+At any rate, to continue with this "history," Paul Dirac, using the theory of relativity, made a relativistic
+theory of the electron that did not completely take into account all the effects of the electron's interaction
+with light. Dirac's theory said that an electron had a magnetic moment-something like the force of a little
+magnet-that had a strength of exactly 1 in certain units. Then in about 1948 it was discovered in
+experiments that the actual number was closer to 1.00118 (with an uncertainty of about 3 on the last
+digit). It was known, of course, that electrons interact with light, so some small correction was expected.
+It was also expected that this correction would be understandable from the new theory of quantum
+electrodynamics. But when it was calculated, instead of 1.00118 the result was infinity-which is wrong,
+experimentally!
+Well, this problem of how to calculate things in quantum electrodynamics was straightened out by Julian
+Schwinger, Sin-Itiro Tomonaga, and myself in about 1948. Schwinger was the first to calculate this
+correction using a new "shell game"; his theoretical value was around 1.00116, which was close enough
+to the experimental number to show that we were on the right track. At last, we had a quantum theory of
+electricity and magnetism with which we could calculate! This is the theory that I am going to describe to
+you.
+The theory of quantum electrodynamics has now lasted for more than fifty years, and has been tested
+more and more accurately over a wider and wider range of conditions. At the present time I can proudly
+say that there is no significant difference between experiment and theory!
+Just to give you an idea of how the theory has been put through the wringer, I'll give you some recent
+numbers: experiments have Dirac's number at 1.00115965221 (with an uncertainty of about 4 in the last
+digit); the theory puts it at 1.00115965246 (with an uncertainty of about five times as much). To give you
+a feeling for the accuracy of these numbers, it comes out something like this: If you were to measure the
+distance from Los Angeles to New York to this accuracy, it would be exact to the thickness of a human
+hair. That's how delicately quantum electrodynamics has, in the past fifty years, been checked-both
+theoretically and experimentally. By the way, I have chosen only one number to show you. There are
+other things in quantum electrodynamics that have been measured with comparable accuracy, which also
+agree very well. Things have been checked at distance scales that range from one hundred times the size
+of the earth down to one-hundredth the size of an atomic nucleus. These numbers are meant to intimidate
+you into believing that the theory is probably not too far off! Before we're through, I'll describe how these
+calculations are made.
+I would like to again impress you with the vast range of phenomena that the theory of quantum
+electrodynamics describes: It's easier to say it backwards: the theory describes all the phenomena of the
+physical world except the gravitational effect, the thing that holds you in your seats (actually, that's a
+© Copyright, Princeton University Press. No part of this book may be
+distributed, posted, or reproduced in any form by digital or mechanical
+means without prior written permission of the publisher.
+For general queries, contact webmaster@press.princeton.edu
+combination of gravity and politeness, I think), and radioactive phenomena, which involve nuclei shifting
+in their energy levels. So if we leave out gravity and radioactivity (more properly, nuclear physics), what
+have we got left? Gasoline burning in automobiles, foam and bubbles, the hardness of salt or copper, the
+stiffness of steel. In fact, biologists are trying to interpret as much as they can about life in terms of
+chemistry, and as I already explained, the theory behind chemistry is quantum electrodynamics.
+I must clarify something: When I say that all the phenomena of the physical world can be explained by
+this theory, we don't really know that. Most phenomena we are familiar with involve such tremendous
+numbers of electrons that it's hard for our poor minds to follow that complexity. In such situations, we
+can use the theory to figure roughly what ought to happen and that is what happens, roughly, in those
+circumstances. But if we arrange in the laboratory an experiment involving just a few electrons in simple
+circumstances, then we can calculate what might happen very accurately, and we can measure it very
+accurately, too. Whenever we do such experiments, the theory of quantum electrodynamics works very
+well.
+We physicists are always checking to see if there is something the matter with the theory. That's the
+game, because if there is something the matter, it's interesting! But so far, we have found nothing wrong
+with the theory of quantum electrodynamics. It is, therefore, I would say, the jewel of physics-our
+proudest possession.
+The theory of quantum electrodynamics is also the prototype for new theories that attempt to explain
+nuclear phenomena, the things that go on inside the nuclei of atoms. If one were to think of the physical
+world as a stage, then the actors would be not only electrons, which are outside the nucleus in atoms, but
+also quarks and gluons and so forth-dozens of kinds of particles-inside the nucleus. And though these
+"actors" appear quite different from one another, they all act in a certain style-a strange and peculiar stylethe "quantum" style. At the end, I'll tell you a little bit about the nuclear particles. In the meantime, I'm
+only going to tell you about photons-particles of light-and electrons, to keep it simple. Because it's the
+way they act that is important, and the way they act is very interesting. So now you know what I'm going
+to talk about. The next question is, will you understand what I'm going to tell you? Everybody who
+comes to a scientific lecture knows they are not going to understand it, but maybe the lecturer has a nice,
+colored tie to look at. Not in this case! (Feynman is not wearing a tie.)
+What I am going to tell you about is what we teach our physics students in the third or fourth year of
+graduate school-and you think I'm going to explain it to you so you can understand it? No, you're not
+going to be able to understand it. Why, then, am I going to bother you with all this? Why are you going to
+sit here all this time, when you won't be able to understand what I am going to say? It is my task to
+convince you not to turn away because you don't understand it. You see, my physics students don't
+understand it either. That is because I don't understand it. Nobody does.
+I'd like to talk a little bit about understanding. When we have a lecture, there are many reasons why you
+might not understand the speaker. One is, his language is bad-he doesn't say what he means to say, or he
+says it upside down-and it's hard to understand. That's a rather trivial matter, and I'll try my best to avoid
+too much of my New York accent.
+© Copyright, Princeton University Press. No part of this book may be
+distributed, posted, or reproduced in any form by digital or mechanical
+means without prior written permission of the publisher.
+For general queries, contact webmaster@press.princeton.edu
+Another possibility, especially if the lecturer is a physicist, is that he uses ordinary words in a funny way.
+Physicists often use ordinary words such as "work" or "action" or "energy" or even, as you shall see,
+"light" for some technical purpose. Thus, when I talk about "work" in physics, I don't mean the same
+thing as when I talk about "work" on the street. During this lecture I might use one of those words
+without noticing that it is being used in this unusual way. I'll try my best to catch myself-that's my job-but
+it is an error that is easy to make.
+The next reason that you might think you do not understand what I am telling you is, while I am
+describing to you how Nature works, you won't understand why Nature works that way. But you see,
+nobody understands that. I can't explain why Nature behaves in this peculiar way.
+Finally, there is this possibility: after I tell you something, you just can't believe it. You can't accept it.
+You don't like it. A little screen comes down and you don't listen anymore. I'm going to describe to you
+how Nature is-and if you don't like it, that's going to get in the way of your understanding it. It's a
+problem that physicists have learned to deal with: They've learned to realize that whether they like a
+theory or they don't like a theory is not the essential question. Rather, it is whether or not the theory gives
+predictions that agree with experiment. It is not a question of whether a theory is philosophically
+delightful, or easy to understand, or perfectly reasonable from the point of view of common sense. The
+theory of quantum electrodynamics describes Nature as absurd from the point of view of common sense.
+And it agrees fully with experiment.
+Continues...
+
+CHAPTER 2:
+2
+Photons:
+Particles of Light
+This is the second in a series of lectures about quantum
+electrodynamics, and since it's clear that none of you were
+here last time (because I told everyone that they weren't
+going to understand anything), I'll briefly summarize the
+first lecture.
+We were talking about light. The first important feature
+about light is that it appears to be particles: when very weak
+monochromatic light (light of one color) hits a detector,
+the detector makes equally loud clicks less and less often
+as the light gets dimmer.
+The other important feature about light discussed in the
+first lecture is partial reflection of monochromatic light. An
+average of 4% of the photons hitting a single surface of
+glass is reflected. This is already a deep mystery, since it is
+impossible to predict which photons will bounce back and
+which will go through. With a second surface, the results
+are strange: instead of the expected reflection of 8% by the
+two surfaces, the partial reflection can be amplified as high
+as 16% or turned off, depending on the thickness of the
+glass.
+This strange phenomenon of partial reflection by two
+surfaces can be explained for intense light by a theory of
+waves, but the wave theory cannot explain howthe detector
+Photons: Particles of Light 37
+makes equally loud clicks as the light gets dimmer. Quantum electrodynamics "resolves" this wave-particle duality
+by saying that light is made of particles (as Newton originally thought), but the price of this great advancement of
+science is a retreat by physics to the position of being able
+to calculate only the probability that a photon will hit a detector, without offering a good model of how it actually
+happens.
+In the first lecture I described how physicists calculate
+the probability that a particular event will happen. They
+draw some arrows on a piece of paper according to some
+rules, which go as follows:
+-GRAND PRINCIPLE: The probability of an event is equal
+to the square of the length of an arrow called the "probability amplitude." An arrow of length 0.4, for example,
+represents a probability of 0.16, or 16%.
+-GENERAL RULE for drawing arrows if an event can happen in alternative ways: Draw an arrow for each way,
+and then combine the arrows ("add" them) by hooking
+the head of one to the tail of the next. A "final arrow"
+is then drawn from the tail of the first arrow to the head
+of the last one. The final arrow is the one whose square
+gives the probability of the entire event.
+There were also some specific rules for drawing arrows in
+the case of partial reflection by glass (they can be found on
+pages 26 and 27).
+All of the preceding is a review of the first lecture.
+What I would like to do now is show you how this model
+of the world, which is so utterly different from anything
+you've ever seen before (that perhaps you hope never to
+see it again), can explain all the simple properties of light
+that you know: when light reflects off a mirror, the angle
+of incidence is equal to the angle of reflection; light bends
+when it goes from air into water; light goes in straight lines;

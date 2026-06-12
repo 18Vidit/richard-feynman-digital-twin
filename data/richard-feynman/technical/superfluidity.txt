@@ -1,0 +1,905 @@
+---
+title: Atomic Theory of Liquid Helium Near Absolute Zero
+author: Richard P. Feynman
+year: 1953
+source_type: paper
+topic: superfluidity in liquid helium
+source_url: https://journals.aps.org/pr/abstract/10.1103/PhysRev.91.1301
+---
+
+[Content starts here]
+
+x TRANSITION I N HELI UM 130i
+matical "cause" of the transition. As T falls y rises,
+until the enormous number of possible orientations of a
+very long ring more than compensates for the small
+contribution of each (yt«1, for / large).
+There is no doubt of the geometrical fact of large
+numbers of orientations for long rings, even if these
+rings may never use the same atom twice (i.e.
+,
+cannot
+cross themselves).
+"
+Therefore there can be no doubt
+"For example, the number of ways in which a single polygon
+which does not cross itself can still be oriented in an infinite
+medium= constant)&l's &, but the value of 1 is reduced.
+that (1-A), and its more complete expression (17), will
+show a transition from this cause. But the order of the
+transition need not be the same as that of the approximate evaluations we have made. They neglect the geometrical correlations. For example, if a large chain of
+E atoms is already formed, are the remaining E—K
+atoms more (or perhaps less) likely to be contiguous
+and therefore more easily able to make other chains,
+than if these X—E atoms were chosen at random from
+a,mong the E? Our assumption in deriving (5—A) was
+that it was equally likely either way.
+P H YSI CAL REVIEW VOLUME 91, NUMBER 6 SEPTEM 8 ER 15, 1953
+Atomic Theory of Liquid Helium Near Absolute Zero
+R. P. FEYNMAN
+California Institute of Technology, Pasaderla, Califorrtsa
+(Received June 1, 1953)
+The properties of liquid helium at very low temperatures (below 0.5'K) are discussed from the atomic
+point of view. It is argued that the lowest states are compressional waves (phonons). Long-range motions
+which leave density unaltered (stirrings) are impossible for Bose statistics since they simply permute the
+atoms. Motions on an atomic scale are possible, but require a minimum energy of excitation. Therefore
+at low temperature the specific heat varies as T' and the flow resistance of the fluid is small. The arguments,
+are entirely qualitative —no calculation of the energy of excitation nor of the low-temperature viscosity
+is given. In an appendix an expression, previously given, for the partition function is modified to include
+the e6ects of phonons.
+INTRODUCTION
+ISZA' has suggested the very fruitful concept
+that He II might be thought of as a mixture of
+two fluids, "superRuid" and "normal. "At zero temperature the helium is pure superfluid. With rising temperature some sort of "excited molecules" form. These
+constitute the "normal fiuid" which behaves very much
+like a gas. The proportion of normal fluid increases at
+first slowly, and then rapidly, with temperature until
+at the transition temperature of 2.19'K (X point) the
+liquid, now He I, contains no more superfiuid.
+Landau' has made even more detailed suggestions.
+He suggests that there are two kinds of "excited
+molecules, " phonons or quanta of longitudinal compressional waves (sound) and "rotons. " The latter are
+not well understood. It is suggested that they have a
+minimum energy 6 needed to excite them. For this
+reason below 0.5'K there are practically only phonons.
+The rotons can become excited when more energy is
+available; i.e., at higher temperature. This idea is in
+agreement with the fact that below 0.5'K the specific
+heat varies as T' in just the manner (and with the
+correct coefficient) to be expected if only longitudinal
+sound waves could be excited.
+' L. Tisza, Phys. Rev. 72, 838 (1947).An excellent summary of
+the theories of helium II is to be found in R. B. Dingle, Supplement to Phil. Mag. 1, 112 (1952), ' L. Landau, J. Phys. U.S.S.R. 5, 71 (1941),
+Tisza's view is frankly phenomenological. No serious
+attempt is made to justify the description from first
+principles. Landau has made such an attempt by
+studying the quantum mechanics of a continuous liquid
+medium. The role of the statistics is not clear in his
+arguments, however. Furthermore, the magnitudes of
+energy and inertia that the "rotons" appear to have
+correspond to a few atoms. A complete understanding
+of the "roton" state can therefore only be achieved by
+way of an atomic viewpoint.
+A more complete study of liquid helium from erst
+principles might attempt to answer at least three
+important questions:
+(a) Why does the liquid make a transition between
+two forms, He I and He III
+(b) Why are there no states of very low energy,
+other than phonons, which can be excited in helium II
+(i.e., below 0.5'K)?
+(c) What is the nature of the excitations which
+constitute the "normal fluid component" at higher
+temperatures, say from 1 to 2.2'K?
+The first question was answered in a preceding
+paper. ' We showed that London's suggestion, that it is
+the analog of the transition in an ideal Bose gas, is
+correct.
+In this note we hope to make a qualitative argument
+from first principles to answer the second question.
+3 R. P. Feynman, Phys. Rev. 91, 1291 (1953), hereafter called I.
+1302 R. P. FE YNMAN
+(We have not yet found the answer to the third. *) It is
+to be understood, therefore, that we are aiming here
+to explain the properties of the liquid only at extremely
+low temperatures.
+We take, as a model, helium atoms obeying the
+Schrodinger equation and the symmetrical EinsteinSose statistics with forces between pairs similar to that
+worked out by Slater and Kirkwood, 4 an attraction at
+large distances and a strong repulsion at small. '
+(It is
+sufficient for qualitative purposes, if one wishes, to'
+imagine impenetrable spheres of radius about 2.7A
+packed into a space so the mean spacing (cube root of
+atomic volume) is about 3.6A.
+At absolute zero the system is in the ground state.
+Why this is not a solid has been explained by London. '
+The large zero-point motions of the atoms are capable
+of "melting" any ordered crystalline arrangement that
+may be temporarily set up. We begin by describing
+the wave function for this ground state.
+DESCRIPTION OF THE GROUND-STATE WAVE
+FUNCTION
+Wave functions can be described qualitatively in
+words by giving the amplitude for every configuration
+of the atoms. The ground state has a positive amplitude
+for any configuration since the lowest state has no
+nodes. The amplitude is negligible if any two atoms
+are so close together that they overlap —that is, that a
+large negative potential has set in. Thus for any atom
+surrounded by neighbors, considered for a moment
+fixed, the amplitude falls to zero when the atom moves
+over to. touch any of the neighbors and is probably
+bound in such a way that it is maximum when the
+atom is near the center of its "cage." (This curvature
+makes a strong kinetic energy tending to blow apart
+the cage, an energy effect canceled by the long-range
+attraction of the atoms. ) Compressing the atom into a
+smaller cage requires more kinetic energy, and expansion works against the attractive potential so there is
+some mean density of equilibrium. Fluctuations away
+from that mean density are of amplitude distributed
+in a Gaussian Inanner. For wavelengths exceeding the
+atomic spacing they are analogous to zero-point fluctuations of the vacuum electromagnetic field (but are
+wholly longitudinal, scalar waves, of course).
+There are a large number of configurations with
+densities near the most likely density, in all of which
+the atoms tend to keep separate from one another.
+They differ from one another mainly in the location of
+the atoms. The various configurations differ only in
+that one may be "stirred" into another with a little
+reshufHing or stirring of the atoms. We may take it
+*iVote added in proof:—This problem has- now been solved. Its
+solution will appear in a forthcoming publication.
+4 J. C. Slater and J. G. Kirkwood, Phys. Rev. 37, 682 (1931).
+~ For a detailed account of the properties of helium see W. H.
+Keeson, Helium (Elsevier Publishing Company, Inc., Amsterdam,
+1942). ' F. London, Nature 141, 643 (1938).
+that all' configurations which have nearly the same
+type of density fluctuations and which can be essentially
+just stirred from one to another have the same amplitude in the ground state.
+THE CHARACTER OF LOW'-ENERGY STATES
+We must next determine the character of the lowenergy states near the ground state. We aim to show
+that the only states which differ from the ground state
+by an infinitesimal energy are the phonons.
+First we can take it that the lowest states are those
+involving large numbers of atoms or large distances.
+Consider, for example, a tiny region of the liquid, say
+a cube 3 or 4 atomic spacings on a side. If the atoms
+in this region are confined in this region (so we have a
+submicroscopic sample of liquid He) the excitations
+above the ground state will all involve one node somewhere among the configurations and hence a wavelength of order of a. This must mean an excess kinetic
+energy of the order k'/a'm, or at least of order A'/iVu'm,
+where X is the number of atoms and nz is the mass of
+each—leaving an appreciable gap from the ground state.
+This argument fails if in the ground state there are two (or
+more) regions of configuration space in both of which the amplitude is large and which are completely separated by a region of
+very small amplitude. (Analogous to a particle in a potential
+with two wells separated by a barrier. ) If the nodal surface is
+passed through the region of small amplitude (the barrier) very
+little change in energy results. But we have seen that the states
+of large amplitude are just all those in which the atoms are
+reasonably well separated. We can assume that we can get
+from one to any other without crossing any high potential barrier.
+We suppose all possible rearrangements may be achieved without
+the atoms coming too close together at any time. That this is
+reasonable can be seen by comparing the size of the atoms to
+their spacing. For example, if at some point they are locally
+roughly on a cubic close-packed lattice, the nearest neighbors are
+4.0A apart (corresponding to the observed atomic volume' of
+45A'). The diameter of the atoms is 2.7A, the radius at which
+Slater and Kirkwood's potential passes from minus to plus. The
+cube edge of the lattice is 5.6A, so a face-centered atom could
+even pass between those at the corners of the cube! Clearly, if
+they are allowed to vary their mutual distances a little, all kinds
+of rearrangements can be made. It is likely that the condition
+that there be no effective barrier between configurations is
+equivalent to the condition that the, He II is liquid in the lowest
+state. We assume it valid for He II.
+If we are to find extremely low-energy states we must
+therefore look to excitations involving large groups of
+atoms or long wavelengths. One possibility is in the
+compression waves. Suppose the atoms are compressed
+to a small excess density over a large volume and a
+rarefaction left adjacently. The only way this Quctuation could even out is for a considerable number of
+atoms to move, each a little bit. This involves, effectively, the motion of a large mass and can have low
+kinetic energy. There is, therefore, little doubt that.
+such compressional waves represent a true mode of
+excitation in the helium, and a mode of very low energy.
+If the speed of sound is called c and the wave number
+of the waves K, the frequency cv=cE and quantum
+LIQUID He
+energy AcK cs,n be as small as desired. Thus there is
+no reason why we should not expect the specific heat,
+varying as T', from these modes. 7
+We have assumed that the way to release a density
+fluctuation in a given time which requires the least
+kinetic energy is to move many atoms a short distance.
+If only a fraction f of the atoms move, the velocity
+required is 1/f times higher. This means a higher kinetic
+energy if the kinetic energy varies as the velocity
+squared. .
+There are cases, however, in which the kinetic energy
+does not vary in this way. In a degenerate Fermi gas a
+single atom excited by a small excess momentum p
+above the Fermi surface of momentum ps has an energy
+((Ps+P)'—Pss)/2m or (Ps/m)P. This linear dependence
+of energy on momentum means that the group velocity
+of such waves is energy independent. It is ps/m. The
+speed of sound calculated from the compressibility and
+density of the ideal gas is 3 'ps/m. The single atoms
+will run ahead of the sound. Fluctuations are reduced
+by a process more like diffusion than sound. The specific
+heat near T=O varies as T instead of T' because the
+density of states for exciting single atoms exceeds that
+for sound. As we shall see, for Bose helium there are
+no states, except phonons, whose energy approaches
+zero as their momentum approaches zero. The sound
+has no competitor capable of discharging pressure. '
+LO~-ENERGY STATES DISREGARDING STATISTICS
+The Bose statistics play an essential part in the
+discussion of other possible states of very low-excitation
+energy. To make this role clear by contrast, we shall
+first analyze the situation, disregarding the statistics.
+More precisely we consider in this section an imaginary
+quantum liquid made of atoms which are, in principle,
+distinguishable ("Bolzman" statistics). The ground
+state for Bolzman statistics is the same as for Bose
+statistics, since the lowest state is, in either case,
+symmetrical.
+We must try to And modes of excitation involving
+long wavelengths which do not involve changes in
+mean density. The density fluctuation modes have
+already been considered. To simplify the argument
+consider 6rst the following crude model. We consider a
+set of cells, each of which contains one atom. Each
+atom is free to wander in its cell and may occupy
+therefore some ground-state wave function, say constant
+amplitude in the cell. We are to consider states which
+can be made solely by rearranging the atoms among the
+cells. No two atoms may go into the same cell, for that
+corresponds to a density fluctuation, and we do not
+wish to consider those.
+'The partition function discussed previously (reference 3) is
+extended to include a description of the phonons in the Appendix
+to this paper.
+Pop an ideal Bose gas, as T—+0, the sound velocity approaches
+zero, go that the expected T' speci6c heat does not appear. It is
+replaced by T&. Density fluctuations are much more restricted
+in liquid helium than they are in the ideal gas. This is the origin
+of may differences in behavior for the two cases.
+In the ground state, the ampIitude is the same for
+any rearrangement of the atoms among the cells. The
+lowest states can now be analyzed as follows. We
+neglect the statistics, that is, we assume Boltzmann
+statistics to apply. We can describe a wave function
+which corresponds to a very low excitation as follows:
+Pick out a certain atom, A, say. Put it in a given cell.
+Then all rearrangements of the other atoms among the
+other cells can be taken to have the same amplitude.
+If atom A is in a diferent cell, the amplitude may be
+different, but ago,in independent of the arrangement of
+the other atoms. We thus can specify this wave function
+by giving just the amplitude for various positions of
+atom A. The function is independent of the position
+of the others. We may take this as exp(iK R~), where
+R~ is the position of the center of the cell in which
+atom A is. We may, with enough accuracy, let Rz be
+just the position of atom A. The E can be a long wave
+fitting into the volunie-V in which the helium is contained. The energy of this state is O'K'/2m' where m'
+is the effective mass needed to move atom A. This
+energy can be very small, for E can be small.
+This effective mass is not far from the mass of one helium atom.
+It is discussed in a previous paper. ' We summarize the argument
+here. To push a single atom along, we need not go over any
+potential barriers. ,The other atoms may move out of the way.
+No matter where atom A is located the other atoms can arrange
+themselves into a state of minimum energy and this minimum
+energy is independent of the location of atom A. However, as
+A moves, the others must readjust themselves into the state of
+minimum energy for the new position of A. That is, in addition
+to the kinetic energy of A there is a kinetic energy of the other
+atoms which must move away to make room for A.
+Thus there would be low-lying states, of energy
+hK'/2m'. The number of such states would be very
+large, for the wave function could depend in similar
+ways on the coordinates of other atoms also. . )For
+example, we could choose two atoms A, 8 and have
+the wave function vary with their location as
+exp(sKt Rg) exp(iKs R~) and be otherwise independent of the distribution of the others in the cells, etc.)
+The large density of low-lying states would result in a
+large specific heat near absolute zero.
+e
+LOVf. STATES WITH SYMMETRICAL STATISTICS
+However, if the atoms obey Bose statistics none of
+these states can exist. For in our model, whether atom
+A is at one location or another is merely an interchange
+of which atom is which. This cannot change the wave
+function. In fact, for the model of one atom in a cell
+no excited state at all can exist for Bose particles
+without excitation of the atom within the cell.
+For the real liquid a similar situation holds—aside
+from the phonons, there can be no low-lying state. The
+wave function must have the property that any change,
+that just means an interchange among the atoms, must
+not alter the wave function. The excited state must
+be orthogonal to the ground, state, of course. Starting
+at any con6guration and supposing the amplitude is
+1304 R. P. FEYNMAN
+the same as for -'the ground state, we must find a new
+configuration that represents a kind of stirring of the
+old configuration (to omit phonon states) such that the
+amplitude is now -reversed in sign. It is clear that every
+corifiguration is close to the original one, albeit with
+some-atoms interchanged. So it is hard to. find a configuration to give the minus amplitude which is sufficiently far:(in configuration space) from the original
+positive amplitude configuration to have a slow rate of
+decay and thus a low energy.
+There are some possibilities of this kind which might at first
+sight seem allowable. Consider among the atoms a set of adjacent
+ones forming a large ring. Suppose l atoms are in the ring and
+let us imagine the wave function is such that, if all move together
+half an atomic spacing a, the phase changes by m, so when they
+turn about another a/2 the phase changes by 2m-, as required by
+the Bose statistics. (For a shift of a just changes each atom for
+the' one behind. ) The mass moving is m'l, and the momentum is
+fI/a (for the wavelength is a) so that the energy is -,'(m'l) '(5/a)'.
+This may be made low by choosing l very. large. (If it were not
+for -the Bose statistics we could have taken the wavelength to
+be la and the energy would be even lower, varying as 1/!3 ). The argument for calculating this energy is incorrect, however.
+By assuming tI)Iat all the atoms must move together, degrees of
+freedom (in which parts of the ring turn by themselves) have been
+restricted. This tacitly adds a considerable energy by the uncertainty principle.
+To understand better the failure of the argument, consider by
+the same reasoning the case that one had two equal rings parallel
+to each other. We may argue as before that now the entire mass
+2''l moves together with momentum Pi/u and thus expect. an
+energy $(2m'l) '(k/a)' for the energy of the lowest state. But
+this is certainly wrong, for if we consider the rings as independent,
+the lowest state but one is surely that one for which one of the
+rings is excited and the other not (momentum 0), an energy
+s(m'l) '(k/a)', larger than our previous lowest estimate! The
+error for the first figure of &
+(2m'l) '(fi/a)'consisted in this. In
+describing the wave function, the possibility that the two rings
+couId turn independently was omitted. To force the rings to
+move together would be to force the difference between their
+displacements to be fixed at zero. Thus the momentum conjugate
+to this difference coordinate would be very high, and the energy
+associated with this coordinate very large. Thus the system does
+not have just the energy estimated but, in fact, a very much
+higher one. We have not completely specified the wave function.
+We have not said what the amplitude is to be for configurations
+in which only one of the rings moves.
+In an analogous way, the estimate of energy for the single ring,
+sr(m'f) '(k/a)', is incorrect. We have specified the amplitude for
+the case that all of the atoms are simultaneously in the mid
+positions. What is to be the amplitude if only a few move to
+mid positions? (This may be accomplished without doing violence
+to the potentials by using the atoms adjacent to the ring and by
+turning on smaller rings of 4 or 5 atoms. )
+If the motion (all to —,
+'
+position) can be made up of smaller parts moving in concert, and
+if these smaller parts could also have moved independently, the
+energy cannot be lower than that corresponding to just one of
+independent parts being excited.
+Since we may well imagine that any motion of the
+atoms could be made up of combinations of motions of
+small groups (say 3 or 4 revolving about each other)
+the lowest energy is the excitation of one of these small
+groups. These we can identify with Tisza. s excited
+molecules or Landau's rotons (but see next paragraph).
+Any such small ring of r atoms must, of course, have
+its first state of excitation of angular momentum rls (or
+p=5/a) because of the statistics. Landau's arguments'
+that such angular momentum must have an excitation
+energy was made in a way that does not involve the
+statistics of the atoms. It is possibly equivalent to our
+argument that large rings need not be considered if
+their motion is analyzable in smaller parts. The central
+importance of the statistics would not seem to be here,
+but rather in the previous argument which shows that
+no states corresponding to the slow linear motion of a
+single atom are permitted.
+It is not obvious whether the lowest excited state,
+excluding the phonons, is actually a small ring of atoms
+turning. The arguments do not exclude the possibility
+that these are all higher than another type of mode;
+namely, the rapid motion of a single atom. In our cell
+model a state which depends on atom A as expiE. E~
+with Ea=2~ is, of course, possible. Another possibility
+is the analog of the excitation of a single atom in a
+cell. (This may be the same as the single atom motion. )
+All of these states differ from the ground state by a
+finite energy. But which is lowest is hard to determine.
+Any such excitation can, of course, move through the
+fluid. (In fact, the lowest state is that in which it has
+equal amplitude of being anywhere in the fiuid. ) That
+is, the wave function could vary as exp(sE. R), where'
+is the location of the center of excitation. Then the
+energy of these excitations might have the form,
+suggested by Landau, s 6+E'/2p, where d, is the energy
+needed to excite the ring or other excitation, and Ii is
+a sort of effective mass.
+Our primary purpose was to show that no states
+close to the ground state exist, exclusive of the phonons.
+We are not yet able to calculate the energy, nor to give
+a clear picture of the other modes of excitation.
+DESCRIPTION OF SOME PROPERTIES OF THE LIQUID
+In concluding that only phonons exist at low temperature, we concur with the opinion of the phenomenological theories. Therefore, a description of how some
+of the properties of helium arise, according to this
+model, will repeat much that has already been pointed
+out by others.
+''
+We limit ourselves, therefore, to a
+very brief summary from a kinetic theory point of view.
+First, consider the motion of an object, such as a
+small sphere through the liquid. If the object is stationary at a fixed position 8, the liquid may get into a
+certain state which, omitting phonons for a moment,
+is like the ground state (except that now part of the
+space occupied by the object is not available to the
+helium). Let the wave function of the helium be itit.
+It is a function of all the helium atoms and depends,
+say parametrically, on R. If R is changed, f is also,
+but the energy of the fluid is not changed. For, rearranging the fluid to a new shape at the same density
+does not alter the energy. Now if we alter the R from
+E& to E2 nearby, we will only need to add a little
+kinetic energy to push the helium atoms out of the
+LIQUID He NEA R O'K I30S
+way. The overlap of fz& and fz2 will be nearly perfect
+(except near the surface of the object which is a
+different volume. of space in the two cases; E.=E~ and
+R=R2). The object can move therefore with an energy
+equal to just the kinetic energy of itself and the liquid
+which flows around it. The fluid will move so that the
+curl of the velocity is zero, because circulation corresponds to permutation of atoms, and the Bose statistics
+will not permit such motions, as we have seen. '
+%hat will be the losses of energy sufFered by such an
+objects If it loses energy it can do so only by exciting
+the helium. First, can it excite the molecular excitations? These take a certain energy 6 to excite, but a
+massive object even moving very slowly may have
+sufficient energy. On the other hand, for such an object
+to change energy by 6 its momentum must change by
+an enormous amount. To create. an excitation of very
+high momentum may take much more energy than A.
+As Landau has shown, '
+if the energy to excite a roton
+of momentum p is taken to be of the form &+p'/2p,
+the laws of conservation of. energy and momentum
+show that slowly moving objects [velocity less than
+(2p,h) ) can produce no excitations. Likewise, objects
+moving at velocities below that of sound cannot lose
+energy by creating phonons. Therefore, at absolute
+zero and for not too high velocity, a moving object
+will suffer no viscous drag.
+At low temperatures, there are, however, some
+phonons already existing in the liquid. They can scatter
+off of the object (changing their energy by the Doppler
+effect) and in this way the object can lose a little energy.
+A phonon of energy Aa& carries momentum b~/e and
+behaves very much like a particle of mass fur/e' moving
+at velocity c. The phonons act in most respects like a
+gas of such particles, and the resistance suffered by our
+object is just like the viscosity that would be suffered
+by an object moving through such a gas.
+The actual calculation of this energy loss means a
+calculation of the viscous drag of such a gas. This
+requires a knowledge of the mean free path for collision
+among the phonons. The phonons scatter from one
+another because the medium is not linear. The speed of
+sound depends a little on the density. Therefore speaking classically, if a wave is present, another wave
+impinging finds the index of refraction varying sinus-
+'For a liquid contained in a simply connected region, the
+circulation vanishes everywhere if it vanishes locally. But in a
+region of connectivity like the inside of a torus, although the
+curl is everywhere zero, the circulation around the ring may not
+be zero. Such a circulation cannot be compounded of smaller
+independent units. Therefore, it should be possible to demonstrate
+circulatory motions in such a vessel which will maintain themselves for a long time. Circulation may be created by rotating the
+vessel containing He I and cooling to the temperature desired
+below the X point. Stopping the rotating vessel should leave the
+-interior liquid with a nearly permanent angular momentum,
+which could be demonstrated, for example, by its gyroscopic
+eGects. The liquid must be completely confined with no free
+surface because the exchange of atoms between the rotating
+liquid and the stationary gas above it might cause a rapid damping
+of the angular momentum.
+oidally and is thereby scattered. The same thing
+happens in the quantum mechanical system.
+The mean free path should rise rapidly as the temperature falls, because the density of phonons decreases
+(the scattering cross section also decreases). Interesting
+phenomena should result when this free path becomes
+comparable to the dimensions of the apparatus.
+If the viscosity is measured by connecting two
+vessels with a capillary, a different situation arises. The
+phonons cannot readily work their way through the
+long capillary, but the bulk liquid can move through it.
+There is work done on the phonons as the piston moves
+down in one of the vessels, again by the Doppler effect
+on the phonons bouncing off of the moving piston.
+But this work just goes into increasing the phonon
+energy —that is, the liquid in one vessel is heated, in
+the other cooled. If isothermal conditions are maintained it goes as heat to the walls of the first container
+and from the walls of the second. No net work is done
+in this case and the viscosity appears to vanish. There
+is essentia, lly no energy loss because there is no real
+viscous Row of our phonon "gas" through the capillary.
+The reason that, experimentally, resistance appears' if
+the flow velocity exceeds a certain critical velocity is
+not clear. Perhaps in passing sharp protuberances in the
+capillary wall the velocity locally exceeds that needed
+to create excitations or new phonons. It cannot very
+well be a kind of turbulence because presumably the
+velocity field should be always free of circulation.
+In two volumes of liquid helium connected by a
+capillary, the hotter one will exert the higher pressure
+(fountain effect). The larger number and higher average
+momentum of phonons in the hotter region results,
+from wall bombardment, in a higher pressure there.
+The pressure can only be released slowly by phonons
+passing through the long capillary. This would be the
+mechanism of heat conductivity through capillaries.
+The rate of such conduction would depend on the
+relative size of the capillaries and the phonon mean
+free path.
+If temperature varies from one point to another in
+the bulk liquid, then the phonon density varies. What
+happens depends on the mean free path. If it is lorig
+compared to the distances over which the variations
+occur, the variations are almost immediately evened
+out by the diffusion of phonons rushing from one place
+to another (at the speed c). If the mean free path is
+shorter than the distances involved in the variation, no
+single photon can go directly from a high- to low-density
+region. Instead, a cooperative movement sets in. If we
+consider the analogy to a gas of phonon "particles,
+"
+a
+pressure variation is released by body motion—that is,
+by sound waves. The speed of this sound is 3—& times
+the individual particle velocities. In our case, this
+"second sound" representing waves of phonon density
+(i.e.
+,
+temperature) should travel at a velocity 3—&c. At
+low temperatures it will be experimentally hard to keep
+the mean free path very small compared to the wave-
+1306 R. P. FEYNMAN
+length, so that second sound would show appreciable
+damping and dispersion. At extremely low temperatures
+-
+the free path may be larger than the apparatus. Then,
+if a pulse of heat at one point creates extra phonons,
+these will rush away at speed c so that temperature rise
+will begin at a distant point delayed only by the time
+required for first sound to traverse the apparatus.
+"
+- EFFECTS OF He' ATOMS AT LOW CONCENTRATIONS
+Ef a foreign atom, say an atom of He, is in the liquid,
+our arguments indicate that it will move about essentially as a free particle, albeit with an e6'ective mass m"
+larger than its true mass. (This m" should be about one
+atomic mass unit less than the effective mass m' of a
+He' atom. ) Such He' atoms put into He' at low concentration should behave as a perfect gas. Consider, as an
+example, a concentration of 0.1 percent. The mean
+spacing of the atoms is so large that the gas is not
+degenerate, except at a few hundredths of a degree.
+(The statistics can only be of importance if the atoms
+can permute. This occurs only if exp(—res"D'kT/2h')
+is not too small. Here, D is the mean spacing of the
+atoms, which is 36A in our example. ) The specific heat
+contributed by the He' is then k per atom. This can
+exceed the specific heat of the phonons (below 0.4' in
+our example). A temperature pulse would then go
+mainly into increasing the energy of the He' gas. The
+speed of sound in this gas is of the order of the He' atom
+velocity, and therefore the observed second sound
+velocity should vary as (kT/m")& in this region.
+"
+A
+more detailed analysis of the intermediate region in
+which both He' and phonons contribute requires a
+study of the collision cross sections for phonon-phonon,
+phonon-He', and He'-He' collisions. Higher concentrations of He' require a study of the degenerate Fermi
+gas. The entire analysis of this paper fails to apply to
+pure He', because the ground state from which we
+begin is different.
+An atom of He' should show an appreciably higher
+free energy when dissolved in He4, than if that atom is
+replaced by He4. This is because, as discussed in a
+previous paper, '
+for pure He' the partition function is
+the sum on all trajectories which start at some con6guration of the atoms z; and return to any permutation of the original con6guration Pz;. With a He
+atom at zi say (and no others nearby), the final
+con6guration is limited to only those permutations for
+which this atom returns to z~. We can estimate the
+eR'ect as follows: Neglect the mass difference of He'
+and He4. Consider the nondiagonal matrix element
+(z'~e e~~s) in which the final state differs from the
+initial state only in that the atom z& is moved to another
+site z'I. All the other atoms may go to some permutation
+of the original positions. From what we have said in I,
+this should depend upon z~ and z'~ approximately
+"Iam indebted to F. G. Brickwedde for calling my attention
+to this phenomenon.
+through a factor (P= 1/kT),
+(m'/2rrPh') & exp/ —m'(zi —z'i)'/2Ph'j,
+since the atom acts essentially as a free particle of mass
+m'. To get the partition function if the atom I is He4,
+we must sum this over all possible sites z'~. At low
+temperatures, where the di8usion distance (2Pjss/m')&
+exceeds the atomic spacing d= (V~)&, this is approximately the integral of (1) over all z'i divided by Vz,
+the atomic volume. This gives V~ '
+for He4. For He',
+z'i must coincide with zi so (1) gives (m'/2a. Pjs')&.
+The ratio of the partition function for He4 to that in
+which a He4 atom is replaced by He' is therefore
+(m'kT/2zk') &V~ '
+(at low concentration). The extra
+free energy per atom of He' is therefore (3/2) kT ln(2s.P/
+re"kTVg&) at low temperatures. (Since He' is lighter
+than He', m' is replaced by es".)"
+DISCUSSION
+A number of problems are suggested by this work.
+First, a detailed quantitative- analysis of all of the
+properties of liquid He' below 0.5'K should be undertaken with the con6dence that the problem is relatively
+simple. Only the phonons should be involved. Their
+wavelengths are long compared to atomic dimensions,
+and we have to do essentially with a continuous
+medium. The statistical mechanical aspects are considered in the appendix. The mean free path for phonon
+collisions could be computed if the nonlinearity of the
+medium is included. Work in this. direction has been
+done by Landau and Khalatnikov.
+"
+An extension could
+be made to include the eQ'ects of small concentrations
+of He'.
+A more difEcult class of problem, and one which we
+have left completely untouched, is the answer to
+question (c) of the introduction. Namely, what is the
+detailed nature of the excitations involved at the higher
+temperatures of 1 to 2.2'K? Most of the experimental
+work has been done in this region. The atomic viewpoint cannot claim a real understanding of the situation
+in liquid He II until this problem is solved. (See note
+added in proof.)*
+There is a third group of problems which has not
+been touched upon. They involve the question,
+(d) What is the mechanism of the Rollin film?'
+This seems to be a problem of the very low-temperature
+behavior and should properly have been discussed in
+this paper. A suggestion of Bijl, de Boer, and Michels"
+involves the idea that the energy of a layer of the
+"To the effect considered in the text, there must be added the
+large free-energy difference at absolute zero, which arises from the
+difference in zero-point energy occasioned by the difference in
+atomic mass. In erst approximation, the wave function is unaltered
+bnt the kinetic energy, —{it'/2m)Vs, is higher, for m is 3 instead
+of 4. This difference is, therefore, close to —, of the mean kinetic
+energy, per He4 atom, in the ground state.
+~L. D. Landau and I. M. Khalatnikov, J. Exptl. Theoret.
+Physik {U.S.S.R.) 19, 637, 709 (j.949).
+"Bijl, de Boer, and Michels, Physica 8, 655 (1941).
+LIQUID He, NEAR O'K 130'7
+liquid depends strongly on the thickness of the layer,
+decreasing for thicker layers, even up to 100 atoms
+thick. If this view is correct, we should look for the
+answer by studying the energy of the ground state, to
+see if it is dependent on the shape of the container.
+It is possible that such a dependence exists, even for
+thick layers, because of the very long permutation
+rings involved at low temperatures in the condensed
+phase. These rings are long enough to wander over the
+entire volume of the liquid, so that the energy may be
+sensitive to the shape. We have not yet been able to
+verify quantitatively the correctness of this idea.
+Finally, the problem of critical flow velocities, and
+the resistance to high-speed motions, remains unsolved.
+The analysis of pure liquid He' requires a new start
+because our physical arguments so far have depended
+so strongly on the Bose statistics.
+The author has profited from conversations with
+K. Wigner, H. A. Bethe, and R. F. Christy.
+W(z")=X!—'Q ! exp—
+m !dx;)'
+40 2' i (du )
++P V(x;—x;) du nNx, (u), (2)
+using the notation of that paper )I, Eq. (5)). The
+integral Jtrp is taken over all trajectories x,(u) of the
+atoms which start from the positions x;(0)=x; and end
+up at some permutation x;(P)=Ex; of z;. The sum is
+taken on all permutations P. It was pointed out that
+if a configuration z; contained atoms nearly overlapping,
+or in some other unfavorable arrangement, the important trajectories x;(u) would almost immediately
+move to release the energy of the unfavorable arrangement (for example, overlapping atoms would spring
+apart). The time for this was generally much less than
+P. Thus the various configurations could be given a
+weight p(xi, z~ . z~)=p(z ). The slower motions of
+atomic diffusion contributed an additional exponential
+factor, so an approximate expression LI Eq. (7)),
+(
+~~ )
+3N/2
+W(z")=¹!'Epi
+4 2z Ph')
+nz'
+XP exp — P(z,—Px~)' p(x~), (3)
+2Pk2
+AppENDIx
+In a previous paper, '
+I, an approximate partition
+function was proposed for liquid helium. Without
+modification it will not describe the phonon states
+correctly. The necessary modifications are discussed
+here.
+In I, it was noted that the partition function of
+helium is the integral over all configurations z; of the
+quantity
+was proposed. The factor p was to be (for low temperatures, large P) nearly independent of P, as it represents
+the effect of rapid local motions. It is p(z~)', where g
+is the ground, -state wave function.
+On the other hand, it was remarked (footnote 11 of I)
+that general variations in density over large d,istances
+would not be so rapidly released. We now consider in
+detail the effect of these compressional waves.
+To a sound wave of wave number E, and frequency
+~=cE, where c is the speed of sound, correspond
+phonons of energy fuo. A density Quctuation of this
+wavelength X=2xE ' would take a time v of order
+1/her to decay (calling u "time" as in I). This time
+will exceed P, for wavelengths X)2vrkc/kT=27r. 17A/
+T'E. Since this distance exceeds the atomic spacing
+3.6A and the diffusion distance (2P5'/m) &=4.8A/(T'E) &,
+there is clear separation of these waves from local
+a,tomic motions. Therefore, an expression hke (3) is
+correct locally, for a density Quctuation over a small
+region is rapidly released so that its effect can be
+contained in p (by having p smaller for such fluctuations). But a fluctuation over long distances will not
+even out in a time P and is not correctly described in (3).
+Choose a length 1/Eo exceeding the atomic spacing,
+but below the wavelength of sound excited at the given
+temperature (ScEOP»1). For distances inside 1/Eo no
+new considerations are necessary, and (3) is locally
+correct. For long distances it must be altered. Let
+u(R) be the. average number density at R in the
+configuration z,—the average being taken over a region
+of volume 1/E0'. We shall determine how the probability of this configuration depends on u(R) Lthe result
+is (9) below).
+We may describe the motions x;(u) as local atomic
+movements (within distances Eo ') and general drift
+motions of the center of gravity of the atoms in a
+volume Eo—'. It is convenient to describe the initial
+density distribution by imagining that it arose from an
+initially uniform distribution of density eo by a displacement. If the atoms originally at R were displaced
+by Do(R), the density is e(R)=eo(1+1' Do), where
+Qo= Vg is the density averaged over the entire fluid.
+As the trajectories in (2) move, there is a general drift
+which we will describe by giving the displacement
+D(R, u) as a function of u. What is the energy associated with this drift? First, to the kinetic energy of the
+atoms due to local motion there is an extra contribution
+from the general drift (m/2Vg)(c! D/Bu)' per unit
+volume. Further, suppose a region temporarily has an
+extra high local density. This will limit the path-space
+volume available (and also change the average mutual
+potential energies). Therefore there will be an extra
+factor accumulated in each little interval of time. This
+we can write as a factor e
+~"""~for the volume dV in
+time du. This E (the energy resulting from the compression) depends just on the density, hence on !7 D.
+We expand it in powers of V. D. The constant term
+may be omitted by changing the zero from which we
+1308 R. P. FEYNMAN
+measure energy. The linear term gives nothing for its
+integral over all the liquid vanishes J'V' Dd V=0 from
+the conservation of mass. The quadratic term is
+written conveniently as (1/2)mc'V~ '(7 D)', for c
+de6ned this way becomes the speed of sound. Higherorder terms produce phonon-phonon scattering, but me
+neglect them here. Thus, in addition to the features
+which go to make up (3) locally, there is a factor
+controlling the large scale motions,
+m t
+s
+p f' (BD)'
+exp—2V a'~, J «au&
++Pi'c'(V' D)' idUdu nD(R, u), (4)
+where the 0 are to be summed over all displacement
+fields such that'4 D(R, 0)= D0 ——D(R, p), with
+V D0= V~u(R) —1.
+This is best analyzed in momentum space. We put
+D(R, u) = A(K, u) exp(iK R)d'K(2~) —'.
+The A field can be separated into transverse components
+Ai and A0 and a longitudinal component B=A K/K
+Thus
+v D= zB(K, u)~'x Rd0K(2~)-0,
+author.
+"
+There results (&a= cE),
+m50i q
+'* m5(o (~Phd
+exp — B0't»h1 I
+' (7)
+(2~V~k sinh(0~Ph) J V~A E 2 )
+The complete partition function is the integral (2)
+over all initial con6gurations. We therefore integrate
+(7) over B0 to get the contribution from this mode.
+The integral yields
+[2 sinh(coPA) tanh(~cuPA) 1
+'= [2.sinh(-', &oPh)$ '
+=exp(—0cvPS) [1—exp(—coPfi) j
+',
+the usual partition function from such a mode. All the
+modes together contribute
+exp —~
+in[2 sinh(-, 00Ph) jd'K(2m)-'V, (8) 1
+the integral extending over all modes of wave number
+less than Eo. This factor in the partition function gives
+the usual Debye speci6c heat, varying as T' as long as
+our temperatures are, as we have assumed, small enough
+that X,cd»1.
+Multiplication of the factors (7) for all modes tells
+us that density fluctuations have a probability proportional to
+mg0
+I
+(coPk )
+d0K
+exp — i [&Bo(K)j' tanhl I
+~'~ (9)
+t/'~Q J & 2 1 (2ir)'0~l
+where ESO is the Fourier transform of the density
+fluctuation [from (5)j,
+and (4) becomesm ~& r (BB)' It'BAi) 0
+exp — 1 1 +Ii'o'K'B'+ 1
+2V~h'~, ~ &au) & an)
+(aA0q '
++1 1
+d'K(2m) —'du $Ai(K, u)nA0x)B. (6) Eau)
+The transverse displacements act as free particle
+motions, for there is no restoring force. They contribute
+a factor (m/2~PA) ' per mode. This is already contained
+in (3) (but with m' for m, which makes little difference
+for the small fraction V~0' of modes involved). We
+need not count them again in (6).
+For each longitudinal mode, we must integrate an
+expression of the form
+m5 t
+s
+(dB )
+'
+exp — 1 1 +g'c0~0B0 'du 1, g)B(u)
+I 2V~h'~0 (du ) I
+where 8 is the E-space volume per mode for all B(u)
+which begin and end at 80. This may be easily done by
+a method explained in another connection by the
+' In principle the anal displacements could diGer from the
+initial by an atomic spacing d (because atoms may be permuted).
+But the actual displacements permitted by (4) are very much
+smaller than d, so that the only important term from (4) is that
+for which the configuration is restored atom by atom.
+EB (K)= Vg (n(R) —u0)e'x Rd'R. 0
+J
+0
+Since, for large cePfi.
+,
+tanh(-', coPA) is nearly 1, the density
+fluctuations of short wavelength are independent of
+the temperature. For these the factor (9) could just as
+well be combined with the temperature independent
+factor p to make a new effective p. This shows that
+the results do not depend on the exact choice of Eo.
+For long waves tanh(i00rpk) falls below 1 and wider'
+fiuctuations are permitted than would be expected from
+(3). A more accurate representation of (2) is then (3)
+with p containing general variations in density, these
+variations being weighed by multiplying by the factor
+(9), normalized. A factor (m'/2vrP5') ~i' should be
+replaced by (8).
+The purpose of this appendix is just to note that (3)
+does not automatically contain the phonon eBects, but
+must be modihed to include them. The study of such
+questions as the nature of higher-energy excitations
+and the character of the transition can presumably be
+made using (3) without modification. It is convenient
+that the sound wavelengths are so long that a nearly
+complete separation can be made of the local behavior
+and the behavior of the overlying compressional waves.
+"R. P. Feynman, Phys. Rev. 84, 108 (1951) Appendix C.
+The explicit answer is given in R. P. Feynman, Revs. Modern
+Phys. 20, 367 (1948) on page 386, by substituting &=0, g;=go
+=Bp, h= iV~A'/mb (—a=i(vh. T=P.

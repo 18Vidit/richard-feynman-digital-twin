@@ -1,0 +1,487 @@
+---
+title: Electrodynamics in Relativistic Notation
+author: Richard P. Feynman
+year: 1964
+source_type: book
+topic: Relativistic Electrodynamics
+source_url: https://feynmanlectures.caltech.edu/II_25.html
+---
+
+
+(The photos for chapter 25, which includes the summary for this lecture, are missing from the Caltech Archives.)
+
+
+Review:	Chapter 15, Vol. I, The Special Theory of Relativity
+Chapter 16, Vol. I, Relativistic Energy and Momentum
+Chapter 17, Vol. I, Space-Time
+Chapter 13, Vol. II, Magnetostatics
+In this chapter: c=1
+25–1Four-vectors
+We now discuss the application of the special theory of relativity to electrodynamics. Since we have already studied the special theory of relativity in Chapters 15 through 17 of Vol. I, we will just review quickly the basic ideas.
+
+It is found experimentally that the laws of physics are unchanged if we move with uniform velocity. You can’t tell if you are inside a spaceship moving with uniform velocity in a straight line, unless you look outside the spaceship, or at least make an observation having to do with the world outside. Any true law of physics we write down must be arranged so that this fact of nature is built in.
+
+The relationship between the space and time of two systems of coordinates, one, S′
+, in uniform motion in the x
+-direction with speed v
+ relative to the other, S
+, is given by the Lorentz transformation:
+t′x′=t−vx1−v2−−−−−√,=x−vt1−v2−−−−−√,y′z′=y,=z.(25.1)
+ 
+The laws of physics must be such that after a Lorentz transformation, the new form of the laws looks just like the old form. This is just like the principle that the laws of physics don’t depend on the orientation of our coordinate system. In Chapter 11 of Vol. I, we saw that the way to describe mathematically the invariance of physics with respect to rotations was to write our equations in terms of vectors.
+
+For example, if we have two vectors
+A=(Ax,Ay,Az)andB=(Bx,By,Bz),
+we found that the combination
+A⋅B=AxBx+AyBy+AzBz
+was not changed if we transformed to a rotated coordinate system. So we know that if we have a scalar product like A⋅B
+ on both sides of an equation, the equation will have exactly the same form in all rotated coordinate systems. We also discovered an operator (see Chapter 2),
+∇=(∂∂x,∂∂y,∂∂z),
+which, when applied to a scalar function, gave three quantities which transform just like a vector. With this operator we defined the gradient, and in combination with other vectors, the divergence and the Laplacian. Finally we discovered that by taking sums of certain products of pairs of the components of two vectors we could get three new quantities which behaved like a new vector. We called it the cross product of two vectors. Using the cross product with our operator ∇
+ we then defined the curl of a vector.
+
+Since we will be referring back to what we have done in vector analysis, we have put in Table 25–1 a summary of all the important vector operations in three dimensions that we have used in the past. The point is that it must be possible to write the equations of physics so that both sides transform the same way under rotations. If one side is a vector, the other side must also be a vector, and both sides will change together in exactly the same way if we rotate our coordinate system. Similarly, if one side is a scalar, the other side must also be a scalar, so that neither side changes when we rotate coordinates, and so on.
+
+Table 25–1
+The important quantities and operations of vector analysis in three dimensions
+Definition of a vector	A=(Ax,Ay,Az)
+Scalar product	A⋅B
+Differential vector operator	∇
+Gradient	∇ϕ
+Divergence	∇⋅A
+Laplacian	∇⋅∇=∇2
+Cross product	A×B
+Curl	∇×A
+Now in the case of special relativity, time and space are inextricably mixed, and we must do the analogous things for four dimensions. We want our equations to remain the same not only for rotations, but also for any inertial frame. That means that our equations should be invariant under the Lorentz transformation of equations (25.1). The purpose of this chapter is to show you how that can be done. Before we get started, however, we want to do something that makes our work a lot easier (and saves some confusion). And that is to choose our units of length and time so that the speed of light c
+ is equal to 1
+. You can think of it as taking our unit of time to be the time that it takes light to go one meter (which is about 3×10−9
+ sec). We can even call this time unit “one meter.” Using this unit, all of our equations will show more clearly the space-time symmetry. Also, all the c
+’s will disappear from our relativistic equations. (If this bothers you, you can always put the c
+’s back into any equation by replacing every t
+ by ct
+, or, in general, by sticking in a c
+ wherever it is needed to make the dimensions of the equations come out right.) With this groundwork we are ready to begin. Our program is to do in the four dimensions of space-time all of the things we did with vectors for three dimensions. It is really quite a simple game; we just work by analogy. The only real complication is the notation (we’ve already used up the vector symbol for three dimensions) and one slight twist of signs.
+
+First, by analogy with vectors in three dimensions, we define a four-vector as a set of the four quantities at
+, ax
+, ay
+, and az
+, which transform like t
+, x
+, y
+, and z
+ when we change to a moving coordinate system. There are several different notations people use for a four-vector; we will write aμ
+, by which we mean the group of four numbers (at,ax,ay,az)
+—in other words, the subscript μ
+ can take on the four “values” t
+, x
+, y
+, z
+. It will also be convenient, at times, to indicate the three space components by a three-vector, like this: aμ=(at,a)
+.
+
+We have already encountered one four-vector, which consists of the energy and momentum of a particle (Chapter 17, Vol. I): In our new notation we write
+pμ=(E,p),(25.2)
+which means that the four-vector pμ
+ is made up of the energy E
+ and the three components of the three-vector p
+ of a particle.
+
+It looks as though the game is really very simple—for each three-vector in physics all we have to do is find what the remaining component should be, and we have a four-vector. To see that this is not the case, consider the velocity vector with components
+vx=dxdt,vy=dydt,vz=dzdt.
+The question is: What is the time component? Instinct should give the right answer. Since four-vectors are like t
+, x
+, y
+, z
+, we would guess that the time component is
+vt=dtdt=1.
+This is wrong. The reason is that the t
+ in each denominator is not an invariant when we make a Lorentz transformation. The numerators have the right behavior to make a four-vector, but the dt
+ in the denominator spoils things; it is unsymmetric and is not the same in two different systems.
+
+It turns out that the four “velocity” components which we have written down will become the components of a four-vector if we just divide by 1−v2−−−−−√
+. We can see that that is true because if we start with the momentum four-vector
+pμ=(E,p)=(m01−v2−−−−−√,m0v1−v2−−−−−√),(25.3)
+and divide it by the rest mass m0
+, which is an invariant scalar in four dimensions, we have
+pμm0=(11−v2−−−−−√,v1−v2−−−−−√),(25.4)
+which must still be a four-vector. (Dividing by an invariant scalar doesn’t change the transformation properties.) So we can define the “velocity four-vector” uμ
+ by
+utux=11−v2−−−−−√,=vx1−v2−−−−−√,uyuz=vy1−v2−−−−−√,=vz1−v2−−−−−√,(25.5)
+ 
+The four-velocity is a useful quantity; we can, for instance, write
+pμ=m0uμ.(25.6)
+This is the typical sort of form an equation which is relativistically correct must have; each side is a four-vector. (The right-hand side is an invariant times a four-vector, which is still a four-vector.)
+
+25–2The scalar product
+It is an accident of life, if you wish, that under coordinate rotations the distance of a point from the origin does not change. This means mathematically that r2=x2+y2+z2
+ is an invariant. In other words, after a rotation r′2=r2
+, or
+x′2+y′2+z′2=x2+y2+z2.
+Now the question is: Is there a similar quantity which is invariant under the Lorentz transformation? There is. From Eq. (25.1) you can see that
+t′2−x′2=t2−x2.
+That is pretty nice, except that it depends on a particular choice of the x
+-direction. We can fix that up by subtracting y2
+ and z2
+. Then any Lorentz transformation plus a rotation will leave the quantity unchanged. So the quantity which is analogous to r2
+ for three dimensions, in four dimensions is
+t2−x2−y2−z2.
+It is an invariant under what is called the “complete Lorentz group”—which means for transformation of both translations at constant velocity and rotations.
+
+Now since this invariance is an algebraic matter depending only on the transformation rules of Eq. (25.1)—plus rotations—it is true for any four-vector (by definition they all transform the same). So for a four-vector aμ
+ we have that
+a′2t−a′2x−a′2y−a′2z=a2t−a2x−a2y−a2z.
+We will call this quantity the square of “the length” of the four-vector aμ
+. (Sometimes people change the sign of all the terms and call the length a2x+a2y+a2z−a2t
+, so you’ll have to watch out.)
+
+Now if we have two vectors aμ
+ and bμ
+ their corresponding components transform in the same way, so the combination
+atbt−axbx−ayby−azbz
+is also an invariant (scalar) quantity. (We have in fact already proved this in Chapter 17 of Vol. I.) Clearly this expression is quite analogous to the dot product for vectors. We will, in fact, call it the dot product or scalar product of two four-vectors. It would seem logical to write it as aμ⋅bμ
+, so it would look like a dot product. But, unhappily, it’s not done that way; it is usually written without the dot. So we will follow the convention and write the dot product simply as aμbμ
+. So, by definition,
+aμbμ=atbt−axbx−ayby−azbz.(25.7)
+Whenever you see two identical subscripts together (we will occasionally have to use ν
+ or some other letter instead of μ
+) it means that you are to take the four products and sum, remembering the minus sign for the products of the space components. With this convention the invariance of the scalar product under a Lorentz transformation can be written as
+a′μb′μ=aμbμ.
+
+Since the last three terms in (25.7) are just the scalar dot product in three dimensions, it is often more convenient to write
+aμbμ=atbt−a⋅b.
+It is also obvious that the four-dimensional length we described above can be written as aμaμ
+:
+aμaμ=a2t−a2x−a2y−a2z=a2t−a⋅a.(25.8)
+It will also be convenient to sometimes write this quantity as a2μ
+:
+a2μ≡aμaμ.
+
+We will now give you an illustration of the usefulness of four-vector dot products. Antiprotons (P¯¯¯¯
+) are produced in large accelerators by the reaction
+P+P→P+P+P+P¯¯¯¯.
+That is, an energetic proton collides with a proton at rest (for example, in a hydrogen target placed in the beam), and if the incident proton has enough energy, a proton-antiproton pair may be produced, in addition to the two original protons.1 The question is: How much energy must be given to the incident proton to make this reaction energetically possible?
+
+
+Fig. 25–1. The reaction P+P→3P+P¯¯¯¯
+ viewed in the laboratory and CM systems. The incident proton is supposed to have just barely enough energy to make the reaction go. Protons are denoted by solid circles; antiprotons by open circles.
+The easiest way to get the answer is to consider what the reaction looks like in the center-of-mass (CM) system (see Fig. 25–1). We’ll call the incident proton a
+ and its four-momentum paμ
+. Similarly, we’ll call the target proton b
+ and its four-momentum pbμ
+. If the incident proton has just barely enough energy to make the reaction go, the final state—the situation after the collision—will consist of a glob containing three protons and an antiproton at rest in the CM system. If the incident energy were slightly higher, the final state particles would have some kinetic energy and be moving apart; if the incident energy were slightly lower, there would not be enough energy to make the four particles.
+
+If we call pcμ
+ the total four-momentum of the whole glob in the final state, conservation of energy and momentum tells us that
+pa+pb=pc,
+and
+Ea+Eb=Ec.
+Combining these two equations, we can write that
+paμ+pbμ=pcμ.(25.9)
+
+Now the important thing is that this is an equation among four-vectors, and is, therefore, true in any inertial frame. We can use this fact to simplify our calculations. We start by taking the “length” of each side of Eq. (25.9); they are, of course, also equal. We get
+(paμ+pbμ)(paμ+pbμ)=pcμpcμ.(25.10)
+Since pcμpcμ
+ is invariant, we can evaluate it in any coordinate system. In the CM system, the time component of pcμ
+ is the rest energy of four protons, namely 4M
+, and the space part p
+ is zero; so pcμ=(4M,0)
+. We have used the fact that the rest mass of an antiproton equals the rest mass of a proton, and we have called this common mass M
+.
+
+Thus, Eq. (25.10) becomes
+paμpaμ+2paμpbμ+pbμpbμ=16M2.(25.11)
+Now paμpaμ
+ and pbμpbμ
+ are very easy, since the “length” of the momentum four-vector of any particle is just the mass of the particle squared:
+pμpμ=E2−p2=M2.
+This can be shown by direct calculation or, more cleverly, by noting that for a particle at rest pμ=(M,0)
+, so pμpμ=M2
+. But since it is an invariant, it is equal to M2
+ in any frame. Using these results in Eq. (25.11), we have
+2paμpbμ=14M2
+or
+paμpbμ=7M2.(25.12)
+
+Now we can also evaluate paμpbμ=paμ′pbμ′
+ in the laboratory system. The four-vector paμ′
+ can be written (Ea′,pa′)
+, while pbμ′=(M,0)
+, since it describes a proton at rest. Thus, paμ′pbμ′
+ must also be equal to MEa′
+; and since we know the scalar product is an invariant this must be numerically the same as what we found in (25.12). So we have that
+Ea′=7M,
+which is the result we were after. The total energy of the initial proton must be at least 7M
+ (about 6.6
+ GeV since M=938
+ MeV) or, subtracting the rest mass M
+, the kinetic energy must be at least 6M
+ (about 5.6
+ GeV). The Bevatron accelerator at Berkeley was designed to give about 6.2
+ GeV of kinetic energy to the protons it accelerates, in order to be able to make antiprotons.
+
+Since scalar products are invariant, they are always interesting to evaluate. What about the “length” of the four-velocity uμuμ
+?
+uμuμ=u2t−u2=11−v2−v21−v2=1.
+Thus, uμ
+ is the unit four-vector.
+
+25–3The four-dimensional gradient
+The next thing that we have to discuss is the four-dimensional analog of the gradient. We recall (Chapter 14, Vol. I) that the three differential operators ∂/∂x
+, ∂/∂y
+, ∂/∂z
+ transform like a three-vector and are called the gradient. The same scheme ought to work in four dimensions; that is, we might guess that the four-dimensional gradient should be (∂/∂t,∂/∂x,∂/∂y,∂/∂z)
+. This is wrong.
+
+To see the error, consider a scalar function ϕ
+ which depends only on x
+ and t
+. The change in ϕ
+, if we make a small change Δt
+ in t
+ while holding x
+ constant, is
+Δϕ=∂ϕ∂tΔt.(25.13)
+On the other hand, according to a moving observer,
+Δϕ=∂ϕ∂x′Δx′+∂ϕ∂t′Δt′.
+We can express Δx′
+ and Δt′
+ in terms of Δt
+ by using Eq. (25.1). Remembering that we are holding x
+ constant, so that Δx=0
+, we write
+Δx′=−v1−v2−−−−−√Δt;Δt′=Δt1−v2−−−−−√.
+Thus,
+Δϕ=∂ϕ∂x′(−v1−v2−−−−−√Δt)+∂ϕ∂t′(Δt1−v2−−−−−√)=(∂ϕ∂t′−v∂ϕ∂x′)Δt1−v2−−−−−√.
+Comparing this result with Eq. (25.13), we learn that
+∂ϕ∂t=11−v2−−−−−√(∂ϕ∂t′−v∂ϕ∂x′).(25.14)
+A similar calculation gives
+∂ϕ∂x=11−v2−−−−−√(∂ϕ∂x′−v∂ϕ∂t′).(25.15)
+
+Now we can see that the gradient is rather strange. The formulas for x
+ and t
+ in terms of x′
+ and t′
+ [obtained by solving Eq. (25.1)] are:
+t=t′+vx′1−v2−−−−−√,x=x′+vt′1−v2−−−−−√.
+This is the way a four-vector must transform. But Eqs. (25.14) and (25.15) have a couple of signs wrong!
+
+The answer is that instead of the incorrect (∂/∂t,∇)
+, we must define the four-dimensional gradient operator, which we will call ∇μ
+, by
+∇μ=(∂∂t,−∇)=(∂∂t,−∂∂x,−∂∂y,−∂∂z).(25.16)
+With this definition, the sign difficulties encountered above go away, and ∇μ
+ behaves as a four-vector should. (It’s rather awkward to have those minus signs, but that’s the way the world is.) Of course, what it means to say that ∇μ
+ “behaves like a four-vector” is simply that the four-gradient of a scalar is a four-vector. If ϕ
+ is a true scalar invariant field (Lorentz invariant) then ∇μϕ
+ is a four-vector field.
+
+All right, now that we have vectors, gradients, and dot products, the next thing is to look for an invariant which is analogous to the divergence of three-dimensional vector analysis. Clearly, the analog is to form the expression ∇μbμ
+, where bμ
+ is a four-vector field whose components are functions of space and time. We define the divergence of the four-vector bμ=(bt,b)
+ as the dot product of ∇μ
+ and bμ
+:
+∇μbμ=∂∂tbt−(−∂∂x)bx−(−∂∂y)by−(−∂∂z)bz=∂∂tbt+∇⋅b,(25.17)
+where ∇⋅b
+ is the ordinary three-divergence of the three-vector b
+. Note that one has to be careful with the signs. Some of the minus signs come from the definition of the scalar product, Eq. (25.7); the others are required because the space components of ∇μ
+ are −∂/∂x
+, etc., as in Eq. (25.16). The divergence as defined by (25.17) is an invariant and gives the same answer in all coordinate systems which differ by a Lorentz transformation.
+
+Let’s look at a physical example in which the four-divergence shows up. We can use it to solve the problem of the fields around a moving wire. We have already seen (Section 13-7) that the electric charge density ρ
+ and the current density j
+ form a four-vector jμ=(ρ,j)
+. If an uncharged wire carries the current jx
+, then in a frame moving past it with velocity v
+ (along x
+), the wire will have the charge and current density [obtained from the Lorentz transformation Eqs. (25.1)] as follows:
+ρ′=−vjx1−v2−−−−−√,j′x=jx1−v2−−−−−√.
+
+These are just what we found in Chapter 13. We can then use these sources in Maxwell’s equations in the moving system to find the fields.
+
+The charge conservation law, Section 13-2, also takes on a simple form in the four-vector notation. Consider the four divergence of jμ
+:
+∇μjμ=∂ρ∂t+∇⋅j.(25.18)
+The law of the conservation of charge says that the outflow of current per unit volume must equal the negative rate of increase of charge density. In other words, that
+∇⋅j=−∂ρ∂t.
+Putting this into Eq. (25.18), the law of conservation of charge takes on the simple form
+∇μjμ=0.(25.19)
+Since ∇μjμ
+ is an invariant scalar, if it is zero in one frame it is zero in all frames. We have the result that if charge is conserved in one coordinate system, it is conserved in all coordinate systems moving with uniform velocity.
+
+As our last example we want to consider the scalar product of the gradient operator ∇μ
+ with itself. In three dimensions, such a product gives the Laplacian
+∇2=∇⋅∇=∂2∂x2+∂2∂y2+∂2∂z2.
+What do we get in four dimensions? That’s easy. Following our rules for dot products and gradients, we get
+∇μ∇μ=∂∂t∂∂t=∂2∂t2−(−∂∂x)(−∂∂x)−(−∂∂y)(−∂∂y)−(−∂∂z)(−∂∂z)−∇2.
+This operator, which is the analog of the three-dimensional Laplacian, is called the d’Alembertian and has a special notation:
+□2=∇μ∇μ=∂2∂t2−∇2.(25.20)
+From its definition it is an invariant scalar operator; if it operates on a four-vector field, it produces a new four-vector field. (Some people define the d’Alembertian with the opposite sign to Eq. (25.20), so you will have to be careful when reading the literature.)
+
+We have now found four-dimensional equivalents of most of the three-dimensional quantities we had listed in Table 25–1. (We do not yet have the equivalents of the cross product and the curl operation; we won’t get to them until the next chapter.) It may help you remember how they go if we put all the important definitions and results together in one place, so we have made such a summary in Table 25–2.
+
+Table 25–2
+The important quantities of vector analysis in three and four dimensions.
+Three dimensions	Four dimensions
+Vector	A=(Ax,Ay,Az)
+aμ=(at,ax,ay,az)=(at,a)
+Scalar product	A⋅B=AxBx+AyBy+AzBz
+aμbμ=atbt−axbx−ayby−azbz=atbt−a⋅b
+Vector operator	∇=(∂/∂x,∂/∂y,∂/∂z)
+∇μ=(∂/∂t,−∂/∂x,−∂/∂y,−∂/∂z)=(∂/∂t,−∇)
+Gradient	∇ψ=(∂ψ∂x,∂ψ∂y,∂ψ∂z)
+∇μφ=(∂φ∂t,−∂φ∂x,−∂φ∂y,−∂φ∂z)=(∂φ∂t,−∇φ)
+Divergence	∇⋅A=∂Ax∂x+∂Ay∂y+∂Az∂z
+∇μaμ=∂at∂t+∂ax∂x+∂ay∂y+∂az∂z=∂at∂t+∇⋅a
+Laplacian and
+d’Alembertian	∇⋅∇=∂2∂x2+∂2∂y2+∂2∂z2=∇2
+∇μ∇μ=∂2∂t2−∂2∂x2−∂2∂y2−∂2∂z2=∂2∂t2−∇2=□2
+25–4Electrodynamics in four-dimensional notation
+We have already encountered the d’Alembertian operator, without giving it that name, in Section 18-6; the differential equations we found there for the potentials can be written in the new notations as:
+□2ϕ=ρϵ0,□2A=jϵ0.(25.21)
+The four quantities on the right-hand side of the two equations in (25.21) are ρ
+, jx
+, jy
+, jz
+ divided by ϵ0
+, which is a universal constant which will be the same in all coordinate systems if the same unit of charge is used in all frames. So the four quantities ρ/ϵ0
+, jx/ϵ0
+, jy/ϵ0
+, jz/ϵ0
+ also transform as a four-vector. We can write them as jμ/ϵ0
+. The d’Alembertian doesn’t change when the coordinate system is changed, so the quantities ϕ
+, Ax
+, Ay
+, Az
+ must also transform like a four-vector—which means that they are the components of a four-vector. In short,
+Aμ=(ϕ,A)
+is a four-vector. What we call the scalar and vector potentials are really different aspects of the same physical thing. They belong together. And if they are kept together the relativistic invariance of the world is obvious. We call Aμ
+ the four-potential.
+
+In the four-vector notation Eqs. (25.21) become simply
+□2Aμ=jμϵ0,(25.22)
+The physics of this equation is just the same as Maxwell’s equations. But there is some pleasure in being able to rewrite them in an elegant form. The pretty form is also meaningful; it shows directly the invariance of electrodynamics under the Lorentz transformation.
+
+Remember that Eqs. (25.21) could be deduced from Maxwell’s equations only if we imposed the gauge condition
+∂ϕ∂t+∇⋅A=0,(25.23)
+which just says ∇μAμ=0
+; the gauge condition says that the divergence of the four-vector Aμ
+ is zero. This condition is called the Lorenz condition. It is very convenient because it is an invariant condition and therefore Maxwell’s equations stay in the form of Eq. (25.22) for all frames.
+
+25–5The four-potential of a moving charge
+Although it is implicit in what we have already said, let us write down the transformation laws which give ϕ
+ and A
+ in a moving system in terms of ϕ
+ and A
+ in a stationary system. Since Aμ=(ϕ,A)
+ is a four-vector, the equations must look just like Eqs. (25.1), except that t
+ is replaced by ϕ
+, and x
+ is replaced by A
+. Thus,
+ϕ′A′x=ϕ−vAx1−v2−−−−−√,=Ax−vϕ1−v2−−−−−√,A′yA′z=Ay,=Az.(25.24)
+ 
+This assumes that the primed coordinate system is moving with speed v
+ in the positive x
+-direction, as measured in the unprimed coordinate system.
+
+
+Fig. 25–2. The frame S′
+ moves with velocity v
+ (in the x
+-direction) with respect to S
+. A charge at rest at the origin of S′
+ is at x=vt
+ in S
+. The potentials at P
+ can be computed in either frame.
+We will consider one example of the usefulness of the idea of the four-potential. What are the vector and scalar potentials of a charge q
+ moving with speed v
+ along the x
+-axis? The problem is easy in a coordinate system moving with the charge, since in this system the charge is standing still. Let’s say that the charge is at the origin of the S′
+-frame, as shown in Fig. 25–2. The scalar potential in the moving system is then given by
+ϕ′=q4πϵ0r′,(25.25)
+r′
+ being the distance from q
+ to the field point, as measured in the moving system. The vector potential A′
+ is, of course, zero.
+
+Now it is straightforward to find ϕ
+ and A
+, the potentials as measured in the stationary coordinates. The inverse relations to Eqs. (25.24) are
+ϕAx=ϕ′+vA′x1−v2−−−−−√,=A′x+vϕ′1−v2−−−−−√,AyAz=A′y,=A′z.(25.26)
+ 
+Using the ϕ′
+ given by Eq. (25.25), and A′=0
+, we get
+ϕ=q4πϵ01r′1−v2−−−−−√=q4πϵ011−v2−−−−−√x′2+y′2+z′2−−−−−−−−−−−√.
+This gives us the scalar potential ϕ
+ we would see in S
+, but, unfortunately, expressed in terms of the S′
+ coordinates. We can get things in terms of t
+, x
+, y
+, z
+ by substituting for t′
+, x′
+, y′
+, and z′
+, using (25.1). We get
+ϕ=q4πϵ011−v2−−−−−√×1[(x−vt)/1−v2−−−−−√]2+y2+z2−−−−−−−−−−−−−−−−−−−−−−−−√.(25.27)
+Following the same procedure for the components of A
+, you can show that
+A=vϕ.(25.28)
+These are the same formulas we derived by a different method in Chapter 21.
+
+25–6The invariance of the equations of electrodynamics
+We have found that the potentials ϕ
+ and A
+ taken together form a four-vector which we call Aμ
+, and that the wave equations—the full equations which determine the Aμ
+ in terms of the jμ
+—can be written as in Eq. (25.22). This equation, together with the conservation of charge, Eq. (25.19), gives us the fundamental law of the electromagnetic field:
+□2Aμ=1ϵ0jμ,∇μjμ=0.(25.29)
+There, in one tiny space on the page, are all of the Maxwell equations—beautiful and simple. Did we learn anything from writing the equations this way, besides that they are beautiful and simple? In the first place, is it anything different from what we had before when we wrote everything out in all the various components? Can we from this equation deduce something that could not be deduced from the wave equations for the potentials in terms of the charges and currents? The answer is definitely no. The only thing we have been doing is changing the names of things—using a new notation. We have written a square symbol to represent the derivatives, but it still means nothing more nor less than the second derivative with respect to t
+, minus the second derivative with respect to x
+, minus the second derivative with respect to y
+, minus the second derivative with respect to z
+. And the μ
+ means that we have four equations, one each for μ=t
+, x
+, y
+, or z
+. What then is the significance of the fact that the equations can be written in this simple form? From the point of view of deducing anything directly, it doesn’t mean anything. Perhaps, though, the simplicity of the equations means that nature also has a certain simplicity.
+
+Let us show you something interesting that we have recently discovered: All of the laws of physics can be contained in one equation. That equation is
+U=0.(25.30)
+What a simple equation! Of course, it is necessary to know what the symbol means. U
+ is a physical quantity which we will call the “unworldliness” of the situation. And we have a formula for it. Here is how you calculate the unworldliness. You take all of the known physical laws and write them in a special form. For example, suppose you take the law of mechanics, F=ma
+, and rewrite it as F−ma=0
+. Then you can call (F−ma)
+—which should, of course, be zero—the “mismatch” of mechanics. Next, you take the square of this mismatch and call it U1
+, which can be called the “unworldliness of mechanical effects.” In other words, you take
+U1=(F−ma)2.(25.31)
+Now you write another physical law, say, ∇⋅E=ρ/ϵ0
+ and define
+U2=(∇⋅E−ρϵ0)2,
+which you might call “the Gaussian unworldliness of electricity.” You continue to write U3
+, U4
+, and so on—one for every physical law there is.
+
+Finally you call the total unworldliness U
+ of the world the sum of the various unworldlinesses Ui
+ from all the subphenomena that are involved; that is, U=∑Ui
+. Then the great “law of nature” is
+U=0.(25.32)
+This “law” means, of course, that the sum of the squares of all the individual mismatches is zero, and the only way the sum of a lot of squares can be zero is for each one of the terms to be zero.
+
+So the “beautifully simple” law in Eq. (25.32) is equivalent to the whole series of equations that you originally wrote down. It is therefore absolutely obvious that a simple notation that just hides the complexity in the definitions of symbols is not real simplicity. It is just a trick. The beauty that appears in Eq. (25.32)—just from the fact that several equations are hidden within it—is no more than a trick. When you unwrap the whole thing, you get back where you were before.
+
+However, there is more to the simplicity of the laws of electromagnetism written in the form of Eq. (25.29). It means more, just as a theory of vector analysis means more. The fact that the electromagnetic equations can be written in a very particular notation which was designed for the four-dimensional geometry of the Lorentz transformations—in other words, as a vector equation in the four-space—means that it is invariant under the Lorentz transformations. It is because the Maxwell equations are invariant under those transformations that they can be written in a beautiful form.
+
+It is no accident that the equations of electrodynamics can be written in the beautifully elegant form of Eq. (25.29). The theory of relativity was developed because it was found experimentally that the phenomena predicted by Maxwell’s equations were the same in all inertial systems. And it was precisely by studying the transformation properties of Maxwell’s equations that Lorentz discovered his transformation as the one which left the equations invariant.
+
+There is, however, another reason for writing our equations this way. It has been discovered—after Einstein guessed that it might be so—that all of the laws of physics are invariant under the Lorentz transformation. That is the principle of relativity. Therefore, if we invent a notation which shows immediately when a law is written down whether it is invariant or not, we can be sure that in trying to make new theories we will write only equations which are consistent with the principle of relativity.
+
+The fact that the Maxwell equations are simple in this particular notation is not a miracle, because the notation was invented with them in mind. But the interesting physical thing is that every law of physics—the propagation of meson waves or the behavior of neutrinos in beta decay, and so forth—must have this same invariance under the same transformation. Then when you are moving at a uniform velocity in a spaceship, all of the laws of nature transform together in such a way that no new phenomenon will show up. It is because the principle of relativity is a fact of nature that in the notation of four-dimensional vectors the equations of the world will look simple.

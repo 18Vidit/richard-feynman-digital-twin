@@ -1,0 +1,3059 @@
+---
+title: "Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction"
+author: Richard P. Feynman
+year: 1950
+source_type: paper
+topic: quantum electrodynamics
+source_url: https://www.additive-net.de/images/software/wolfram/publicon/downloads/FeynmanQED.pdf
+---
+
+Mathematical Formulation of the
+Quantum Theory of Electromagnetic
+Interaction
+R.P. Feynman
+(Received June 8, 1950)
+Abstract
+The validity of the rules given in previous papers for the solution of problems in
+quantum electrodynamics is established. Starting with Fermi’s formulation of the
+field as a set of harmonic oscillators, the effect of the oscillators is integrated out in
+the Lagrangian form of quantum mechanics. There results an expression for the effect
+of all virtual photons valid to all orders in e2 ê —c . It is shown that evaluation of this
+expression as a power series in e2 ê —c gives just the terms expected by the aforementioned rules.
+In addition, a relation is established between the amplitude for a given process in
+an arbitrary unquantized potential and in a quantum electrodynamical field. This
+relation permits a simple general statement of the laws of quantum electrodynamics.
+A description, in Lagrangian quantum-mechanical form, of particles satisfying the
+Klein-Gordon equation is given in an Appendix. It involves the use of an extra
+parameter analogous to proper time to describe the trajectory of the particle in four
+dimensions.
+A second Appendix discusses in the special case of photons, the problem of
+finding what real processes are implied by the formula for virtual processes.
+Problems of the divergences of electrodynamics are not discussed.
+1
+1 Introduction
+In two previous papers1 rules were given for the calculation of the matrix element for
+any process in electrodynamics, to each order in e2 ê —c. No complete proof of the
+equivalence of these rules to the conventional electrodynamics was given in these
+papers. Secondly, no closed expression was given valid to all orders in e2 ê —c. In this
+paper these formal omissions will be remedied.2
+In paper II it was pointed out that for many problems in electrodynamics the
+Hamiltonian method is not advantageous, and might be replaced by the over-all
+space-time point of view of a direct particle interaction. It was also mentioned that
+the Lagrangian form of quantum mechanics3 was useful in this connection. The rules
+given in paper II were, in fact, first deduced in this form of quantum mechanics. We
+shall give this derivation here.
+The advantage of a Lagrangian form of quantum mechanics is that in a system
+with interacting parts it permits a separation of the problem such that the motion of
+any part can be analyzed or solved first, and the results of this solution may then be
+used in the solution of the motion of the other parts. This separation is especially
+useful in quantum electrodynamics which represents the interaction of matter with
+the electromagnetic field. The electromagnetic field is an especially simple system
+and its behavior can be analyzed completely. What we shall show is that the net
+effect of the field is a delayed interaction of the particles. It is possible to do this
+easily only if it is not necessary at the same time to analyze completely the motion of
+the particles. The only advantage in our problems of the form of quantum mechanics
+in C is to permit one to separate these aspects of the problem. There are a number of
+disadvantages, however, such as a lack of familiarity, the apparent (but not real)
+necessity for dealing with matter in non-relativistic approximation, and at times a
+cumbersome mathematical notation and method, as well as the fact that a great deal
+of useful information that is known about operators cannot be directly applied.
+It is also possible to separate the field and particle aspects of a problem in a
+manner which uses operators and Hamiltonians in a way that is much more familiar.
+One abandons the notation that the order of action of operators depends on their
+written position on the paper and substitutes some other convention (such that the
+order of operators is that of the time to which they refer). The increase in manipulative facility which accompanies this change in notation makes it easier to represent
+and to analyze the formal problems in electrodynamics. The method requires some
+discussion, however, and will be described in a succeeding paper. In this paper we
+shall give the derivations of the formulas of II by means of the form of quantum
+mechanics given in C.
+The problem of interaction of matter and field will be analyzed by first solving for
+the behavior of the field in terms of the coordinates of the matter, and finally discussing the behavior of the matter (by matter is actually meant the electrons and
+positrons). That is to say, we shall first eliminate the field variables from the equations of motion of the electrons and then discuss the behavior of the electrons. In this
+way all of the rules given in the paper II will be derived.
+R. P. Feynman
+2
+The problem of interaction of matter and field will be analyzed by first solving for
+the behavior of the field in terms of the coordinates of the matter, and finally discussing the behavior of the matter (by matter is actually meant the electrons and
+positrons). That is to say, we shall first eliminate the field variables from the equations of motion of the electrons and then discuss the behavior of the electrons. In this
+way all of the rules given in the paper II will be derived.
+Actually, the straightforward elimination of the field variables will lead at first to
+an expression for the behavior of an arbitrary number of Dirac electrons. Since the
+number of electrons might be infinite, this can be used directly to find the behavior of
+the electrons according to hole theory by imagining that nearly all the negative
+energy states are occupied by electrons. But, at least in the case of motion in a fixed
+potential, it has been shown that this hole theory picture is equivalent to one in which
+a positron is represented as an electron whose space-time trajectory has had its time
+direction reversed. To show that this same picture may be used in quantum electrodynamics when the potentials are not fixed, a special argument is made based on a
+study of the relationship of quantum electrodynamics to motion in a fixed potential.
+Finally, it is pointed out that this relationship is quite general and might be used for a
+general statement of the laws of quantum electrodynamics.
+Charges obeying the Klein-Gordon equation can be analyzed by a special formalism given in Appendix A. A fifth parameter is used to specify the four-dimensional
+trajectory so that the Lagrangian form of quantum mechanics can be used. Appendix
+B discusses in more detail the relation of real and virtual photon emission. An
+equation for the propagation of a self-interacting electron is given in Appendix C.
+In the demonstration which follows we shall restrict ourselves temporarily to cases
+in which the particle’s motion is non-relativistic, but the transition of the final
+formulas to the relativistic case is direct, and the proof could have been kept relativistic throughout.
+The transverse part of the electromagnetic field will be represented as an assemblage of independent harmonic oscillators each interacting with the particles, as
+suggested by Fermi.4 We use the notation of Heitler.5
+2 Quantum electrodynamics in Lagrangian form
+The Hamiltonian for a set of non-relativistic particles interacting with radiation is,
+classically, H = Hp + HI + Hc + Htr , where
+Hp + HI = ‚n
+1
+ÅÅÅÅ
+2 mn
+-1 Hpn - en Atr
+Hxn LL2 is the Hamiltonian of the particles of mass
+mn , charge en , coordinate xn , and momentum pn , and their interaction with the
+transverse part of the electromagnetic field. This field can be expanded into plane
+waves
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+3
+(1)
+At r
+HxL = H8 pL
+1
+ÅÅÅÅ
+2
+‚K Ae1 IqK
+H1L cosHK ÿ xL + qK
+H3L sinHK ÿ xLM + e2 IqK
+H2L cosHK ÿ xL + qK
+H4L sinHK ÿ xLME
+where e1 and e2 are two orthogonal polarization vectors at right angles to the
+propagation vector K, magnitude k . The sum over K means, if normalized to unit
+volume, 1
+ÅÅÅÅ
+2 Ÿ d3 K ê 8 p3 , and each qK
+HrL
+, can be considered as the coordinate of a
+harmonic oscillator. (The factor 1
+ÅÅÅÅ
+2 arises for the mode corresponding to K and to
+-K is the same.) The Hamiltonian of the transverse field represented as oscillators is
+Htr = 1
+ÅÅÅÅÅ
+2 ‚
+K
+‚
+r=1
+4
+JI!K
+HrL
+M
+2
++ k2 IqK
+HrL
+M
+2
+N
+where !K
+HrL is the momentum conjugate to qK
+HrL
+. The longitudinal part of the field has
+been replaced by the Coulomb interaction6 ,
+Hc = 1
+ÅÅÅÅÅ
+2 ‚n ‚m en em êrnm
+where rnm
+2 = Hxn - xm L
+2 . As is well known, when this Hamiltonian is quantized one
+arrives at the usual theory of quantum electrodynamics. To express these laws of
+quantum electrodynamics one can equally well use the Lagrangian form of quantum
+mechanics to describe this set of oscillators and particles. The classical Lagrangian
+equivalent to this Hamiltonian is L = Lp + LI + Lc + Lt r where
+(2)
+Lp = 1
+ÅÅÅÅ
+2 ⁄n mn xn
+2
+LI = ⁄n en x.
+n ÿ At r Hxn L
+Ltr = 1
+ÅÅÅÅ
+2 ‚K ‚r JHq
+°
+K
+HrL
+L
+2
+- k2 IqK
+HrL
+M
+2
+N
+Lc = - 1
+ÅÅÅÅ
+2 ⁄n ⁄m en em êrmn .
+When this Lagrangian is used in the Lagrangian forms of quantum mechanics of
+C, what it leads to is, of course, mathematically equivalent to the result of using the
+Hamiltonian H in the ordinary way, and is therefore equivalent to the more usual
+forms of quantum electrodynamics (at least for non-relativistic particles). We may,
+therefore, proceed by using this Lagrangian form of quantum electrodynamics, with
+the assurance that the results obtained must agree with those obtained from the more
+usual Hamiltonian form.
+The Lagrangian enters through the statement that the functional which carries the
+system from one state to another is expHi SL where
+S = ‡ L d t = Sp + SI + Sc + Str. (3)
+The time integrals must be written as Riemann sums with some care; for example,
+R. P. Feynman
+4
+SI = ‚ (4) n ‡ en x.
+n HtL ÿ At r
+Hxn HtLL dt
+becomes according to C, Eq. (19)
+S (5) I = ‚n ‚i
+1
+ÅÅÅÅÅ
+2 en Hxn,i+1 - xn,iLÿHAt r
+Hxn,i+1 L + At r
+Hxn,iLL
+so that the velocity x.
+n,i which multiplies At r
+Hxn,iL is
+x (6) .
+n,i = 1
+ÅÅÅÅÅ
+2
+ e-1 Ixn,i+1 - xn,iM +
+1
+ÅÅÅÅÅ
+2
+ e-1 Ixn,i - xn,i-1 M.
+In the Lagrangian form it is possible to eliminate the transverse oscillators as is
+discussed in C, Section 13. One must specify, however, the initial and final state of
+all oscillators. We shall first choose the special, simple case that all oscillators are in
+their ground states initially and finally, so that all photons are virtual. Later we do the
+more general case in which real quanta are present initially or finally. We ask, then,
+for the amplitude for finding no quanta present and the particles in state ct
+ , at time
+t
+ , if at time t
+£ the particles were in state yt
+£ and no quanta were present.
+The method of eliminating field oscillators is described in Section 13 of C. We
+shall simply carry out the elimination here using the notation and equations of C. To
+do this, for simplicity, we first consider in the next section the case of a particle or a
+system of particles interacting with a single oscillator, rather than the entire assemblage of the electromagnetic field.
+3 Force harmonic oscillator
+We consider a harmonic oscillator, coordinate q, Lagrangian L = 1
+ÅÅÅÅ
+2 Iq
+° 2 - w2 q2 M
+interacting with a particle or system of particles, action Sp , through a term in the
+Lagrangian qHtL gHtL where gHtL is a function of the coordinates (symbolized as x) of
+the particle. The precise form of gHtL for each oscillator of the electromagnetic field is
+given in the next section. We ask for the amplitude that at some time t
+ the particles
+are in state ct
+ , and the oscillator is in, say, an eigenstate m of energy wIm + 1
+ÅÅÅÅ
+2 M
+(units are chosen such that — = c = 1) when it is given that at a previous time t
+£ the
+particles were in state yt
+£ . and the oscillator in n. The amplitude for this is the
+transition amplitude [see C, Eq. (61)]
+(7)
+Xct jm †1§ yt£ jn\Sp +S0 +SI =
+‡ ‡ ct * Hxt L jm
+*Hqt L exp iHSp + S0 + SI L
+ÿ jnHqt£ L yt£ Hxt£ L d xt d xt£ d qt d qt£ ! xHtL ! qHtL
+where x represents the variables describing the particle, Sp is the action calculated
+classically for the particles for a given path going from coordinate xt
+£ at t
+£ to xt
+ at
+t
+ , S0 is the action Ÿ 1
+ÅÅÅÅ
+2 Iq
+° 2 - w2 q2 M d t for any path of the oscillator going from qt
+£
+at t
+£ to qt
+ at t
+ , while
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+5
+where x represents the variables describing the particle, Sp is the action calculated
+classically for the particles for a given path going from coordinate xt
+£ at t
+£ to xt
+ at
+t
+ , S0 is the action Ÿ 1
+ÅÅÅÅ
+2 Iq
+° 2 - w2 q2 M d t for any path of the oscillator going from qt
+£
+at t
+£ to qt
+ at t
+ , while
+SI = ‡ qHtL gHtL d t, (8)
+the action of interaction, is a functional of both qHtL and xHtL, the paths of oscillator
+and particles. The symbols " xHtL and " qHtL represent a summation over all possible
+paths of particles and oscillator which go between the given end points in the sense
+defined in C, Eq. (9). (That is, assuming time to proceed in infinitesimal steps, e, an
+integral over all values of the coordinates x and q corresponding to each instant in
+time, suitably normalized.)
+The problem may be broken in two. The result can be written as an integral over
+all paths of the particles only, of Hexp i Sp L ÿ Gmn :
+Xct (9)  jm †1§ yt
+£ jn \Sp +S0+SI = Xct
+ †Gmn § yt
+£ \Sp
+where Gmn is a functional of the path of the particles alone (since it depends on gHtL)
+given by
+(10)
+Gm n = [jm £exp i ‡ qHtL gHtL d tß jn _
+S0
+=
+‡ jm * Hqt
+ L exp i HS0 + SI L jn Hqt
+£ L d qt
+£ d qt
+ " qHtL
+= ‡ jm * HqjL exp ie‚
+i=0
+j-1
+C
+1
+ÅÅÅÅÅ
+2
+ e-2 Hqi+1 - qiL
+2 - 1
+ÅÅÅÅÅ
+2 w2 qi
+2 + qi giG
+ÿ jn Hq0 L d q0 a-1 d q1 a-1 d q2  a-1 d qj
+where we have written the " qHtL out explicitly (and have set a = H2 p ieL
+1
+ÅÅÅÅ
+2 ,
+t
+ - t
+£ = j e, qt
+£ = q0 , qt
+ = qj ). The last form can be written as
+Gm n = ‡ jm (11) * HqjL kHqj , t
+ ; q0 , t
+£
+L jn Hq0 L d q0 d qj
+where kHqj , t
+ ; q0 , t
+£
+L is the kernel [as in I, Eq. (2)] for a forced harmonic oscillator
+giving the amplitude for arrival at qj at time t
+ if at time t
+£ it was known to be at q0 .
+According to C it is given by
+k (12) Hqj , t
+ ; q0 , t
+£
+L = I2 p i w-1 sin wHt
+ - t
+£
+LM- 1
+ÅÅÅÅÅ
+2 exp i QHqj , t
+ ; q0 , t
+£
+L
+where QHqj , t
+ ; q0 , t
+£
+L is the action calculated along the classical path between the
+end points qj , t
+ ; q0 , t
+£ , and is given explicitly in C.
+7 It is
+R. P. Feynman
+6
+(13)
+Q = w ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ 2 sin wHt - t£L
+Ä
+Ç
+ÅÅÅÅÅÅÅÅÅ
+Iqj
+2 + q0
+2 M cos wHt
+ - t
+£
+L - 2 qj q0 +
+2 qj ÅÅÅÅÅÅÅÅÅÅÅÅ w ‡
+t
+£
+t
+
+gHtLsin wHt - t
+£
+L d t
++
+2 q0 ÅÅÅÅÅÅÅÅÅÅÅÅ w ‡
+t
+£
+t
+
+gHtLsin wHt
+ - tL d t -
+2
+ÅÅÅÅÅÅÅÅ w2 ‡
+t
+£
+t
+
+‡
+t
+£
+t
+gHtL gHsLsin wHt
+ - tLsin wHs - t
+£
+L d s d t
+É
+Ö
+ÑÑÑÑÑÑÑÑÑ
+The solution of the motion of the oscillator can now be completed by substituting
+(12) and (13) into (11) and performing the integrals. The simplest case is for
+m, n = 0 for which case8
+j0 Hq0 L = Hwê pL
+1
+ÅÅÅÅ
+2 exp K- 1
+ÅÅÅÅÅ
+2 w q0
+2 O exp K- 1
+ÅÅÅÅÅ
+2
+i w t
+£
+O
+so that the integrals on q0 , qj are just Gaussian integrals. There results
+G00 = exp
+i
+k
+jjjj- 1
+ÅÅÅÅÅÅÅÅÅÅÅ 2 w ‡
+t
+£
+t
+
+‡
+t
+£
+t
+expH-i wHt - sLL gHtL gHsL d t d s
+y
+{
+zzzz
+a result of fundamental importance in the succeeding developments. By replacing
+t - s by its absolute value †t - s§ we may integrate both variables over the entire range
+and divide by 2. We will henceforth make the results more general by extending the
+limits on the integrals from -¶ to +¶. Thus if one wishes to study the effect on a
+particle of interaction with an oscillator for just the period t
+£ to t
+ one may use
+G00 = exp (14) i
+k
+jj- 1
+ÅÅÅÅÅÅÅÅÅÅÅ 4 w ‡
+-¶
+¶
+‡
+-¶
+¶
+expH-i w †t - s§L gHtL gHsL d t d s
+y
+{
+zz
+imagining in this case that the interaction gHtL is zero outside these limits. We defer
+to a later section the discussion of other values of m, n.
+ Since G00 is simply an exponential, we can write it as expHi IL, consider that the
+complete “action” for the system of particles is S = Sp + I and that one computes
+transition elements with this “action” instead of Sp (see C, Sec. 12). The functional I
+which is given by
+I = (15)
+1
+ÅÅÅÅÅ
+4
+i w-1 ‡ ‡ expH-i w †t - s§L gHsL gHtL d s d t
+is complex, however; we shall speak of it as the complex action. It describes the fact
+that the system at one time can affect itself at a different time by means of a temporary storage of energy in the oscillator. When there are several independent oscillators with different interactions, the effect if they arc all in the lowest state at t
+£ and
+t
+ , is the product of their separate G00 contributions. Thus the complex action is
+additive, being the sum of contributions like (15) for each of the several oscillators.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+7
+is complex, however; we shall speak of it as the complex action. It describes the fact
+that the system at one time can affect itself at a different time by means of a temporary storage of energy in the oscillator. When there are several independent oscillators with different interactions, the effect if they arc all in the lowest state at t
+£ and
+t
+ , is the product of their separate G00 contributions. Thus the complex action is
+additive, being the sum of contributions like (15) for each of the several oscillators.
+4 Virtual transitions in the electromagnetic field
+We can now apply these results to eliminate the transverse field oscillators of the
+Lagrangian (2). At first we can limit ourselves to the case of purely virtual transitions
+in the electromagnetic field, so that there is no photon in the field at t
+£ and t
+ . That
+is, all of the field oscillators are making transitions from ground state to ground state.
+The gK HrL , corresponding to each oscillator qK HrL , is found from the interaction
+term LI [Eq. (2b)], substituting the value of At r
+HxL given in (1). There results, for
+example,
+(16)
+gK H1L = H8 pL
+1
+ÅÅÅÅ
+2 ⁄n en He1 ÿ xn
+. L cosHK ÿ xn L
+gK H3L = H8 pL
+1
+ÅÅÅÅ
+2 ⁄n en He1 ÿ xn
+. LsinHK ÿ xn L
+the corresponding results for gK H2L , gK H4L , replace e1 , by e2 .
+The complex action resulting from oscillator of coordinate qK H1L , is therefore
+IK H1L =
+8 p i ÅÅÅÅÅÅÅÅÅÅÅÅ 4 k ‚
+n
+‚
+m
+‡ ‡ en em exp H-i k †t - s§L µHe1 ÿ xn
+. HtLL He1 ÿ xm
+. HsLL cosHK ÿ xn HtLL
+cosHK ÿ xm HsLL d s d t
+The term IK H3L exchanges the cosines for sines, so in the sum IK H1L +IK H3L , the
+product of the two cosines, cos A ÿ cos B is replaced by Hcos A cos B + sin A sin BL or
+cosHA - BL. The terms IK H2L +IK H4L
+, give the same result with e2 replacing e1 . The
+sum He1 ÿVL He1 ÿV£
+L + He2 ÿVL He2 ÿV£
+L is V ÿV£ - k-2 HK ÿVL HK ÿV£
+L since it is the
+sum of the products of vector components in two orthogonal directions, so that if we
+add the product in the third direction (that of K) we construct the complete scalar
+product. Summing over all K then, since ⁄ K = 1
+ÅÅÅÅ
+2 Ÿ d3 K ê 8 p3 we find for the total
+complex action of all of the transverse oscillators,
+(17)
+It r = i„
+n
+„
+m
+‡
+t
+£
+t
+
+d t ‡
+t
+£
+t
+
+d s ‡ en em
+expH-i k †t - s§L µAxn
+. HtL ÿ xm
+. HsL - k-2 IK ÿ xn
+. HtLM HK ÿ xm
+. HsLLE
+ÿ cosHK ÿHxn
+. HtL - xm
+. HsLLL
+d3 K ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ 8 p2 k .
+This is to be added to Sp + Sc to obtain the complete action of the system with the
+oscillators removed.
+R. P. Feynman
+8
+The term in HK ÿ xn
+. HtLL HK ÿ xm
+. HsLL can be simplified by integration by parts with
+respect to t and with respect to s [note that expH-i k †t - s§L has a discontinuous slope
+at t = s, or break the integration up into two regions]. One finds
+I (18) t r = R - Ic + Itransient
+where
+(19)
+R = -i„
+n
+„
+m
+‡
+t
+£
+t
+
+d t ‡
+t
+£
+t
+
+d s ‡ en em µexpH-i k †t - s§L H1 - x.
+n HtL ÿ x.
+m HsLL
+ÿ cos K ÿHxn HtL - xm HsLL d3 K ê 8 p2 k
+and
+Ic = -‚ (20)
+n
+‚
+m
+‡
+t
+£
+t
+
+d t ‡ en em cos K ÿHxn HtL - xm HtLL d3 K ê 4 p2 k2
+comes from the discontinuity in slope of expH-i k †t - s§L at t = s. Since
+‡ cosHK ÿRL d3 K ë 4 p2 k2 = ‡
+0
+¶
+HkrL
+-1 sin HkrL d k ê p = H2 rL
+-1
+this term Ic just cancels the Coulomb interaction term Sc = Ÿ Lc d t. The term
+(21)
+Itransient =
+-„
+n
+„
+m
+en em ‡ d3 K ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ 4 p2 k2 µ
+lo
+m
+n
+o‡
+t
+£
+t
+
+@expH-i k Ht
+ - tLL cos K ÿHxn Ht
+ L - xm HtLL
++exp H-i k Ht - t
+£
+LL cos K ÿHxn HtL - xm Ht
+£
+LLD d t +
+H2 kL
+-1 i@ cos K ÿHxn Ht
+ L - xm Ht
+ LL + cos K ÿHxn Ht
+£
+L - xm Ht
+£
+LL -
+2 expH-i k Ht
+ - t
+£
+LL cos K ÿHxn Ht
+£
+L - xm Ht
+ LLD
+|o
+}
+~
+o
+is one which comes from the limits of integration at t
+£ and t
+ , and involves the
+coordinates of the particle at either one of these times or the other. If t
+£ and t
+ are
+considered to be exceedingly far in the past and future, there is no correlation to be
+expected between these temporally distant coordinates and the present ones, so the
+effects of Itransient will cancel out quantum mechanically by interference. This transient was produced by the sudden turning on of the interaction of field and particles
+at t
+£ and its sudden removal at t
+ . Alternatively we can imagine the charges to be
+turned on after t
+£ adiabatically and turned off slowly before t
+ (in this case, in the
+term Lc , the charges should also be considered as varying with time). In this case, in
+the limit, Itransient is zero.9 Hereafter we shall drop the transient term and consider the
+range of integration of t to be from -¶ to +¶, imagining, if one needs a definition,
+that the charges vary with time and vanish in the direction of either limit.
+To simplify R we need the integral
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+9
+J = ‡ expH-i k †t§L cosHK ÿ RL d (22) 3 K ë 8 p2 k = ‡
+0
+¶
+expH-i k †t§L sinHkrL d k ê 2 p r
+where r is the length of the vector R. Now
+‡
+0
+¶
+expH-i k xL d k = lim
+eØ0
+I-iHx - ieL
+-1 M = -i x-1 + p dHxL = p d+ HxL
+where the equation serves to define d+ HxL [as in II, Eq. (3)]. Hence, expanding
+sinHk rL in exponentials find
+(23)
+J = -H4 p rL
+-1 IH†t§ - rL
+-1 - H†t§ + rL
+-1 M + H4 irL
+-1 HdH†t§ - rL - dH†t§ + rLL
+= -H2 pL
+-1 It
+2 - r
+2 M
+-1
++ H2 iL
+-1 dIt
+2 - r
+2 M
+= - 1
+ÅÅÅÅÅ
+2 i d+ It
+2 - r2 M
+where we have used the fact that
+dIt
+2 - r
+2 M = H2 rL
+-1 HdH†t§ - rL + dH†t§ + rLL
+and that dH†t§ + rL = 0 since both † t§ and r are necessarily positive.
+Substitution of these results into (19) gives finally,
+(24)
+R = - 1
+ÅÅÅÅÅ
+2 ‚
+n
+‚
+m
+‡
+-¶
++¶
+‡
+-¶
++¶
+en em H1 - x.
+n HtLÿ x.
+m HsLLµ d+ IHt - sL
+2 - Hxn HtL - xm HsLL2 M d t d s.
+The total complex action of the system is then10 Sp + R. Or, what amounts to the
+same thing; to obtain transition amplitudes including the effects of the field we must
+calculate the transition element of expHi RL:
+Xct (25)  †exp i R§ yt
+£ \Sp
+under the action Sp of the particles, excluding interaction. Expression (24) for R
+must be considered to be written in the usual manner as a Riemann sum and the
+expression (25) interpreted as defined in C [Eq. (39)]. Expression (6) must be used
+for xn
+. at time t.
+Expression (25), with (24), then contains all the effects of virtual quanta on a (at
+least non-relativistic) system according to quantum electrodynamics. It contains the
+effects to all orders in e2 ê — c in a single expression. If expanded in a power series in
+e2 ê — c, the various terms give the expressions to the corresponding order obtained by
+the diagrams and methods of II. We illustrate this by an example in the next section.
+R. P. Feynman
+10
+5 Example of application of expression (25)
+We shall not be much concerned with the non-relativistic case here, as the relativistic
+case given below is as simple and more interesting. It is, however, very similar and at
+this stage it is worth giving an example to show how expressions resulting from (25)
+are to be interpreted according to the rules of C. For example, consider the case of a
+single electron, coordinate x, either free or in an external given potential (contained
+for simplicity in11 Sp , not in R). Its interaction with the field produces a reaction
+back on itself given by R as in (24) but in which we keep only a single term corresponding to m = n. Assume the effect of R to be small and expand expHi RL as
+1 + i R. Let us find the amplitude at time t
+ of finding the electron in a state y with
+no quanta emitted, if at time t
+£ it was in the same state. It is
+Xyt
+ †1 + i R§ yt
+£ \Sp = Xyt
+ †1§ yt
+£ \Sp + i Xyt
+ †R§ yt
+£ \Sp
+where Xyt
+ †1§ yt
+£ \Sp = exp@-i EHt
+ - t
+£
+LD if E is the energy of the state, and
+(26)
+Xyt
+ †R§ yt
+£ \Sp =
+- 1
+ÅÅÅÅÅ
+2 e2 ‡
+t
+£
+t
+
+d t ‡
+t
+£
+t
+
+d sYyt
+ °H1 - x.
+t ÿ x.
+sL d+ IHt - sL
+2 - Hxt - xsL
+2 M• yt
+£ ]
+Sp
+.
+Here xs = xHsL, etc. In (26) we shall limit the range of integrations by assuming s < t,
+and double the result.
+The expression within the brackets X \Sp on the right-hand side of (26) can be
+evaluated by the methods described in C [Eq. (29)]. An expression such as (26) can
+also be evaluated directly in terms of the propagation kernel KH2, 1L [see I, Eq. (2)]
+for an electron moving in the given potential.
+The term xt
+. ÿ xs
+. in the non-relativistic case produces an interesting complication
+which does not have an analog for the relativistic case with the Dirac equation. We
+discuss it below, but for a moment consider, in further detail expression (26) but with
+the factor H1 - xs
+. ÿ xt
+.
+L replaced simply by unity.
+The kernel KH2, 1L is defined and discussed in I. From its definition as the amplitude that the electron be found at x2 at time t2 , if at t1 it was at x1 , we have
+KHx2 , t2 ; x1 , t1 L = XdHx - x2 L t2 †1§ dHx - x1 L t1 \S (27) p
+that is, more simply KH2, 1L is the sum of expHi Sp L over all paths which go from
+space time point 1 to 2.
+In the integrations over all paths implied by the symbol in (26) we can first
+integrate over all the xi variables corresponding to times ti from t
+£ to s, not inclusive, the result being a factor KHxs, s; xt
+£ , t
+£
+L according to (27). Next we integrate on
+the variables between s and t not inclusive, giving a factor KHxt , t; xs, sL and finally
+on those between t and t
+ giving KHxt
+ , t
+ ; xt , tL. Hence the left-hand term in (26)
+excluding the xt
+. ÿ xs
+. factor is
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+11
+In the integrations over all paths implied by the symbol in (26) we can first
+integrate over all the xi variables corresponding to times ti from t
+£ to s, not inclusive, the result being a factor KHxs, s; xt
+£ , t
+£
+L according to (27). Next we integrate on
+the variables between s and t not inclusive, giving a factor KHxt , t; xs, sL and finally
+on those between t and t
+ giving KHxt
+ , t
+ ; xt , tL. Hence the left-hand term in (26)
+excluding the xt
+. ÿ xs
+. factor is
+(28)
+-e2
+‡ d t ‡ d s ‡ y* Hxt
+ , t
+ L KHxt
+ , t
+ ; xt , tL d+ IHt - sL
+2 - Hxt - xsL
+2 MÿKHxt , t; xs, sL
+KHxs, s; xt
+£ , t
+£
+L
+µyHxt
+£ , t
+£
+L d3 xt
+ d3 xt d3 xs d3 xt
+£
+which in improved notation and in the relativistic case is essentially the result given
+in II.
+We have made use of a special case of a principle which may be stated more
+generally as
+(29)
+Xct
+ †FHx1 , t1 ; x2 , t2 ;  xk , tk L§ yt
+£ \Sp =
+‡ c* Hxt
+ L KHxt
+ , t
+ ; x1 , t1 L ÿKHx1 , t1 ; x2 , t2 L 
+µKHxk-1 , tk-1 ; xk , tk L KHxk , tk ; xt
+£ , t
+£
+LÿFHx1 , t1 ; x2 , t2 ;  xk , tk L
+µ yHxt
+£ L d3 xt
+ d3 x1 d3 x2  d3 xk d3 xt
+£
+where F is any function of the coordinate x1 , at time t1 , x2 at t2 up to xk , tk , and, it
+is important to notice, we have assumed t
+ > t1 > t2 >  tk > t
+£ .
+Expressions of higher order arising for example from R2 are more complicated as
+there are quantities referring to several different times mixed up, but they all can be
+interpreted readily. One simply breaks up the ranges of integrations of the time
+variables into parts such that in each the order of time of each variable is definite.
+One then interprets each part by formula (29).
+As a simple example we may refer to the problem of element of the transition
+element
+[ct
+ £‡ UHxHtL, tL d t ‡ VHxHsL, sL d sß yt
+£ _
+arising, say, in the cross term in U and V in an ordinary second order perturbation
+problem (disregarding radiation) with perturbation potential UHx, tL + VHx, tL. In the
+integration on s and t which should include the entire range of time for each, we can
+split the range of s into two parts, s < t and s > t. In the first case, s < t, the potential
+V acts earlier than U , and in the other range, vice versa, so that
+(30)
+[ct
+ £‡ UHxt , tL d t ‡ VHxs, sL d sß yt
+£ _ =
+‡
+t
+£
+t
+
+d t ‡
+t
+£
+t
+d s ‡ c* Hxt
+ L KHxt
+ , t
+ ; xt , tL UHxt , tL KHxt , t; xs, sL
++
+R. P. Feynman
+12
+(30)
+µ VHxs, sL KHxs, s; xt
+£ , t
+£
+L yHxt
+£ L d3 xt
+ d3 xt d3 xs d3 xt
+£ +
+‡
+t
+£
+t
+
+d t ‡
+t
+t
+
+d s ‡ c* Hxt
+ L KHxt
+ , t
+ ; xs, sL
+µ VHxs, sL KHxs, s; xt , tL UHxt , tL KHxt , t; xt
+£ , t
+£
+L yHxt
+£ L d3 xt
+ d3 xs d3 xt d3 xt
+£
+so that the single expression on the left is represented by two terms analogous to the
+two terms required in analyzing the Compton effect. It is in this way that the several
+terms and their corresponding diagrams corresponding to each process arise when an
+attempt is made to represent the transition elements of single expressions involving
+time integrals in terms of the propagation kernels K.
+It remains to study in more detail the term in (26) arising from x.
+HtLÿ x.
+HsL in the
+interaction. The interpretation of such expressions is considered in detail in C, and
+we must refer to Eqs. (39) through (50) of that paper for a more thorough analysis. A
+similar type of term also arises in the Lagrangian formulation in simpler problems,
+for example the transition element
+[ct
+ £‡ x. HtLÿ A Hx HtL, tL d t ‡ x. HsLÿB Hx HsL, sL d sß yt
+£ _
+arising say, in the cross term in A and B in a second-order perturbation problem for a
+particle in a perturbing vector potential AHx, tL + BHx, tL. The time integrals must
+first be written as Riemannian sums, the velocity (see (6)) being replaced by
+x. = 1
+ÅÅÅÅ
+2 e-1 Hxi+1 - xiL + 1
+ÅÅÅÅ
+2 e-1 Hxi - xi-1 L so that we ask for the transition element of
+(31)
+‚
+i
+‚
+j
+C
+1
+ÅÅÅÅÅ
+2 Hxi+1 - xiL +
+1
+ÅÅÅÅÅ
+2 Hxi - xi-1 LGÿ
+AHxi , tiL µ C
+1
+ÅÅÅÅÅ
+2 Hxj+1 - xjL +
+1
+ÅÅÅÅÅ
+2 Hxj - xj-1 LGÿ BHxj , tjL
+In C it is shown that when converted to operator notation the quantity Hxi-1 - xiLêe is
+equivalent (nearly, see below) to an operator,
+Hx (32) i+1 - xiL êeöiHHx - xHL
+operating in order indicated by the time index i (that is after xl ’s for l § i and before
+all xl ’s for l > i). In nonrelativistic mechanics iHHx - xHL is the momentum operator
+px divided by the mass m. Thus in (31) the expression
+1
+ÅÅÅÅ
+2 Hxi+1 - xiL + 1
+ÅÅÅÅ
+2 Hxi - xi-1 L ÿ AHxi , tiL becomes eHp ÿ A + Aÿ pLê 2 m. Here again we
+must split the sum into two regions j < i and j > i so the quantities in the usual
+notation will operate in the right order such that eventually (31) becomes identical
+with the right-hand side of Eq. (30) but with UHxt , tL replaced by the operator
+1
+ÅÅÅÅÅÅÅÅÅÅÅ 2 m K
+1
+ÅÅÅÅÅ
+i
+
+ÅÅÅÅÅÅÅÅÅÅÅ xt
+ÿ A Hxt , tL + A Hxt , tLÿ
+1
+ÅÅÅÅÅ
+i
+
+ÅÅÅÅÅÅÅÅÅÅÅ xt
+O
+standing in the same place, and with the operator
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+13
+1
+ÅÅÅÅÅÅÅÅÅÅÅ 2 m K
+1
+ÅÅÅÅÅ
+i
+
+ÅÅÅÅÅÅÅÅÅÅÅ xs
+ÿB Hxs, sL +
+1
+ÅÅÅÅÅ
+i
+B Hxs, sL ÿ 
+ÅÅÅÅÅÅÅÅÅÅÅ xs
+O
+standing in the place of VHxs, sL. The sums and factors e have now become Ÿ d t Ÿ d s.
+This is nearly but not quite correct, however, as there is an additional term coming
+from the terms in the sum corresponding to the special values, j = i, j = i + 1 and
+j = i - 1. We have tacitly assumed from the appearance of the expression (31) that,
+for a given i, the contribution from just three such special terms is of order e2 . But
+this is not true. Although the expected contribution of a term like
+Hxi+1 - xiL Hxj+1 - xjL for j  i is indeed of order e2 , the expected contribution of
+Hxi+1 - xiL
+2 is +iem-1 [C, Eq. (50)], that is, of order e. In nonrelativistic mechanics
+the velocities are unlimited and in very short times e the amplitude diffuses a distance
+proportional to the square root of the time. Making use of this equation then we see
+that the additional contribution from these terms is essentially
+im-1 e ‚
+i
+A Hxi , tiL ÿB Hxi , tiL = im-1 ‡ A Hx HtL, tLÿB Hx HtL, tL d t
+when summed on all i. This has the same effect as a first-order perturbation due to a
+potential AÿB ê m. Added to the term involving the momentum operators we therefore
+have an additional term12
+(33)
+i
+ÅÅÅÅÅÅ m ‡
+t
+£
+t
+
+d t ‡ c* Hxt
+ L KHxt
+ , t
+ ; xt , tL
+AHxt , tLÿ BHxt , tL ÿKHxt , t; xt
+£ , t
+£
+L yHxt
+£ L d3 xt
+ d3 xt d3 xt
+£ .
+In the usual Hamiltonian theory this term arises, of course, from the term A2 ë 2 m in
+the expansion of the Hamiltonian
+H = H2 mL
+-1 Hp - AL
+2 = H2 mL
+-1 Ip2 - p ÿ A - A ÿ p + A2 M
+while the other term arises from the second-order action of p ÿ A + Aÿ p. We shall not
+be interested in non-relativistic quantum electrodynamics in detail. The situation is
+simpler for Dirac electrons. For particles satisfying the Klein-Gordon equation
+(discussed in Appendix A) the situation is very similar to a four-dimensional analog
+of the non-relativistic case given here.
+R. P. Feynman
+14
+6 Extension to Dirac particles
+Expressions (24) and (25) and their proof can be readily generalized to the relativistic
+case according to the one electron theory of Dirac. We shall discuss the hole theory
+later. In the non-relativistic case we began with the proposition that the amplitude for
+a particle to proceed from one point to another is the sum over paths of expHiSp L, that
+is, we have for example for a transition element
+Xc †1§ y \ = lim (34) eØ0 ‡  ‡ c* HxN L Fp HxN , xN-1 ,  x0 L ÿyHx0 L d3 x0 d3 x1  d3 xN
+where for expHiSp L we have written Fp , that is more precisely,
+Fp = Pi A-1 exp iS Hxi+1 , xiL.
+As discussed in C this form is related to the usual form of quantum mechanics
+through the observation that
+H x (35) i+1 » xiLe = A-1 exp@iSHxi+1 , xiLD
+where Hxi+1 » xiLe is the transformation matrix from a representation in which x is
+diagonal at time ti to one in which x is diagonal at time ti+1 = ti + e (so that it is
+identical to K0 Hxi+1 , ti+1 ; xi , tiL for the small time interval e). Hence the amplitude
+for a given path can also be written
+Fp = Pi Hxi+1 » xiL (36) e
+for which form, of course, (34) is exact irrespective of whether Hxi+1 » xiLe can be
+expressed in the simple form (35).
+For a Dirac electron the Hxi+1 » xiLe is a 4µ 4 matrix (or 4N µ 4N if we deal with N
+electrons) but the expression (34) with (36) is still correct (as it is in fact for any
+quantum-mechanical system with a sufficiently general definition of the coordinate
+xi ). The product (36) now involves operators, the order in which the factors are to be
+taken is the order in which the terms appear in time.
+For a Dirac particle in a vector and scalar potential (times the electron charge e)
+AHx, tL, A4 Hx, tL, the quantity Hxi+1 » xiLe
+HAL is related to that of a free particle to the
+first order in e as
+Hx (37) i+1 » xiLe
+HAL = Hxi+1 » xiLe
+H0L exp@-iHe A4 Hxi , tiL - Hxi+1 - xiLÿ AHxi , tiLLD.
+This can be verified directly by substitution into the Dirac equation.13 It neglects the
+variation of A and A4 with time and space during the short interval e. This produces
+errors only of order e2 in the Dirac case for the expected square velocity
+Hxi+1 - xiL
+2 ë e2 during the interval e is finite (equaling the square of the velocity of
+light) rather than being of order 1 êe as in the non-relativistic case. [This makes the
+relativistic case somewhat simpler in that it is not necessary to define the velocity as
+carefully as in (6); Hxi+1 - xiL êe is sufficiently exact, and no term analogous to (33)
+arises.]
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+15
+This can be verified directly by substitution into the Dirac equation.13 It neglects the
+variation of A and A4 with time and space during the short interval e. This produces
+errors only of order e2 in the Dirac case for the expected square velocity
+Hxi+1 - xiL
+2 ë e2 during the interval e is finite (equaling the square of the velocity of
+light) rather than being of order 1 êe as in the non-relativistic case. [This makes the
+relativistic case somewhat simpler in that it is not necessary to define the velocity as
+carefully as in (6); Hxi+1 - xiL êe is sufficiently exact, and no term analogous to (33)
+arises.]
+Thus Fp
+HAL differs from that for a free particle, Fp
+H0L , by a factor
+Pi exp - iHe A4 Hxi , tiL - Hxi+1 - xiLÿ AHxi , tiLL which in the limit can be written as
+exp ;-i ‡ @A4 HxHtL, tL - x (38) .
+HtL ÿ AHxHtL, tLD d t?
+exactly as in the non-relativistic case.
+The case of a Dirac particle interacting with the quantum-mechanical oscillators
+representing the field may now be studied. Since the dependence of Fp
+HAL on A, A4 is
+through the same factor as in the non-relativistic case, when A, A4 are expressed in
+terms of the oscillator coordinates q, the dependence of F on the oscillator coordinates q is unchanged. Hence the entire analysis of the preceding sections which
+concern the results of the integration over oscillator coordinates can be carried
+through unchanged and the results will be expression (25) with formula (24) for R.
+Expression (25) is now interpreted as
+(39)
+Xct
+ †exp iR§ yt
+£ \ = lim
+eØ0 ‡ c* Ixt
+
+H1L
+, xt
+
+H2L  Mµ
+‰
+n
+IFp,n
+H0L d3 xt
+
+HnL d3 xt
+ -e
+HnL  d3 xt
+£
+HnL
+M expHiRL yIxt
+£
+H1L
+, xt
+£
+H2L M
+where Fp,n
+H0L
+, the amplitude for a particular path for particle n is simply the expression (36) where Hxi+1 » xiLe is the kernel K0,n Hxi+1
+HnL
+, ti+1 ; xi
+HnL
+, tiL for a free electron
+according to the one electron Dirac theory, with the matrices which appear operating
+on the spinor indices corresponding to particle (n) and the order of all operations
+being determined by the time indices.
+For calculational purposes we can, as before, expand R as a power series and
+evaluate the various terms in the same manner as for the non-relativistic case. In such
+an expansion the quantity x. (t) is replaced, as we have seen in (32), by the operator
+iHHx - xHL, that is, in this case by a operating at the corresponding time. There is no
+further complicated term analogous to (33) arising in this case, for the expected value
+of Hxi+1 - xiL
+2 is now of order e2 rather than e.
+For example, for self-energy one sees that expression (28) will be (with other
+terms coming from those with x. (t) replaced by a and with the usual b in back of
+each K0 because of the definition of K0 in relativity theory)
+R. P. Feynman
+16
+(40)
+Xyt
+ †R§ yt
+£ \Sp = -e2
+‡ y* Hxt
+ L K0 Hxt
+ , t
+ ; xt , tL b am ÿ d+ IHt - sL
+2 – Hxt – xsL
+2 M K0 Hxt , t; xs, sL bam
+ÿK0 Hxs, s; xt
+£ , t
+£
+L byHxt
+£ L d3 xt
+ d3 xt d3 xs d3 xt
+£ d t d s,
+where a4 = 1, a1,2,3 = ax,y,z and a sum on the repeated index m is implied in the usual
+way; am bm = a4 b4 - a1 b1 - a2 b2 - a3 b3 . One can change b am to gm and y* to
+y
+êê b. In this manner all of the rules referring to virtual photons discussed in II are
+deduced; but with the difference that K0 is used instead of K+ and we have the Dirac
+one electron theory with negative energy states (although we may have any number
+of such electrons).
+7 Extension to positron theory
+Since in (39) we have an arbitrary number of electrons, we can deal with the hole
+theory in the usual manner by imagining that we have an infinite number of electrons
+in negative energy states.
+On the other hand, in paper I on the theory of positrons, it was shown that the
+results of the hole theory in a system with a given external potential Am were equivalent to those of the Dirac one electron theory if one replaced the propagation kernel,
+K0 , by a different one, K+ , and multiplied the resultant amplitude by factor Cn
+involving Am . We must now see how this relation, derived in the case of external
+potentials, can also be carried over in electrodynamics to be useful in simplifying
+expressions involving the infinite sea of electrons.
+To do this we study in greater detail the relation between a problem involving
+virtual photons and one involving purely external potentials. In using (25) we shall
+assume in accordance with the hole theory that the number of electrons is infinite, but
+that they all have the same charge, e. Let the states yt
+£ , ct
+ , represent the vacuum
+plus perhaps a number of real electrons in positive energy states and perhaps also
+some empty negative energy states. Let us call the amplitude for the transition in an
+external potential Bm , but excluding virtual photons, T0 @BD, a functional of Bm (1).
+We have seen (38)
+T0 @BD = Xct
+ †expiP§ yt
+£ \ (41)
+where
+P = -‚
+n
+‡ AB4 IxHnL ItM, tM – x.HnL
+HtLÿ BIxHnL
+HtL, tME d t
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+17
+ by (38). We can write this as
+P = -‚
+n
+‡ BmIxv
+HnL
+HtLM x
+°
+m
+HnL
+HtL d t
+where x4HtL = t and x
+°
+4 = 1, the other values of m corresponding to space variables.
+The corresponding amplitude for the same process in the same potential, but including all the virtual photons we may call,
+T (42) e2 @BD = Xct
+ †expHiRL expHiPL§ yt
+£ \.
+Now let us consider the effect on Te2 @BD of changing the coupling e2 of the virtual
+photons. Differentiating (42) with respect to e2 which appears only14 in R we find
+(43)
+d Te2 @BD ë dIe2 M =
+[ct
+
+ƒ
+ƒ
+ƒ
+ƒ
+†
+ƒ
+ƒ
+ƒ
+ƒ
+— i
+ÅÅÅÅÅ
+2 ‚
+n
+‚
+m
+‡ ‡ d t d s x
+°
+m
+HnL
+HtL x
+°
+m
+HmL
+HsLÿ d+ JIxv
+HnL
+HtL - xv
+HmL
+HsLM2
+N
+expiHR + PL
+ƒ
+ƒ
+ƒ
+ƒ
+§
+ƒ
+ƒ
+ƒ
+ƒ
+ yt
+£ _.
+We can also study the first-order effect of a change of Bm :
+d Te2 @BDê d Bm H1L = -i [ct (44) 
+ƒ
+ƒ
+ƒ
+ƒ
+†
+ƒ
+ƒ
+ƒ
+ƒ
+‚
+n
+‡ d t x
+°
+m
+HnL
+ d4 Ixa
+HnL
+HtL - xa,1 Mÿ exp iHR + PL
+ƒ
+ƒ
+ƒ
+ƒ
+§
+ƒ
+ƒ
+ƒ
+ƒ
+ yt
+£ _
+where xa,1 is the field point at which the derivative with respect to Bm , is taken15 and
+the term (current density) –‚n Ÿ d t x
+°
+m
+HnL
+HtL d4 Hxa HnL
+HtL – xa,1 L is just dPê dBm H1L. The
+function d4 Hxa HnL –xa,1 L means
+dHx4
+HnL – x4,1 Lÿ dIx3
+HnL - x3,1 Mÿ dIx2
+HnL - x2,1 Mÿ dIx1
+HnL - x1,1 M that is, dH2, 1L with
+xa,2 = xa
+HnL
+HtL. A second variation of T gives, by differentiation of (44) with respect to
+Bn H2L,
+d2 Te2 @BDê d Bm H1L d Bn H2L = -[ct
+
+ƒ
+ƒ
+ƒ
+ƒ
+†
+ƒ
+ƒ
+ƒ
+ƒ
+‚
+n
+‚
+m
+‡ d t ‡ d s x
+°
+m
+HnL HtL x
+°
+n
+HmL HsL
+ÿ d4 Ixa
+HnL HtL - xa,1 M d4 Ixb
+HnL HsL - xb,2 M exp i HR + PL
+ƒ
+ƒ
+ƒ
+ƒ
+§
+ƒ
+ƒ
+ƒ
+ƒ
+ yt
+£ _.
+Comparison of this with (43) shows that
+d T (45) e2 @BD ë dIe2 M = 1
+ÅÅÅÅÅ
+2 i ‡ ‡ Id2 Te2 @BDê d Bm H1L d Bm H2LMµd+Is12
+2 M d t1 d t2
+where s12
+2 = Hxm,1 - xm,2 L Hxm,1 - xm,2 L.
+ We now proceed to use this equation to prove the validity of the rules given in II
+for electrodynamics. This we do by the following argument. The equation can be
+looked upon as a differential equation for Te2 @BD. It determines Te2 @BD uniquely if
+To @BD is known. We have shown it is valid for the hole theory of positrons. But in I
+we have given formulas for calculating To @BD whose correctness relative to the hole
+theory we have there demonstrated. Hence we have shown that the Te2 @BD obtained
+by solving (45) with the initial condition To @BD as given by the rules in I will be
+equal to that given for the same problem by the second quantization theory of the
+Dirac matter field coupled with the quantized electromagnetic field. But it is evident
+(the argument is given in the next paragraph) that the rules16 given in II constitute a
+solution in power series in e2 of the Eq. (45) [which for e2 = 0 reduce to the T0 @BD
+R. P. Feynman
+18
+ We now proceed to use this equation to prove the validity of the rules given in II
+for electrodynamics. This we do by the following argument. The equation can be
+looked upon as a differential equation for Te2 @BD. It determines Te2 @BD uniquely if
+To @BD is known. We have shown it is valid for the hole theory of positrons. But in I
+we have given formulas for calculating To @BD whose correctness relative to the hole
+theory we have there demonstrated. Hence we have shown that the Te2 @BD obtained
+by solving (45) with the initial condition To @BD as given by the rules in I will be
+equal to that given for the same problem by the second quantization theory of the
+Dirac matter field coupled with the quantized electromagnetic field. But it is evident
+(the argument is given in the next paragraph) that the rules16 given in II constitute a
+solution in power series in e2 of the Eq. (45) [which for e2 = 0 reduce to the T0 @BD
+given in I]. Hence the rules in II must give, to each order in e2 , the matrix element
+for any process that would be calculated by the usual theory of second quantization
+of the matter and electromagnetic fields. This is what we aimed to prove.
+That the rules of II represent, in a power series expansion, a solution of (45) is
+clear. For the rules there given may be stated as follows: Suppose that we have a
+process to order k in e2 (i.e., having k virtual photons) and order n in the external
+potential Bm . Then, the matrix element for the process with one more virtual photon
+and two less potentials is that obtained from the previous matrix by choosing from
+the n potentials a pair, say Bm H1L acting at 1 and Bn H2L acting at 2, replacing them
+by i e2 dmn d+ Hs12
+2 L, adding the results for each way of choosing the pair, and dividing
+by k + 1, the present number of photons. The matrix with no virtual photons Hk = 0L
+being given to any n by the rules of I, this permits terms to all orders in e2 to be
+derived by recursion. It is evident that the rule in italics is that of II, and equally
+evident that it is a word expression of Eq. (45). [The factor 1
+ÅÅÅÅ
+2 in (45) arises since in
+integrating over all d t1 and d t2 we count each pair twice.The division by k + 1 is
+required by the rules of II for, there, each diagram is to be taken only once, while in
+the rule given above we say what to do to add one extra virtual photon to k others.
+But which one of the k + 1 is to be identified at the last photon added is irrelevant. It
+agrees with (45) of course for it is canceled on differentiating with respect to e2 the
+factor He2 L
+k+1
+ for the Hk + 1L photons.]
+8 Generalized formulation of quantum
+electrodynamics
+The relation implied by (45) between the formal solution for the amplitude for a
+process in an arbitrary unquantized external potential to that in a quantized field
+appears to be of much wider generality. We shall discuss the relation from a more
+general point of view here (still limiting ourselves to the case of no photons in initial
+or final state).
+In earlier sections we pointed out that as a consequence of the Lagrangian form of
+quantum mechanics the aspects of the particles’ motions and the behavior of the field
+could be analyzed separately. What we did was to integrate over the field oscillator
+coordinates first. We could, in principle, have integrated over the particle variables
+first. That is, we first solve the problem with the action of the particles and their
+interaction with the field and then multiply by the exponential of the action of the
+field and integrate over all the field oscillator coordinates. (For simplicity of discussion let us put aside from detailed special consideration the questions involving the
+separation of the longitudinal and transverse parts of the field.) Now the integral over
+the particle coordinates for a given process is precisely the integral required for the
+analysis of the motion of the particles in an unquantized potential. With this observailiillfMathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+19
+In earlier sections we pointed out that as a consequence of the Lagrangian form of
+quantum mechanics the aspects of the particles’ motions and the behavior of the field
+could be analyzed separately. What we did was to integrate over the field oscillator
+coordinates first. We could, in principle, have integrated over the particle variables
+first. That is, we first solve the problem with the action of the particles and their
+interaction with the field and then multiply by the exponential of the action of the
+field and integrate over all the field oscillator coordinates. (For simplicity of discussion let us put aside from detailed special consideration the questions involving the
+separation of the longitudinal and transverse parts of the field.) Now the integral over
+the particle coordinates for a given process is precisely the integral required for the
+analysis of the motion of the particles in an unquantized potential. With this observation we may suggest a generalization to all types of systems.
+Let us suppose the formal solution for the amplitude for some given process with
+matter in an external potential Bm H1L is some numerical quantity T0 . We mean matter
+in a more general sense now, for the motion of the matter may be described by the
+Dirac equation, or by the Klein-Gordon equation, or may involve charged or neutral
+particles other than electrons and positrons in any manner whatsoever. The quantity
+T0 depends of course on the potential function Bm H1L; that is, it is a functional T0 @BD
+of this potential. We assume we have some expression for it in terms of Bm (exact, or
+to some desired degree of approximation in the strength of the potential).
+Then the answer Te2 @BD to the corresponding problem in quantum electrodynamics is T0 @Am H1L + Bm H1LD expHi S0 L summed over all possible distributions of field
+Am H1L, wherein S0 is the action for the field
+S0 = -H8 p e2 L
+-1
+‚m Ÿ IHAm ê tL
+2 - H“Am L
+2 M d3 x d t the sum on m carrying the
+usual minus sign for space components.
+If F@AD is any functional of Am H1L we shall represent by 0 † F@AD §
+0 this superposition of F@AD expHi S0 L over distributions of Am for the case in which there are no
+photons in initial or final state. That is, we have
+T (46) e2 @BD = 0 † T0 @A + BD §
+0 .
+The evaluation of 0 † F@AD §
+0 directly from the definition of the operation 0 † §
+0 is not
+necessary. We can give the result in another way. We first note that the operation is
+linear,
+0 † F1 @AD + F2 @AD § (47) 0 = 0 † F1 @AD§0 + 0 † F2 @AD §
+0
+so that if F is represented as a sum of terms each term can be analyzed separately.
+We have studied essentially the case in which F@AD is an exponential function. In
+fact, what we have done in Section 4 may be repeated with slight modification to
+show that
+0 £expK-i ‡ jm H1L Am H1L d t1 O ß (48)
+0
+= expK- 1
+ÅÅÅÅÅ
+2 ie2 ‡ ‡ jm H1L jm H2L d+ Is1 2
+2 M d t1 d t2 O
+where jm H1L is an arbitrary function of position and time for each value of m.
+Although this gives the evaluation of 0 † §
+0 for only a particular functional of Am
+the appearance of the arbitrary function jm H1L makes it sufficiently general to permit
+the evaluation for any other functional. For it is to be expected that any functional
+can be represented as a superposition of exponentials with different functions jm H1L
+(by analogy with the principle of Fourier integrals for ordinary functions). Then, by
+(47), the result of the operation is the corresponding superposition of expressions
+equal to the right-hand side of (48) with the various j’s substituted for jm .
+R. P. Feynman
+20
+Although this gives the evaluation of 0 † §
+0 for only a particular functional of Am
+the appearance of the arbitrary function jm H1L makes it sufficiently general to permit
+the evaluation for any other functional. For it is to be expected that any functional
+can be represented as a superposition of exponentials with different functions jm H1L
+(by analogy with the principle of Fourier integrals for ordinary functions). Then, by
+(47), the result of the operation is the corresponding superposition of expressions
+equal to the right-hand side of (48) with the various j’s substituted for jm .
+In many applications F@AD can be given as a power series in Am :
+F@AD = f0 + ‡ fm H1L Am H1L d t1 + ‡ ‡ fm n H1, 2L Am H1L An H2L d t1 d t2 +  (49)
+where f0 , fm H1L, fm n H1, 2L  are known numerical functions independent of Am .
+Then by (47)
+(50)
+0 † F@AD §
+0 =
+f0 + ‡ fm H1L 0 † Am H1L §
+0 d t1 + ‡ ‡ fm n H1, 2L 0 † Am H1L An H2L §
+0 d t1 d t2 + 
+where we set 0 †1§
+0 = 1 (from (48) with jm = 0). We can work out expressions for the
+successive powers of Am by differentiating both sides of (48) successively with
+respect to jm and setting jm = 0 in each derivative. For example, the first variation
+(derivative) of (48) with respect to jm H3L gives
+(51)
+0 £ -i Am H3L expK-i ‡ jn H1L An H1L d t1 Oß
+0
+= -ie2 ‡ d+ Is3 4
+2 M jm H4L d t4
+µ expK- 1
+ÅÅÅÅÅ
+2
+ie2 ‡ ‡ jn H1L jn H2L d+ Is1 2
+2 M d t1 d t2 O.
+Setting jm = 0 gives
+0 † Am H3L §
+0 = 0.
+Differentiating (5l) again with respect to jn H4L and setting jn = 0 shows
+0 † Am H3L An H4L § (52) 0 = ie2 dm n d+ Is3 4
+2 M
+and so on for higher powers. These results may be substituted into (50). Clearly
+therefore when T0 @B + AD in (46) is expanded in a power series and the successive
+terms are computed in this way, we obtain the results given in II.
+It is evident that (46), (47), (48) imply that Te2 @BD satisfies the differential equation (45) and conversely (45) with the definition (46) implies (47) and (48). For if
+T0 @BD is an exponential
+T0 @BD = expK-i ‡ jm H1L Bm H1L d t1 O (53)
+we have from (46), (48) that
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+21
+(54)
+Te2 @BD =
+expC- 1
+ÅÅÅÅÅ
+2 ie2 ‡ ‡ jm H1L jm H2L d+ Is1 2
+2 M d t1 d t2 G ÿ expC-i ‡ jn H1L Bn H1L d t1 G.
+Direct substitution of this into Eq. (45) shows it to be a solution satisfying the
+boundary condition (53). Since the differential equation (45) is linear, if T0 @BD is a
+superposition of exponentials, the corresponding superposition of solutions (54) is
+also a solution.
+Many of the formal representations of the matter system (such as that of second
+quantization of Dirac electrons) represent the interaction with a fixed potential in a
+formal exponential form such as the left-[hand] side of (48), except that jm H1L is an
+operator instead of a numerical function, Equation (48) may still be used if care is
+exercised in defining the order of the operators on the right-hand side. The succeeding paper will discuss this in more detail.
+Equation (45) or its solution (46), (47), (48) constitutes a very general and convenient formulation of the laws of quantum electrodynamics for virtual processes. Its
+relativistic invariance is evident if it is assumed that the unquantized theory giving
+T0 @BD is invariant. It has been proved to be equivalent to the usual formulation for
+Dirac electrons and positrons (for Klein-Gordon particles see Appendix A). It is
+suggested that it is of wide generality. It is expressed in a form which has meaning
+even if it is impossible to express the matter system in Hamiltonian form; in fact, it
+only requires the existence of an amplitude for fixed potentials which obeys the
+principle of superposition of amplitudes. If T0 @BD is known in power series in B,
+calculations of Te
+2 @BD in a power series of e2 can be made directly using the italicized rule of Sec. 7. The limitation to virtual quanta is removed in the next section.
+On the other hand, the formulation is unsatisfactory because for situations of
+importance it gives divergent results, even if T0 @BD is finite. The modification
+proposed in II of replacing d+ Hs12
+2 L in (45), (48) by f+ Hs12
+2 L is not satisfactory
+owing to the loss of the theorems of conservation of energy or probability discussed
+in II at the end of Sec. 6. There is the additional difficulty in positron theory that
+even T0 @BD is infinite to begin with (vacuum polarization). Computational ways of
+avoiding these troubles are given in II and in the references of footnote 2.
+R. P. Feynman
+22
+9 Case of real photons
+The case in which there are real photons in the initial or the final state can be worked
+out from the beginning in the same manner.17 We first consider the case of a system
+interacting with a single oscillator. From this result the generalization will be evident.
+This time we shall calculate the transition element between an initial state in which
+the particle is in state yt
+£ and the oscillator is in its nth eigenstate (i.e., there are n
+photons in the field) to a final state with particle in ct
+ , oscillator in mth level. As we
+have already discussed, when the coordinates of the oscillator are eliminated the
+result is the transition element Xct
+ †Gm n § yt
+£ \ where
+Gmn = ‡ jm * HqjL kHqj , t
+ ; q0 , t
+£
+L jn Hq0 L d q0 d qj
+where jm , jn are the wave functions [8] for the oscillator in state m, n and k is
+given in (12). The Gm n can be evaluated most easily by calculating the generating
+function
+(55) gHX, YL = ‚
+m
+‚
+n
+Gm n Xm Yn Hm! n!L
+- 1
+ÅÅÅÅÅ
+2
+for arbitrary X, Y . If expression (11) is substituted in the left-hand side of (55), the
+expression can be simplified by use of the generating function relation for the
+eigenfunctions [8] of the harmonic oscillator
+‚
+n
+jn Hq0 L Yn Hn!L
+- 1
+ÅÅÅÅ
+2 =
+Hwê pL
+1
+ÅÅÅÅ
+2 exp K- 1
+ÅÅÅÅÅ
+2
+iwt
+£
+Oµexp
+1
+ÅÅÅÅÅ
+2 Cw q0
+2 - JY exp@-iwt
+£
+D - H2 wL
+1
+ÅÅÅÅÅ
+2 q0 N
+2
+G
+Using a similar expansion for the jm * one is left with the exponential of a quadratic
+function of q0 and qj . The integration on q0 and qj is then easily performed to give
+gHX, YL = G0 0 expHX Y + ib (56) * X + ibYL
+from which expansion in powers of X and Y and comparison to (3.11) gives the final
+result
+Gm n = G0 0 (57) Hm! n!L
+- 1
+ÅÅÅÅ
+2 ‚
+r
+m! ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ Hm - rL! r!
+n! ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ ÅÅÅÅÅÅÅÅÅÅÅÅ Hn - rL!r!
+µ r! Hib* L
+m-r HibL
+n-r
+where G0 0 is given in (14) and
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+23
+(58)
+b = H2 wL
+- 1
+ÅÅÅÅÅ 2 Ÿt
+£
+t
+
+gHtL expH-iwtL d t,
+b* = H2 wL
+- 1
+ÅÅÅÅÅ 2 Ÿt
+£
+t
+
+gHtL expH+iwtL d t,
+and the sum on r is to go from 0 to m or to n whichever is the smaller. (The sum can
+be expressed as a Laguerre polynomial but there is no advantage in this.)
+Formula (57) is readily understandable. Consider first a simple case of absorption
+of one photon. Initially we have one photon and finally none. The amplitude for this
+is the transition element of G0 1 = ibG0 0 or Xct
+ †ibG0 0 § yt
+£ \. This is the same as
+would result if we asked for the transition element for a problem in which all photons
+are virtual but there was present a perturbing potential -H2 wL
+- 1
+ÅÅÅÅÅ
+2 gHtL expHiwtL and we
+required the first-order effect of this potential. Hence photon absorption is like the
+first order action of a potential varying in time as gHtL expHiwtL that is with a positive
+frequency (i.e., the sign of the coefficient of t in the exponential corresponds to
+positive energy). The amplitude for emission of one photon involves G1 0 = ib* G0 0 ,
+which is the same result except that the potential has negative frequency. Thus we
+begin by interpreting ib* as the amplitude for emission of one photon ib as the
+amplitude for absorption of one.
+Next for the general case of n photons initially and finally we may understand (57
+) as follows. We first neglect Bose statistics and imagine the photons as individual
+distinct particles. If we start with n and end with m this process may occur in several
+different ways. The particle may absorb in total n - r of the photons and the final m
+photons will represent r of the photons which were present originally plus m - r new
+photons emitted by the particle. In this case the n - r which are to be absorbed may
+be chosen from among the original n in n!êHn - rL! r! different ways, and each
+contributes a factor ib, the amplitude for absorption of a photon. Which of the m - r
+photons from among the m arc emitted can be chosen in m!êHm - rL! r! different
+ways and each photon contributes a factor i b* in amplitude. The initial r photons
+which do not interact with the particle can be re-arranged among the final r in r!
+ways. We must sum over the alternatives corresponding to different values of r. Thus
+the form of Gm n can be understood. The remaining factor Hm!L
+- 1
+ÅÅÅÅ
+2 Hn!L
+- 1
+ÅÅÅÅ
+2 may be
+interpreted as saying that in computing probabilities (which therefore involves the
+square of Gm n ) the photons may be considered as independent but that if m are
+actually equal the statistical weight of each of the states which can be made by
+rearranging the m equal photons is only 1 ê m!. This is the content of Bose statistics;
+that m equal particles in a given state represents just one state, i.e., has statistical
+weight unity, rather than the m! statistical weight which would result if it is imagined
+that the particles and states can be identified and rearranged in m! different ways.
+This holds for both the initial and final states of course. From this rule about the
+statistical weights of states the derivation of the blackbody distribution law follows.
+The actual electromagnetic field is represented as a host of oscillators each of
+which behaves independently and produces its own factor such as Gm n . Initial or
+final states may also be linear combinations of states in which one or another oscillator is excited. The results for this case are of course the corresponding linear combination of transition elements.
+R. P. Feynman
+24
+The actual electromagnetic field is represented as a host of oscillators each of
+which behaves independently and produces its own factor such as Gm n . Initial or
+final states may also be linear combinations of states in which one or another oscillator is excited. The results for this case are of course the corresponding linear combination of transition elements.
+For photons of a given direction of polarization and for sin or cos waves the
+explicit expression for b can be obtained directly from (58) by substituting the
+formulas (16) for the g’s for the corresponding oscillator. It is more convenient to use
+the linear combination corresponding to running waves. Thus we find the amplitude
+for absorption of a photon of momentum K, frequency k = HK ÿKL
+1
+ÅÅÅÅÅ 2 polarized in
+direction e is given by including a factor i times
+(59) bK,e = H4 pL
+1
+ÅÅÅÅ
+2 H2 kL
+- 1
+ÅÅÅÅ
+2 „
+n
+en ‡
+t
+£
+t
+
+expH-iktLµ expHi K ÿ xn HtLL e ÿ xn
+. HtL d t
+in the transition element (25). The density of states in momentum space is now
+H2 pL
+-3 d3 K. The amplitude for emission is just i times the complex conjugate of this
+expression, or what amounts to the same thing, the same expression with the sign of
+the four vector k, ' (?) reversed. Since the factor (59) is exactly the first-order effect
+of a vector potential
+AP H = H2 p ê kL
+1
+ÅÅÅÅÅ 2 e exp H-i Hkt - K ÿ xLL
+of the corresponding classical wave, we have derived the rules for handling real
+photons discussed in II.
+We can express this directly in terms of the quantity Te2 @BD, the amplitude for a
+given transition without emission of a photon. What we have said is that the amplitude for absorption of just one photon whose classical wave form is Am
+P H H1L (time
+variation expH-ikt1 L corresponding to positive energy k ) is proportional to the first
+order (in e) change produced in Te2 @BD on changing B to B + eAP H . That is, more
+exactly,
+‡ HdT (60) e2 @BDê d Bm H1LL Am
+P H H1L d t1
+is the amplitude for absorption by the particle system of one photon, AP H . (A
+superposition argument shows the expression to be valid not only for plane waves,
+but for spherical waves, etc., as given by the form of AP H .) The amplitude for
+emission is the same expression but with the sign of the frequency reversed in AP H .
+The amplitude that the system absorbs two photons with waves Am
+P H1 and An
+P H2 is
+obtained from the next derivative,
+‡ ‡ Id2 Te2 @BDê d Bm H1L d Bn H2LM Am
+P H1 H1L An
+P H2 H2L d t1 d t2
+the same expression holding for the absorption of one and emission of the other, or
+emission of both depending on the sign of the time dependence of AP H1 and AP H2 .
+Larger photon numbers correspond to higher derivatives, absorption of l1 emission of
+l2 requiring the Hl1 + l2 L derivaties. When two or more of the photons are exactly the
+same (e.g., AP H1 = AP H2 ) the same expression holds for the amplitude that l1 are
+absorbed by the system while l2 are emitted. However, the statement that initially n
+of a kind are present and m of this kind are present finally, does not imply l1 = n and
+l2 = m. It is possible that only n - r = l1 were absorbed by the system and
+m - r = l2 emitted, and that r remained from initial to final state without interaction.
+ThiiihdbhbiilffiiH!!L1
+Km
+OKn
+O!dMathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+25
+the same expression holding for the absorption of one and emission of the other, or
+emission of both depending on the sign of the time dependence of AP H1 and AP H2 .
+Larger photon numbers correspond to higher derivatives, absorption of l1 emission of
+l2 requiring the Hl1 + l2 L derivaties. When two or more of the photons are exactly the
+same (e.g., AP H1 = AP H2 ) the same expression holds for the amplitude that l1 are
+absorbed by the system while l2 are emitted. However, the statement that initially n
+of a kind are present and m of this kind are present finally, does not imply l1 = n and
+l2 = m. It is possible that only n - r = l1 were absorbed by the system and
+m - r = l2 emitted, and that r remained from initial to final state without interaction.
+This term is weighed by the combinatorial coefficient Hm! n!L
+- 1
+ÅÅÅÅ
+2 K
+m
+r OK
+n
+r
+Or! and
+summed over the possibilities for r as explained in connection with (57). Thus once
+the amplitude for virtual processes is known, that for real photon processes can be
+obtained by differentiation.
+It is possible, of course, to deal with situations in which the electromagnetic field
+is not in a definite state after the interaction. For example, we might ask for the total
+probability of a given process, such as scattering, without regard for the number of
+photons emitted. This is done of course by squaring the amplitude for the emission of
+m photons of a given kind and summing on all m. Actually the sums and integrations
+over the oscillator momenta can usually easily be performed analytically. For example, the amplitude, starting from vacuum and ending with m photons of a given kind,
+is by (56) just
+G (61) m 0 = Hm!L
+- 1
+ÅÅÅÅÅ
+2 G0 0 H ib* L
+m .
+The square of the amplitude summed on m requires the product of two such expressions (the gHtL in the b of one and in the other will have to be kept separately)
+summed on m:
+‚m Gm 0
+* Gm 0
+£ = ‚m G0 0
+* G0 0
+£
+Hm!L
+-1 bm Hb£* L
+m = G0 0
+* G0 0
+£ expHbb£* L
+In the resulting expression the sum over all oscillators is easily done. Such expressions can be of use in the analysis in a direct manner of problems of line width, of the
+Bloch-Nordsieck infra-red problem, and of statistical mechanical problems, but no
+such applications will be made here.
+The author appreciates his opportunities to discuss these matters with Professor H.
+A. Bethe and Professor J. Ashkin, and the help of Mr. M. Baranger with the
+manuscript. B A C K M A T T E R
+R. P. Feynman
+26
+A The Klein-Gordon equation
+In this Appendix we describe a formulation of the equations for a particle of spin zero
+which was first used to obtain the rules given in II for such particles. The complete
+physical significance of the equations has not been analyzed thoroughly so that it
+may be preferable to derive the rules directly from the second quantization formulation of Pauli and Weisskopf. This can be done in a manner analogous to the derivation of the rules for the Dirac equation given in I or from the Schwinger-Tomonaga
+formulation [2] in a manner described, for example, by Rohrlich.18 The formulation
+given here is therefore not necessary for a description of spin zero particles but is
+given only for its own interest as an alternative to the formulation of second
+quantization.
+We start with the Klein-Gordon equation
+Hi  ê x (A1) m - Am L
+2
+ y = m2 y
+for the wave function y of a particle of mass m in a given external potential Am . We
+shall try to represent this in a manner analogous to the formulation of quantum
+mechanics in C. That is, we try to represent the amplitude for a particle to get from
+one point to another as a sum over all trajectories of an amplitude expHiSL where S is
+the classical action for a given trajectory. To maintain the relativistic invariance in
+evidence the idea suggests itself of describing a trajectory in space-time by giving thc
+four variables xm HuL as functions of some fifth parameter u (rather than expressing
+x1 , x2 , x3 in terms of x4 ). As we expect to represent paths which may reverse
+themselves in time (to represent pair production, etc., as in I) this is certainly a more
+convenient representation, for all four functions xm HuL may be considered as functions of a parameter u (somewhat analogous to proper time) which increase as we go
+along the trajectory, whether the trajectory is proceeding forward Hd x4 ê d u > 0L or
+backward Hd x4 ê d u < 0L in time.19 We shall then have a new type of wave function
+jHx, uL a function of five variables, x standing for the four xm . It gives the amplitude
+for arrival at point xm with a certain value of the parameter u. We shall suppose that
+this wave function satisfies the equation
+i j ê u = - (A2) 1
+ÅÅÅÅÅ
+2 Hi  ê  xm - Am L
+2
+ j
+which is seen to be analogous to the time-dependent Schrödinger equation, u replacing the time and the four coordinates of space-time xm replacing the usual three
+coordinates of space.
+Since the potentials Am HxL are functions only of coordinates xm , and are independent of u, the equation is separable in u and we can write a special solution in the
+form j = expI 1
+ÅÅÅÅ
+2 im2 uM yHxL where yHxL, a function of the coordinates xm only,
+satisfies (A1) and the eigenvalue 1
+ÅÅÅÅ
+2 m2 conjugate to u is related to the mass m of the
+particle. Equation (A2) is therefore equivalent to the Klein-Gordon Eq. (A1) provided
+we ask in the end only for the solution of (A1) corresponding to the eigenvalue 1
+ÅÅÅÅ
+2 m2
+for the quantity conjugate to u.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+27
+Since the potentials Am HxL are functions only of coordinates xm , and are independent of u, the equation is separable in u and we can write a special solution in the
+form j = expI 1
+ÅÅÅÅ
+2 im2 uM yHxL where yHxL, a function of the coordinates xm only,
+satisfies (A1) and the eigenvalue 1
+ÅÅÅÅ
+2 m2 conjugate to u is related to the mass m of the
+particle. Equation (A2) is therefore equivalent to the Klein-Gordon Eq. (A1) provided
+we ask in the end only for the solution of (A1) corresponding to the eigenvalue 1
+ÅÅÅÅ
+2 m2
+for the quantity conjugate to u.
+We may now proceed to represent Eq. (A2) in Lagrangian form in general and
+without regard to this eigenvalue condition. Only in the final solutions need we apply
+the eigenvalue condition. That is, if we have some special solution jHx, uL of (A2) we
+can select that part corresponding to the eigenvalue 1
+ÅÅÅÅ
+2 m2 by calculating
+yHxL = ‡ (A3) -¶
+¶
+expK- 1
+ÅÅÅÅÅ
+2 im2 uO jHx, uL d u
+and thereby obtain a solution y of Eq. (A1).
+Since (A2) is so closely analogous to the Schrödinger equation, it is easily written
+in the Lagrangian form described in C, simply by working by analogy. For example
+if jHx, uL is known at one value of u its value at a slightly larger u + e is given by
+(A4)
+jHx, u + eL =
+‡ exp ie
+Ä
+Ç
+ÅÅÅÅÅÅÅÅÅ
+- Hxm - xm
+£
+L
+2
+ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ 2 e2 - 1
+ÅÅÅÅÅ
+2
+i
+k
+jj
+Hxm - xm
+£
+L ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ e
+y
+{
+zz HAm HxL + Am Hx£
+LL
+É
+Ö
+ÑÑÑÑÑÑÑÑÑ
+ÿ jHx£
+, uL
+d4 tx£ 2 HpieL
+3
+ÅÅÅÅ
+2 H-2 pieL
+- 1
+ÅÅÅÅÅ
+2
+where Hxm - xm
+£
+L
+2
+ means Hxm - xm
+£
+LHxm - xm
+£
+L, d4 tx£ = d x1
+£ d x2
+£ d x3
+£ d x4
+£ and the
+sign of the normalizing factor is changed for the x4 component since the component
+has the reversed sign in its quadratic coefficient in the exponential, in accordance
+with our summation convention am bm = a4 b4 - a1 b1 - a2 b2 - a3 b3 . Equation (A4
+), as can be verified readily as described in C, Sec. 6, is equivalent to first order in e
+to Eq. (A2). Hence, by repeated use of this equation the wave function at u0 = ne can
+be represented in terms of that at u = 0 by:
+(A5)
+jHxn,n , u0 L = ‡ exp -
+ie
+ÅÅÅÅÅ
+2 ‚
+i=1
+n Ä
+Ç
+ÅÅÅÅÅÅÅ
+J
+xm,i - xm,i-1 ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ e N
+2
++ e
+-1 Hxm,i - xm,i-1 L HAm HxiL + Am Hxi-1 LL
+É
+Ö
+ÑÑÑÑÑÑÑ
+ÿ jHxn,0 , 0L‰
+i=0
+n-1
+Id4 ti ê 4 p2 e2 iM.
+That is, roughly, the amplitude for getting from one point to another with a given
+value of u0 is the sum over all trajectories of expHiSL where
+R. P. Feynman
+28
+S = -‡ (A6)
+0
+u0
+C
+1
+ÅÅÅÅÅ
+2 Hd xm ê d uL
+2 + Hd xm ê d uL Am HxLG d u,
+when sufficient care is taken to define the quantities, as in C. This completes the
+formulation for particles in a fixed potential but a few words of description may be in
+order.
+In the first place in the special case of a free particle we can define a kernel
+kH0L
+Hx, u0 ; x£
+, 0L for arrival from xm
+£
+, 0 to xm at u0 as the sum over all trajectories
+between these points of exp - iŸ0
+u0 1
+ÅÅÅÅ
+2 Hd xm ê d uL
+2 d u. Then for this case we have
+jHx, u0 L = ‡ k (A7) H0L
+Hx, u0 ; x£
+, 0L jHx£
+, 0L d4 tx£
+and it is easily verified that k0 is given by
+k (A8) H0L
+Hx, u0 ; x£
+, 0L = I4 p2 u0
+2 iM
+-1
+exp - iHxm - xm
+£
+L
+2 ë 2 u0
+for u0 > 0 and by 0, by definition, for u0 < 0. The corresponding kernel of importance when we select the eigenvalue 1
+ÅÅÅÅ
+2 m2 is20
+(A9)
+2 iI+ Hx, x£ L = Ÿ–¶
+¶ kH0L
+Hx, u0 ; x£
+, 0L expI- 1
+ÅÅÅÅ
+2 im2 u0 M d u0
+= Ÿ0
+¶ d u0 H4 p2 u0
+2 iL
+-1
+exp - 1
+ÅÅÅÅ
+2 iIm2 u0 + u0
+-1 Hxm - xm£ L
+2
+M
+(the last extends only from u0 = 0 since k0 is zero for negative uo ) which is identical
+to the I+ defined in II.
+21 This may be seen readily by studying the Fourier transform,
+for the transform of the integrand on the right-hand side is
+‡ I4 p2 u0
+2 iM
+-1
+expHip ÿ xL exp - 1
+ÅÅÅÅÅ
+2
+iIm2 u0 + xm
+2 ë u0 M d4 tx =
+exp - 1
+ÅÅÅÅÅ
+2 i u0 Im2 - pm
+2 M
+so that the u0 integration gives for the transform of I+ just 1 êHpm
+2 - m2 L with the
+pole defined exactly as in II. [21] Thus we are automatically representing the
+positrons as trajectories with the time sense reversed.
+If FH0L
+@xHmLD = exp - iŸ0
+u0 1
+ÅÅÅÅ
+2 Hd xm ê d uL
+2 d u is the amplitude for a given trajectory
+xn HuL for a free particle, then the amplitude in a potential is
+F (A10) HAL
+@xHmLD = FH0L
+@xHmLD exp - i ‡
+0
+u0
+Hd xm ê d uL Am HxL d u.
+If desired this may be studied by perturbation methods by expanding the exponential
+in powers of Am .
+For interpretation, the integral in (A10) must be written as a Riemann sum, and if
+a perturbation expansion is made, care must be taken with the terms quadratic in the
+velocity, for the effect of Hxm,i+1 - xm,iL Hxn,i+1 - xn,iL is not of order e2 but is idm n e.
+The “velocity” d xm ê d u becomes the momentum operator pm = +i  ê xm operating
+half before and half after Am , just as in the non-relativistic Schrödinger equation
+discussed in Sec. 5. Furthermore, in exactly the same manner as in that case, but here
+in four dimensions, a term quadratic in Am arises in the second-order perturbation
+terms from the coincidence of two velocities for the same value of u.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+29
+For interpretation, the integral in (A10) must be written as a Riemann sum, and if
+a perturbation expansion is made, care must be taken with the terms quadratic in the
+velocity, for the effect of Hxm,i+1 - xm,iL Hxn,i+1 - xn,iL is not of order e2 but is idm n e.
+The “velocity” d xm ê d u becomes the momentum operator pm = +i  ê xm operating
+half before and half after Am , just as in the non-relativistic Schrödinger equation
+discussed in Sec. 5. Furthermore, in exactly the same manner as in that case, but here
+in four dimensions, a term quadratic in Am arises in the second-order perturbation
+terms from the coincidence of two velocities for the same value of u.
+As an example, the kernel kHAL
+Hx, u0 ; x£
+, 0L for proceeding from xm
+£ , 0 to xm , u0 in
+a potential Am differs from kH0L to first order in Am by a term
+-i ‡ (A11)
+0
+u0
+d u kH0L
+Hx, u0 ; y, uL
+1
+ÅÅÅÅÅ
+2 Hpm Am HyL + Am HyL pm L kH0L
+Hy, u0 ; x£
+, 0L d ty
+the pm here meaning +i  ê ym . The kernel of importance on selecting the eigenvalue 1
+ÅÅÅÅ
+2 m2 is obtained by multiplying this by expI- 1
+ÅÅÅÅ
+2 im2 u0 M and integrating u0
+from 0 to ¶. The kernel kH0L
+Hx, u0 ; y, uL depends only on u£ = u0 - u and in the
+integrals on u and u0 ; Ÿ0
+¶ d u0 Ÿ0
+¶ d u expI- 1
+ÅÅÅÅ
+2 i m2 u0 M …, can be written, on interchanging the order of integration and changing variables to u and u£ ,
+Ÿ0
+¶ d u Ÿ0
+¶ d u£ expI- 1
+ÅÅÅÅ
+2 im2 Hu + u£
+LM …. Now the integral on u£ converts
+kH0L
+Hx, u0 ; y, uL to 2 iI+ Hx, yL by (A9), while that on u converts kH0L
+Hy, u; x£
+, 0L to
+2 iI+ Hy, x£
+L, so the result becomes
+‡ 2 i I+ Hx, yL Hpm Am + Am pm L I+ Hy, x (A12) £
+L d4 ty
+as expected. The same principle works to any order so that the rules for a single
+Klein-Gordon particle in external potentials given in II, Section 9, are deduced.
+The transition to quantum electrodynamics is simple for in (A6) we already have a
+transition amplitude represented as a sum (over trajectories, and eventually u0 ) of
+terms, in each of which the potential appears in exponential form. We may make use
+of the general relation (54). Hence, for example, one finds for the case of no photons
+in the initial and final states, in the presence of an external potential Bm , the amplitude that a particle proceeds from Ixm
+£ , 0M to Hxm , u0 L is the sum over all trajectories of
+the quantity
+(A13)
+exp - i
+Ä
+Ç
+ÅÅÅÅÅÅÅÅÅ
+1
+ÅÅÅÅÅ
+2 ‡
+0
+u0 i
+k
+jj
+d xm ÅÅÅÅÅÅÅÅÅÅÅÅ d u
+y
+{
+zz
+2
+d u +
+‡
+0
+u0 d xm ÅÅÅÅÅÅÅÅÅÅÅÅ d u Bm HxHuLL d u + e2
+ÅÅÅÅÅÅÅ
+2 ‡
+0
+u0
+‡
+0
+u0 d xm HuL ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ d u
+d xn Hu£L ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ ÅÅÅÅÅÅ d u£
+µ d+ IHxm HuL - xm Hu£
+LL2
+M d u d u£
+É
+Ö
+ÑÑÑÑÑÑÑÑÑ
+.
+This result must be multiplied by expI- 1
+ÅÅÅÅ
+2 im2 u0 M and integrated on u0 from zero to
+infinity to express the action of a Klein-Gordon particle acting on itself through
+virtual photons. The integrals are interpreted as Riemann sums, and if perturbation
+expansions arc made, the necessary care is taken with the terms quadratic in velocity.
+When there are several particles (other than the virtual pairs already included) one
+use a separate u for each, and writes the amplitude for each set of trajectories as the
+exponential of -i times
+R. P. Feynman
+30
+This result must be multiplied by expI- 1
+ÅÅÅÅ
+2 im2 u0 M and integrated on u0 from zero to
+infinity to express the action of a Klein-Gordon particle acting on itself through
+virtual photons. The integrals are interpreted as Riemann sums, and if perturbation
+expansions arc made, the necessary care is taken with the terms quadratic in velocity.
+When there are several particles (other than the virtual pairs already included) one
+use a separate u for each, and writes the amplitude for each set of trajectories as the
+exponential of -i times
+(A14)
+1
+ÅÅÅÅÅ
+2 „
+n
+‡
+0
+u0
+HnL
+i
+k
+jjj
+d xm
+nL
+ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ d u
+y
+{
+zzz
+2
+d u +„
+n
+‡
+0
+u0 HnL
+d xm
+HnL
+ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ d u Bm IxHnL
+HuLM d u
++ e2
+ÅÅÅÅÅÅÅ
+2 „
+n
+„
+m
+‡
+0
+u0 HnL
+‡
+0
+u0 HmL
+d xn
+HnL
+HuL ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ ÅÅÅÅÅÅÅÅÅÅ d u
+d xn
+HmL
+Hu£
+L ÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅÅ ÅÅÅÅÅÅÅÅÅÅÅÅÅ d u£
+µd+ JIxm
+HnL
+HuL - xm
+HmL
+Hu£
+LM
+2
+N d u d u£
+where xm
+HnL
+HuL are the coordinates of the trajectory of the nth particle.22 The solution
+should depend on the u0
+HnL as expI- 1
+ÅÅÅÅ
+2 i m2 ⁄n u0
+HnL
+M.
+Actually, knowledge of the motion of a single charge implies a great deal about
+the behavior of several charges. For a pair which eventually may turn out to be a
+virtual pair may appear in the short run as two “other particles.” As a virtual pair, that
+is, as the reverse section of a very long and complicated single track we know its
+behavior by (A13). We can assume that such a section can be looked at equally well,
+for a limited duration at least, as being due to other unconnected particles. This then
+implies a definite law of interaction of particles if the self-action (A13) of a single
+particle is known. (This is similar to the relation of real and virtual photon processes
+discussed in detail in Appendix B.) It is possible that a detailed analysis of this could
+show that (A13) implied that (A14) was correct for many particles. There is even
+reason to believe that the law of Bose-Einstein statistics and the expression for
+contributions from closed loops could be deduced by following this argument. This
+has not yet been analyzed completely, however, so we must leave this formulation in
+an incomplete form. The expression for closed loops should come out to be
+Cn = exp + L where L, the contribution from a single loop, is
+L = 2 ‡ (A15)
+0
+¶
+l Hu0 L exp K- 1
+ÅÅÅÅÅ
+2
+i m2 u0 O d u0 ê u0
+where lHu0 L is the sum over all trajectories which close on themselves
+Hxm Hu0 L = xm H0LL of expHi SL with S given in (A6), and a final integration d txH0L on
+xm H0L is made. This is equivalent to putting
+l Hu0 L = ‡ Ik (A16) HAL Hx, u0 ; x, 0L - kH0L Hx, u0 ; x, 0LM d tx .
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+31
+The term kH0L is subtracted only to simplify convergence problems (as adding a
+constant independent of Am , to L has no effect).
+B The relation of real and virtual processes
+If one has a general formula for all virtual processes he should be able to find the
+formulas and states involved in real processes. That is to say, we should be able to
+deduce the formulas of Section 9 directly from the formulation (24), (25) (or its
+generalized equivalent such as (46), (48)) without having to go all the way back to
+the more usual formulation. We discuss this problem here.
+That this possibility exists can be seen from the consideration that what looks like
+a real process from one point of view may appear as a virtual process occurring over
+a more extended time.
+For example, if we wish to study a given real process, such as the scattering of
+light, we can, if we wish, include in principle the source, scatterer, and eventual
+absorber of the scattered light in our analysis. We may imagine that no photon is
+present initially, and that the source then emits light (the energy coming say from
+kinetic energy in the source). The light is then scattered and eventually absorbed
+(becoming kinetic energy in the absorber). From this point of view the process is
+virtual; that is, we start with no photons and end with none. Thus we can analyze the
+process by means of our formula for virtual processes, and obtain the formulas for
+real processes by attempting to break the analysis into parts corresponding to emission, scattering, and absorption.23
+To put the problem in a more general way, consider the amplitude for some
+transition from a state empty of photons far in the past (time t
+£ ) to a similar one far in
+the future (t = t
+ ). Suppose the time interval to be split into three regions a, b, c in
+some convenient manner, so that region b is an interval t2 > t > t1 around the present
+time that we wish to study. Region a, (t1 > t > t
+£ ), precedes b, and c , (t
+ > t > t2 ),
+follows b. We want to see how it comes about that the phenomena during b can be
+analyzed by a study of transitions gj iHbL between some initial state i at time t1 ,
+(which no longer need be photon-free), to some other final state j at time t2 . The
+states i and j are members of a large class which we will have to find out how to
+specify. (The single index i is used to represent a large number of quantum numbers,
+so that different values of i will correspond to having various numbers of various
+kinds of photons in the field, etc.) Our problem is to represent the over-all transition
+amplitude, gHa, b, cL, as a sum over various values of i, j of a product of three
+amplitudes,
+g (B1) Ha, b, cL = ‚i
+‚j
+g0 jHcL gj iHbL gi 0 HaL;
+first the amplitude that during the interval a the vacuum state makes transition to
+some state i, then the amplitude that during b the transition to j is made, and finally
+in c the amplitude that the transition from j to some photon-free state 0 is completed.
+The mathematical problem of splitting gHa, b, cL is made definite by the further
+condition that gj iHbL for given i, j must not involve the coordinates of the particles
+for times corresponding to regions a or c, gi 0 HaL must involve those only in region a,
+and g0 jHcL only in c.
+R. P. Feynman
+32
+first the amplitude that during the interval a the vacuum state makes transition to
+some state i, then the amplitude that during b the transition to j is made, and finally
+in c the amplitude that the transition from j to some photon-free state 0 is completed.
+The mathematical problem of splitting gHa, b, cL is made definite by the further
+condition that gj iHbL for given i, j must not involve the coordinates of the particles
+for times corresponding to regions a or c, gi 0 HaL must involve those only in region a,
+and g0 jHcL only in c .
+To become acquainted with what is involved, suppose first that we do not have a
+problem involving virtual photons, but just the transition of a one-dimensional
+Schrödinger particle going in a long time interval from, say, the origin o to the origin
+o, and ask what states i we shall need for intermediary time intervals. We must solve
+the problem (B1) where gHa, b, cL is the sum over all trajectories going from o at t
+£
+to o at t
+ of exp i S where S = Ÿ L d t. The integral may be split into three parts
+S = Sa + Sb + Sc corresponding to the three ranges of time. Then
+expHi SL = expHi Sa L expHi Sb L expHi Sc L and the separation (B1) is accomplished by
+taking for gi 0 HaL the sum over all trajectories lying in a from o to some end point xt1
+of expHi Sa L, for gj iHbL the sum over trajectories in b of expHi Sb L between end points
+xt1 and xt2 and for g0 jHcL the sum of expHi Sc L over the section of the trajectory lying
+in c and going from xt2 to o. Then the sum on i and j can be taken to be the integrals
+on xt1 , xt2 , respectively. Hence the various states i can be taken to correspond to
+particles being at various coordinates x. (Of course any other representation of the
+states in the sense of Dirac’s transformation theory could be used equally well.
+Which one, whether coordinate, momentum, or energy level representation, ;is of
+course just a matter of convenience and wee cannot determine that simply from (B1).)
+We can consider next the problem including virtual photons. That is, gHa, b, cL
+now contains an additional factor expHi RL where R involves a double integral Ÿ Ÿ
+over all time. Those parts of the index i which correspond to the particle states can be
+taken in the same way as though R were absent. We study now the extra complexities
+in the states produced by splitting the R. Let us first (solely for simplicity of the
+argument) take the case that there are only two regions a, c separated by time t0 , and
+try to expand
+g Ha, cL = ‚ (B2) i
+g0 i HcL gi 0 HaL.
+The factor expHiRL involves R as a double integral which can be split into three parts
+Ÿa Ÿa
++Ÿc Ÿc
++Ÿa Ÿc for the first of which both t, s are in a, for the second both are in c,
+for the third one is in a the other in c. Writing expHiRL as
+expHiRc c L expHiRa a L expHiRa c L shows that the factors Rc c and Ra a produce no new
+problems for they can be taken bodily into g 0 iHcL and gi 0 HaL respectively. However,
+we must disentangle the variables which are mixed up in expHiRa c L.
+The expression for Ra c , is just twice (24) but with the integral on s extending over
+the range a and that for t extending over c. Thus expHiRa c L contains the variables for
+times in a and in c in a quite complicated mixture. Our problem is to write expHiRa c L
+as a sum over possibly a vast class of states i of the product of two parts,
+like hi
+£
+HcL hiHaL, each of which involves the coordinates in one interval alone.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+33
+The expression for Ra c , is just twice (24) but with the integral on s extending over
+the range a and that for t extending over c. Thus expHiRa c L contains the variables for
+times in a and in c in a quite complicated mixture. Our problem is to write expHiRa c L
+as a sum over possibly a vast class of states i of the product of two parts,
+like hi
+£
+HcL hiHaL, each of which involves the coordinates in one interval alone.
+This separation may be made in many different ways, corresponding to various
+possible representations of the state of the electromagnetic field. We choose a
+particular one. First we can expand the exponential, expHiRa c L, in a power series, as
+⁄n i
+n Hn!L
+-1 HRa c L
+n . The states i can therefore be subdivided into subclasses corresponding to an integer n which we can interpret as the number of quanta in the field
+at time t0 . The amplitude for the case n = 0 clearly just involves expHiRa a L and
+expHiRc c L in the way that it should if we interpret these as the amplitudes for regions
+a and c , respectively, of making a transition between a state of zero photons and
+another state of zero photons.
+Next consider the case n = 1. This implies an additional factor in the transitional
+element; the factor Ra c . The variables are still mixed up. But an easy way to perform
+the separation suggests itself. Namely, expand the d+ IHt - sL
+2 - Hxn HtL - xm HsLL2 M in
+Ra c , as a Fourier integral as
+i ‡ exp H-ik †t - s§L exp H-iK ÿHxn HtL - xm HsLLL d (B3) 3 K ë 4 p2 k.
+For the exponential can be written immediately as a product of exp + iHK ÿ xm HsLL, a
+function only of coordinates for times s in a (suppose s < t), and exp - iHK ÿ xm HsLL (a
+function only of coordinates during interval c ). The integral on d3 K can be symbolized as sum over states i characterized by the value of K. Thus the state with n = 1
+must be further characterized by specifying a vector K, interpreted as the momentum
+of the photon. Finally the factor H1 - xn
+. HtLÿ xm
+. HsLL in Ra c is simply the sum of four
+parts each of which is already split (namely 1, and each of the three components in
+the vector scalar product). Hence each photon of momentum K must still be characterized by specifying it as one of four varieties; that is, there are four polarizations.24
+Thus in trying to represent the effect of the past a on the future c we are lead to
+invent photons of four polarizations and characterized by a propagation vector K.
+The term for a given polarization and value of K (for n = 1) is clearly just
+-bc ba
+* where the ba is defined in (59) but with the time integral extending just
+over region a, while bc is the same expression with the integration over region c.
+Hence the amplitude for transition during interval a from a state with no quanta to a
+state with one in a given state of polarization and momentum is calculated by inclusion of an extra factor iba
+* in the transition element. Absorption in region c corresponds to a factor ibc .
+We next turn to the case n = 2. This requires analysis of Ra c2 . The d+ can be
+expanded again as a Fourier integral, but for each of the two d+ in 1
+ÅÅÅÅ
+2 Ra c2 we have a
+value of K which may be different. Thus we say we have two photons, one of
+momentum K and one momentum K£ and we sum over all values of K and K£ .
+(Similarly each photon is characterized by its own independent polarization index.)
+The factor 1
+ÅÅÅÅ
+2 can be taken into account neatly by asserting that we count each
+possible pair of photons as constituting just one state at time t0 . Then the 1
+ÅÅÅÅ
+2 arises for
+the sum over all K, K£ (and polarizations) counts each pair twice. On the other hand,
+for the terms representing two identical photons (K = K£ ) of like polarization, the 1
+ÅÅÅÅ
+2
+cannot be so interpreted. Instead we invent the rule that a state of two like photons
+has statistical weight 1
+ÅÅÅÅ
+2 as great as that calculated as though the photons were
+different. This, generalized to n identical photons, is the rule of Bose statistics.
+R. P. Feynman
+34
+We next turn to the case n = 2. This requires analysis of Ra c2 . The d+ can be
+expanded again as a Fourier integral, but for each of the two d+ in 1
+ÅÅÅÅ
+2 Ra c2 we have a
+value of K which may be different. Thus we say we have two photons, one of
+momentum K and one momentum K£ and we sum over all values of K and K£ .
+(Similarly each photon is characterized by its own independent polarization index.)
+The factor 1
+ÅÅÅÅ
+2 can be taken into account neatly by asserting that we count each
+possible pair of photons as constituting just one state at time t0 . Then the 1
+ÅÅÅÅ
+2 arises for
+the sum over all K, K£ (and polarizations) counts each pair twice. On the other hand,
+for the terms representing two identical photons (K = K£ ) of like polarization, the 1
+ÅÅÅÅ
+2
+cannot be so interpreted. Instead we invent the rule that a state of two like photons
+has statistical weight 1
+ÅÅÅÅ
+2 as great as that calculated as though the photons were
+different. This, generalized to n identical photons, is the rule of Bose statistics.
+The higher values of n offer no problem. The 1 ê n! is interpreted combinatorially
+for different photons, and as a statistical factor when some are identical. For example,
+for all n identical one obtains a factor Hn!L
+-1 H- bc ba
+* L so that Hn!L
+- 1
+ÅÅÅÅÅ
+2 Hiba
+* L
+n can be
+interpreted as the amplitude for emission (from no initial photons) of n identical
+photons, in complete agreement with (61) for Gm 0 .
+To obtain the amplitude for transitions in which neither the initial nor the final
+state is empty of photons we must consider the more general case of the division into
+three time regions (B1). This time we see that the factor which involves the coordinates in an entangled manner is exp iHRa b + Rb c + Ra c L. It is to be expanded in the
+form ⁄i ⁄j hi
+ HcL hi j
+£ HbL hjHaL. Again the expansion in power series and development
+in Fourier series with a polarization sum will solve the problem. Thus the exponential
+is ⁄r ⁄l1 ⁄l2 HiRa c L
+r HiRa b L
+l1 HiRb c L
+l2 Hl1 !L
+-1 Hl2 !L
+-1 Hr!L
+-1 . Now the R are written as
+Fourier series, one of the terms containing l1 + l2 + r variables K. Since l1 + r
+involve a, l2 + r involve c and l1 + l2 involve b, this term will give the amplitude
+that l1 + r photons are emitted during the interval a, of those l1 are absorbed during
+b but the remaining r, along with l2 new ones emitted during b go on to be absorbed
+during the interval c. We have therefore n = l1 + r photons in the state at time t1
+when b begins, and m = l2 + r at t2 when b is over. They each are characterized by
+momentum vectors and polarizations. When these are different the factors
+Hl1 !L
+-1 Hl2 !L
+-1 Hr!L
+-1 are absorbed combinatorially. When some are equal we must
+invoke the rule of the statistical weights. For example, suppose all l1 + l2 + r photons
+are identical. Then Ra b = ibb ba
+* , Rb c = ibc bb
+* , Ra c = ibc ba
+* so that our sum is
+‚ (B4) l1
+‚l2
+‚r
+Hl1 ! l2 !r!L
+-1 Hibc L
+l2 +r Hibb L
+l1 Hibb
+* L
+l2 Hiba
+* L
+l1+r
+.
+Putting m = l2 + r, n = l1 + r, this is the sum on n and m of
+(B5)
+Hibc L
+m Hm!L
+- 1
+ÅÅÅÅÅ 2 B‚r
+Hm! n!L
+1
+ÅÅÅÅ
+2 HHm - rL! Hn - rL! r!L
+-1 µ Hibb
+* L
+m-r Hibb L
+n-r
+F
+Hn!L
+- 1
+ÅÅÅÅÅ 2 Hiba
+* L
+n .
+The last factor we have seen is the amplitude for emission of n photons during
+interval a, while the first factor is the amplitude for absorption of m during c . The
+sum is therefore the factor for transition from n to m identical photons, in accordance
+with (57). We see the significance of the simple generating function (56).
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+35
+We have therefore found rules for real photons in terms of those for virtual. The
+real photons are a way of representing and keeping track of those aspects of the past
+behavior which may influence the future.
+If one starts from a theory involving an arbitrary modification of the direct
+interaction d+ (or in more general situations) it is possible in this way to discover
+what kinds of states and physical entities will be involved if one tries to represent in
+the present all the information needed to predict the future. With the Hamiltonian
+method, which begins by assuming such a representation, it is difficult to suggest
+modifications of a general kind, for one cannot formulate the problem without having
+a complete representation of the characteristics of the intermediate states, the particles involved in interaction, etc. It is quite possible (in the author’s opinion, it is very
+likely) that we may discover that in nature the relation of past and future is so
+intimate for short durations that no simple representation of a present may exist. In
+such a case a theory could not find expression in Hamiltonian form.
+An exactly similar analysis can be made just as easily starting with the general
+forms (46), (48). Also a coordinate representation of the photons could have been
+used instead of the familiar momentum one. One can deduce the rules (60), (61).
+Nothing essentially different is involved physically, however, so we shall not pursue
+the subject further here. Since they imply [23] all the rules for real photons, Eqs. (46),
+(47), (48) constitute a compact statement of all the laws of quantum electrodynamics.
+But they give divergent results. Can the result after charge and mass renormalization
+also be expressed to all orders in e2 ê —c in a simple way?
+C Differential equation for electron propagation
+An attempt has been made to find a differential wave equation for the propagation of
+an electron interacting with itself, analogous to the Dirac equation, but containing
+terms representing the self-action. Neglecting all effects of closed loops, one such
+equation has been found, but not much has been done with it. It is reported here for
+whatever value it may have.
+An electron acting upon itself is, from one point of view, a complex system of a
+particle and a field of an indefinite number of photons. To find a differential law of
+propagation of such a system we must ask first what quantities known at one instant
+will permit the calculation of these same quantities an instant later. Clearly, a knowledge of the position of the particle is not enough. We should need to specify: (1) the
+amplitude that the electron is at x and there are no photons in the field, (2) the
+amplitude the electron is at x and there is one photon of such and such a kind in the
+field, (3) the amplitude there are two photons, etc. That is, a series of functions of
+ever increasing numbers of variables. Following this view, we shall be led to the
+wave equation of the theory of second quantization.
+R. P. Feynman
+36
+An electron acting upon itself is, from one point of view, a complex system of a
+particle and a field of an indefinite number of photons. To find a differential law of
+propagation of such a system we must ask first what quantities known at one instant
+will permit the calculation of these same quantities an instant later. Clearly, a knowledge of the position of the particle is not enough. We should need to specify: (1) the
+amplitude that the electron is at x and there are no photons in the field, (2) the
+amplitude the electron is at x and there is one photon of such and such a kind in the
+field, (3) the amplitude there are two photons, etc. That is, a series of functions of
+ever increasing numbers of variables. Following this view, we shall be led to the
+wave equation of the theory of second quantization.
+We may also take a different view. Suppose we know a quantity Fe2 @B, xD, a
+spinor function of xm , and functional of Bm H1L, defined as the amplitude that an
+electron arrives at xm , with no photon in the field when it moves in an arbitrary
+external unquantized potential Bm H1L. We allow the electron also to interact with
+itself, but Fe2 is the amplitude at a given instant that there happens to be no photons
+present. As we have seen, a complete knowledge of this functional will also tell us
+the amplitude that the electron arrives at x and there is just one photon, of form
+Am
+P H H1L present. It is, from (60), Ÿ HdFe2 @B, xDê dBm H1LL Am
+P H H1L d t1 .
+Higher numbers of photons correspond to higher functional derivatives of Fe2 .
+Therefore, Fe2 @B, xD contains all the information requisite for describing the state of
+the electron-photon system, and we may expect to find a differential equation for it.
+Actually it satisfies (“ = gm  ê xm , B = gm Bm ),
+(C1)
+Hi “-mL Fe2 @B, xD =
+BHxL Fe2 @B, xD + ie2 gm ‡ d+ Isx 1
+2 M HdFe2 @B, xDê d Bm H1LL d t1
+as may be seen from a physical argument.25 The operator Hi “-mL operating on the x
+coordinate of Fe2 should equal, from Dirac’s equation, the changes in Fe2 as we go
+from one position x to a neighboring position due to the action of vector potentials.
+The term BHxL Fe2 is the effect of the external potential. But Fe2 may also change for
+at the first position x we may have had a photon present (amplitude that it was
+emitted at another point l is dFe2 ê d Bm H1L) which was absorbed at x (amplitude
+photon released at 1 gets to x is d+ Hsx 1
+2 L where sx 1
+2 is the squared invariant distance
+from 1 to x) acting as a vector potential there (factor gm ). Effects of vacuum polarization are left out.
+Expansion of the solution of (C1) in a power series in B and e2 starting from a
+free particle solution for a single electron, produces a series of terms which agree
+with the rules of II for action of potentials and virtual photons to various orders. It is
+another matter to use such an equation for the practical solution of a problem to all
+orders in e2 . It might be possible to represent the self-energy problem as the variational problem for m, stemming from (C1). The d+ will first have to be modified to
+obtain a convergent result.
+We are not in need of the general solution of (C1). (In fact, we have it in (46), (48
+) in terms of the solution T0 @BD = F0 @B, xD of the ordinary Dirac equation
+Hi “-mL F0 @B, xD = B F0 @B, xD. The general solution is too complicated, for complete
+knowledge of the motion of a self-acting electron in an arbitrary potential is essentially all of electrodynamics (because of the kind of relation of real and virtual
+processes discussed for photons in Appendix B, extended also to real and virtual
+pairs). Furthermore, it is easy to see that other quantities also satisfy (C1). Consider a
+system of many electrons, and single out some one for consideration, supposing all
+the others go from some definite initial state i to some definite final state f . Let
+Fe2 @B, xD be the amplitude that the special electron arrives at x, there are no photons
+present, and the other electrons go from i to f when there is an external potential Bm
+present (which Bm also acts on the other electrons). Then Fe2 also satisfies (C1).
+Likewise the amplitude with closed loops (all other electrons go vacuum to vacuum)
+also satisfies (C1) including all vacuum polarization effects. The various problems
+correspond to different assumptions as to the dependence of Fe2 @B, xD on Bm in the
+limit of zero e2 . The Eq. (C1) without further boundary conditions is probably too
+generaltobeusefulMathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+37
+We are not in need of the general solution of (C1). (In fact, we have it in (46), (48
+) in terms of the solution T0 @BD = F0 @B, xD of the ordinary Dirac equation
+Hi “-mL F0 @B, xD = B F0 @B, xD. The general solution is too complicated, for complete
+knowledge of the motion of a self-acting electron in an arbitrary potential is essentially all of electrodynamics (because of the kind of relation of real and virtual
+processes discussed for photons in Appendix B, extended also to real and virtual
+pairs). Furthermore, it is easy to see that other quantities also satisfy (C1). Consider a
+system of many electrons, and single out some one for consideration, supposing all
+the others go from some definite initial state i to some definite final state f . Let
+Fe2 @B, xD be the amplitude that the special electron arrives at x, there are no photons
+present, and the other electrons go from i to f when there is an external potential Bm
+present (which Bm also acts on the other electrons). Then Fe2 also satisfies (C1).
+Likewise the amplitude with closed loops (all other electrons go vacuum to vacuum)
+also satisfies (C1) including all vacuum polarization effects. The various problems
+correspond to different assumptions as to the dependence of Fe2 @B, xD on Bm in the
+limit of zero e2 . The Eq. (C1) without further boundary conditions is probably too
+general to be useful.
+Notes
+1 R P. Feynman, Phys. Rev. 76, 749 (1949), hereafter called I, and Phys. Rev.
+76, 769 (1949), hereafter called II.
+2 See in this connection also the papers of S. Tomonaga, Phys. Rev. 74, 224
+(l948); S. Kanesawa and S. Tomonaga, Prog. Theoret. Phys. 3, 101 (1948); J.
+Schwinger, Phys. Rev. 76, 790 (1949); F. Dyson, Phys. Rev. 75, 1736 (1949);
+W. Pauli and F. Villars, Rev. Mod. Phys. 21, 434 (1949). The papers cited
+give references to previous work.
+3 R. P. Feynman, Rev. Mod. Phys. 20, 367 (1948), hereafter called C.
+4 E. Fermi, Rev. Mod. Phys. 4, 87 (1932).
+5 W. Heitler, The Quantum Theory of Radiation, second edition (Oxford
+University Press, London, 1944).
+6 The term in the sum for n = m is obviously infinite but must be included for
+relativistic invariance. Our problem here is to re-express the usual (and
+divergent) form of electrodynamics in the form given in II. Modifications for
+dealing with the divergences are discussed in II and we shall not discuss them
+further here.
+7 That (12) is correct, at least insofar as it depends on q0 , can be seen directly as
+follows. Let qHtL be the classical path which satisfies the boundary condition
+qHt
+£ L = q0 , qHt
+ L = qj . Then in the integral defining k replace each of the
+variables qi by qi = qi + yi , (qi = qHtiL) that is, use the displacement yi from
+the classical path qi as the coordinate rather than the absolute position. With
+the substitution qi = qi + yi in the action
+S0 + SI = Ÿ I 1
+ÅÅÅÅ
+2 q
+° 2 - 1
+ÅÅÅÅ
+2 w2 q2 + g qM d t =
+‡ J 1
+ÅÅÅÅ
+2 q
+° 2
+- 1
+ÅÅÅÅ
+2 w2 q
+2
++ g qN d t + Ÿ I 1
+ÅÅÅÅ
+2 y
+° 2 - 1
+ÅÅÅÅ
+2 w2 y2 M d t the terms linear in y
+drop out by integrations by parts using the equation of motion
+q = -w2 q + gHtL for the classical path, and the boundary conditions
+yHt
+£
+L = yHt
+ L = 0. That this should occur should occasion no surprise, for the
+action functional is an extremum at qHtL = qHtL so that it will only depend to
+second order in the displacements y from this extremal orbit qHtL. Further,
+since the action functional is quadratic to begin with, it cannot depend on y
+morethanquadraticallyHenceS0+SI=Q+ŸI1
+ÅÅÅÅy° 2 -1
+ÅÅÅÅw2 y2 MdtsothatR. P. Feynman
+38
+7 That (12) is correct, at least insofar as it depends on q0 , can be seen directly as
+follows. Let qHtL be the classical path which satisfies the boundary condition
+qHt
+£
+L = q0 , qHt
+ L = qj . Then in the integral defining k replace each of the
+variables qi by qi = qi + yi , (qi = qHtiL) that is, use the displacement yi from
+the classical path qi as the coordinate rather than the absolute position. With
+the substitution qi = qi + yi in the action
+S0 + SI = Ÿ I 1
+ÅÅÅÅ
+2 q
+° 2 - 1
+ÅÅÅÅ
+2 w2 q2 + g qM d t =
+‡ J 1
+ÅÅÅÅ
+2 q
+° 2
+- 1
+ÅÅÅÅ
+2 w2 q
+2 + g qN d t + Ÿ I 1
+ÅÅÅÅ
+2 y
+° 2 - 1
+ÅÅÅÅ
+2 w2 y2 M d t the terms linear in y
+drop out by integrations by parts using the equation of motion
+q = -w2 q + gHtL for the classical path, and the boundary conditions
+yHt
+£L = yHt
+ L = 0. That this should occur should occasion no surprise, for the
+action functional is an extremum at qHtL = qHtL so that it will only depend to
+second order in the displacements y from this extremal orbit qHtL. Further,
+since the action functional is quadratic to begin with, it cannot depend on y
+more than quadratically. Hence S0 + SI = Q + Ÿ I 1
+ÅÅÅÅ
+2 y
+° 2 - 1
+ÅÅÅÅ
+2 w2 y2 M d t so that
+since d qi = d yi ,
+kHqj , t
+ ; q0 , t
+£
+L = expHi QL Ÿ expIi Ÿ 1
+ÅÅÅÅ
+2 Iy
+° 2 - w2 y2 M d tM " yHtL. The factor
+following the exp iQ is the amplitude for a free oscillator to proceed from
+y = 0at t = t
+£ to y = 0 at t
+£ = t
+ and does not therefore depend on q0 , qj , or
+gHtL, being a function only of t
+ - t
+£ . [That it is actually
+H2 piw-1 sin wHt
+ - t
+£ LL- 1
+ÅÅÅÅÅ 2 can be demonstrated either by direct integration of
+the y variables or by using some normalizing property of the kernels k , for
+example that G0 0 for the case g = 0 must equal unity.] The expression for Q
+given in C on page 386 is in error, the quantities q0 and qj should be
+interchanged.
+8 It is most convenient to define the state jn with the phase factor
+expA-iwIn + 1
+ÅÅÅÅ
+2 wM t
+£
+E and the final state with the factor expA-iwIm + 1
+ÅÅÅÅ
+2 wM t
+ E
+so that the results will not depend on the particular times t
+£ , t
+ chosen.
+9 One can obtain the final result, that the total interaction is just R, in a formal
+manner starting from the Hamiltonian from which the longitudinal oscillators
+have not yet been eliminated. There are for each K and cos or sin, four
+oscillators qm K corresponding to the three components of the vector potential
+(m = 1, 2, 3) and the scalar potential (m = 4). It must then be assumed that the
+wave functions of the initial and final state of the K oscillators is the function
+Hk ê pL expA- 1
+ÅÅÅÅ
+2 kHq1 K
+2 + q2 K
+2 + q3 K
+2 - q4 K
+2 LE. The wave function suggested here
+has only formal significance, of course, because the dependence on q4 K is not
+square integrable, and cannot be normalized. If each oscillator were assumed
+actually in the ground state, the sign of the q4 K term would be changed to
+positive, and the sign of the frequency in the contribution of these oscillators
+would be reversed (they would have negative energy).
+10 The classical action for this problem is just S p + R£ where R£ is the real part
+of the expression (24). In view of the generalization of the Lagrangian
+formulation of quantum mechanics suggested in Section 12 of C, one might
+have anticipated that R would have been simply R£ . This corresponds,
+however, to boundary conditions other than no quanta present in past and
+future. It is harder to interpret physically. For a system enclosed in a light
+tight box, however, it appears likely that both R and R£ lead to the same
+results.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+39
+10 The classical action for this problem is just S p + R£ where R£ is the real part
+of the expression (24). In view of the generalization of the Lagrangian
+formulation of quantum mechanics suggested in Section 12 of C, one might
+have anticipated that R would have been simply R£ . This corresponds,
+however, to boundary conditions other than no quanta present in past and
+future. It is harder to interpret physically. For a system enclosed in a light
+tight box, however, it appears likely that both R and R£ lead to the same
+results.
+11 One can show from (25) how the correlated effect of many atoms at a distance
+produces on a given system the effects of an external potential. Formula (24)
+yields the result that this potential is that obtained from Liénard and Wiechert
+by retarded waves arising from the charges and currents resulting from the
+distant atoms making transitions. Assume the wave functions c and y can be
+split into products of wave functions for system and distant atoms and expand
+expHiRL assuming the effect of any individual distant atom is small. Coulomb
+potentials arise even from nearby particles it they are moving slowly.
+12 The term corresponding to this for the self-energy expression (26) would give
+an integral over d+ IHt - t
+£
+L
+2 - Hxt - xt
+£ L
+2 M which is evidently infinite and leads
+to the quadratically divergent self-energy. There is no such term for the Dirac
+electron, but there is for Klein-Gordon particles. We shall not discuss the
+infinities in this paper as they have already been discussed in II.
+13 Alternatively, note that Eq. (37) is exact for arbitrarily large e if the potential
+Am is constant. For if the potential in the Dirac equation is the gradient of a
+scalar function Am =  c ê xm the potential may be removed by replacing the
+wave function by y = expH-icL y£ (gauge transformation). This alters the
+kernel by a factor exp@-iHcH2L - cH1LLD owing to the change in the initial and
+final wave functions. A constant potential Am is the gradient of c = Am xm and
+can be completely removed by this gauge transformation, so that the kernel
+differs from that of a free particle by the factor exp@-iHAm xm 2 - Am xm 1 LD as
+in (37).
+14 In changing the charge e2 we mean to vary only the degree to which virtual
+photons are important. We do not contemplate changes in the influence of the
+external potentials. If one wishes, as e is raised the strength of the potential is
+decreased proportionally so that Bm , the potential times the charge e , is held
+constant.
+15 The functional derivative is defined such that if T [B] is a number depending
+on the functions Bm (l), the first order variation in T produced by a change
+from Bm to Bm + ÛBm , is given by
+T@B + ÛBD –T@BD = Ÿ HdT@BDê dBm H1LL ÛBm H1L d t1 the integral extending over
+all four-space xa,1 .
+16 That is, of course, those rules of II which apply to the unmodified electrodynamics of Dirac electrons. (The limitation excluding real photons in the initial
+and final states is removed in Sec. 8.) The same arguments clearly apply to
+nucleons interacting via neutral vector mesons, vector coupling. Other
+couplings require a minor extension of the argument. The modification to the
+Hxi+1 » xiLe ,as in (37), produced by some couplings cannot very easily be
+written without using operators in the exponents. These operators can be
+treated as numbers if their order of operation is maintained to be always their
+order in time. This idea will be discussed and applied more generally in a
+succeeding paper.
+R. P. Feynman
+40
+16 That is, of course, those rules of II which apply to the unmodified electrodynamics of Dirac electrons. (The limitation excluding real photons in the initial
+and final states is removed in Sec. 8.) The same arguments clearly apply to
+nucleons interacting via neutral vector mesons, vector coupling. Other
+couplings require a minor extension of the argument. The modification to the
+Hxi+1 » xiLe ,as in (37), produced by some couplings cannot very easily be
+written without using operators in the exponents. These operators can be
+treated as numbers if their order of operation is maintained to be always their
+order in time. This idea will be discussed and applied more generally in a
+succeeding paper.
+17 For an alternative method starting directly from the formula (24) for virtual
+photons, see Appendix B.
+18 F. Rohrlich (to be published).
+19 The physical ideas involved in such a description are discussed in detail by Y.
+Nambu, Prog. Theor. Phys. 5, 82 (1950). An equation of type (A2) extended
+to the case of Dirac electrons has been studied by V. Fock, Physik Zeits.
+Sowjetunion 12, 404 (1937).
+20 The factor 2 i in front of I+ is simply to make the definition of I+ here agree
+with that in I and II. In II it operates with p ÿ A + Aÿ p as a perturbation. But
+the perturbation coming from (A3) in a natural way by expansion of the
+exponential is - 1
+ÅÅÅÅ
+2 iHp ÿ A + Aÿ pL.
+21 Expression (A8) is closely related to Schwinger's parametric integral representation of these functions. For example, (A8) becomes formula (45) of F.
+Dyson, Phys. Rev. 75, 486 (1949)) for DF ª DH1L - 2iD
+êê
+ª 2iI+ if H2 aL
+-1 is
+substituted for u0 .
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+41
+22 The form (A10) suggests another interesting possibility for avoiding the
+divergences of quantum electrodynamics in this case. The divergences arise
+from the d+ function when u = u£ . We might restrict the integration in the
+double integral such that » u - u£ » > d where d is some finite quantity, very
+small compared with m-2 . More generally, we could keep the region u = u£
+from contributing by including in the integrand a factor FHu - u£
+L where
+FHxL Ø 1 for x large compared to some d, and FH0L = 0 (e.g., FHxL acts
+qualitatively like 1 - expH-x2 d-2 L. (Another way might be to replace u by a
+discontinuous variable, that is, we do not use the limit in (A4) as e Ø 0 but set
+e = d.) The idea is that two interactions would contribute very little in amplitude if they followed one another too rapidly in u. It is easily verified that this
+makes the otherwise divergent integrals finite. But whether the resulting
+formulas make good physical sense is hard to see. The action of a potential
+would now depend on the value of u so that Eq. (A2), or its equivalent, would
+not be separable in u so that 1
+ÅÅÅÅ
+2 m2 would no longer be a strict eigenvalue for
+all disturbances. High energy potentials could excite states corresponding to
+other eigenvalues, possibly thereby corresponding to other masses. This note
+is meant only as a speculation, for not enough work has been done in this
+direction to make sure that a reasonable physical theory can be developed
+along these lines. (What little work has been done was not promising.)
+Analogous modifications can also be made for Dirac electrons.
+23 The formulas for real processes deduced in this way are strictly limited to the
+case in which the light comes from sources which are originally dark, and that
+eventually all light emitted is absorbed again. We can only extend it to the
+case for which these restrictions do not hold by hypothesis, namely, that the
+details of the scattering process are independent of these characteristics of the
+light source and of the eventual disposition of the scattered light. The argument of the text gives a method for discovering formulas for real processes
+when no more than the formula for virtual processes is at hand. But with this
+method belief in the general validity of the resulting formulas must rest on the
+physical reasonableness of the above-mentioned hypothesis.
+24 Usually only two polarizations transverse to the propagation vector K are
+used. This can be accomplished by a further rearrangement of terms corresponding to the reverse of the steps leading from (17) to (19). We omit the
+details here as it is well known that either formulation gives the same results.
+See II, Section 8.
+25 Its general validity can also be demonstrated mathematically from (45). The
+amplitude for arriving at x with no photons in the field with virtual photon
+coupling e2 is a transition amplitude. It must, therefore, satisfy (45) with
+Te2 @BD = Fe2 @B, xD for any x. Hence show that the quantity
+Ce2 @B, xD = Hi“-m - BHxLL Fe2 @B, xD - ie2 gm Ÿ d+ Hsx 1
+2 L HdFe2 @B, xDê d Bm H1LL d t1
+also satisfies Eq. (45) by substituting Ce2 @B, xD for Te2 @BD in (45) and using
+the fact that Fe2 @B, xD satisfies (45). Hence if C0 @B, xD = 0 then Ce2 @B, xD = 0
+for all e2 . But Ce2 @B, xD = 0 means that Fe2 @B, xD satisfies (C1). Therefore,
+that solution Fe2 @B, xD of (45) which also satisfies
+Hi“-m - BHxLL F0 @B, xD = 0 (the propagation of a free electron without virtual
+photons) is a solution of (C1) as we wished to show. Equation (C1) may be
+more convenient than (45) for some purposes for it does not involve differentiation with respect to the coupling constant, and is more analogous to a wave
+equation.
+R. P. Feynman
+42
+25 Its general validity can also be demonstrated mathematically from (45). The
+amplitude for arriving at x with no photons in the field with virtual photon
+coupling e2 is a transition amplitude. It must, therefore, satisfy (45) with
+Te2 @BD = Fe2 @B, xD for any x. Hence show that the quantity
+Ce2 @B, xD = Hi“-m - BHxLL Fe2 @B, xD - ie2 gm Ÿ d+ Hsx 1
+2 L HdFe2 @B, xDê d Bm H1LL d t1
+also satisfies Eq. (45) by substituting Ce2 @B, xD for Te2 @BD in (45) and using
+the fact that Fe2 @B, xD satisfies (45). Hence if C0 @B, xD = 0 then Ce2 @B, xD = 0
+for all e2 . But Ce2 @B, xD = 0 means that Fe2 @B, xD satisfies (C1). Therefore,
+that solution Fe2 @B, xD of (45) which also satisfies
+Hi“-m - BHxLL F0 @B, xD = 0 (the propagation of a free electron without virtual
+photons) is a solution of (C1) as we wished to show. Equation (C1) may be
+more convenient than (45) for some purposes for it does not involve differentiation with respect to the coupling constant, and is more analogous to a wave
+equation.
+Mathematical Formulation of the Quantum Theory of Electromagnetic Interaction
+43

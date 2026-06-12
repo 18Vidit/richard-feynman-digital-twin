@@ -1,0 +1,400 @@
+---
+title: Theory of positrons
+author: Richard P. Feynman
+year: 1949  
+source_type: paper
+topic: quantum electrodynamics
+source_url: https://coolwisdombooks.com/wp-content/uploads/2020/08/FEYpr49b.pdf
+
+PHYSICAL REVIEW VOLUME 76, NUMBER 6
+The Theory of Positrons
+R. P. FEYNMAN
+Department of Physics, Cornell University, Ithaca, New York
+(Received April 8, 1949)
+The problem of the behavior of positrons and electrons in given
+external potentials, neglecting their mutual interaction, is analyzed
+by replacing the theory of holes by a reinterpretation of the solutions of the Dirac equation. It is possible to write down a complete
+solution of the problem in terms of boundary conditions on the
+wave function, and this solution contains automatically all the
+possibilities of virtual (and real) pair formation and annihilation
+together with the ordinary scattering processes, including the
+correct relative signs of the various terms.
+In this solution, the "negative energy states" appear in a form
+which may be pictured (as by Stückelberg) in space-time as waves
+traveling away from the external potential backwards in time.
+Experimentally, such a wave corresponds to a positron approaching the potential and annihilating the electron. A particle moving
+forward in time (electron) in a potential may be scattered forward
+in time (ordinary scattering) or backward (pair annihilation).
+When moving backward (positron) it may be scattered backward
+SEPTEMBER 15, 1949
+in time (positron scattering) or forward (pair production). For
+such a particle the amplitude for transition from an initial to a
+final state is analyzed to any order in the potential by considering
+it to undergo a sequence of such scatterings.
+The amplitude for a process involving many such particles is
+the product of the transition amplitudes for each particle. The
+exclusion principle requires that antisymmetric combinations of
+amplitudes be chosen for those complete processes which differ
+only by exchange of particles. It seems that a consistent interpretation is only possible if the exclusion principle is adopted. The
+exclusion principle need not be taken into account in intermediate
+states. Vacuum problems do not arise for charges which do not
+interact with one another, but these are analyzed nevertheless in
+anticipation of application to quantum electrodynamics.
+The results are also expressed in momentum-energy variables.
+Equivalence to the second quantization theory of holes is proved
+in an appendix.
+1. INTRODUCTION
+THIS is the first of a set of papers dealing with the
+solution of problems in quantum electrodynamics.
+The main principle is to deal directly with the solutions
+to the Hamiltonian differential equations rather than
+with these equations themselves. Here we treat simply
+the motion of electrons and positrons in given external
+potentials. In a second paper we consider the interactions
+of these particles, that is, quantum electrodynamics.
+The problem of charges in a fixed potential is usually
+treated by the method of second quantization of the
+electron field, using the ideas of the theory of holes.
+Instead we show that by a suitable choice and interpretation of the solutions of Dirac's equation the problem may be equally well treated in a manner which is
+fundamentally no more complicated than Schrödinger's
+method of dealing with one or more particles. The various creation and annihilation operators in the conventional electron field view are required because the
+number of particles is not conserved, i.e., pairs may be
+created or destroyed. On the other hand charge is
+conserved which suggests that if we follow the charge,
+not the particle, the results can be simplified.
+In the approximation of classical relativistic theory
+the creation of an electron pair (electron A, positron B)
+might be represented by the start of two world lines
+from the point of creation, 1. The world lines of the
+positron will then continue until it annihilates another
+electron, C, at a world point 2. Between the times t1
+and t2 there are then three world lines, before and after
+only one. However, the world lines of C, B, and А
+together form one continuous line albeit the "positron
+part" B of this continuous line is directed backwards
+in time. Following the charge rather than the particles
+corresponds to considering this continuous world line
+as a whole rather than breaking it up into its pieces.
+It is as though a bombardier flying low over a road
+suddenly sees three roads and it is only when two of
+them come together and disappear again that he realizes
+that he has simply passed over a long switchback in a
+single road.
+This over-all space-time point of view leads to considerable simplification in many problems. One can take
+into account at the same time processes which ordinarily would have to be considered separately. For
+example, when considering the scattering of an electron
+by a potential one automatically takes into account the
+effects of virtual pair productions. The same equation, Dirac's, which describes the deflection of the world line
+of an electron in a field, can also describe the deflection
+(and in just as simple a manner) when it is large enough
+to reverse the time-sense of the world line, and thereby
+correspond to pair annihilation. Quantum mechanically
+the direction of the world lines is replaced by the
+direction of propagation of waves.
+This view is quite different from that of the Hamiltonian method which considers the future as developing
+continuously from out of the past. Here we imagine the
+entire space-time history laid out, and that we just
+become aware of increasing portions of it successively.
+In a scattering problem this over-all view of the complete scattering process is similar to the S-matrix viewpoint of Heisenberg. The temporal order of events during the scattering, which is analyzed in such detail by
+the Hamiltonian differential equation, is irrelevant. The
+relation of these viewpoints will be discussed much more
+fully in the introduction to the second paper, in which
+the more complicated interactions are analyzed.
+The development stemmed from the idea that in nonrelativistic quantum mechanics the amplitude for a
+given process can be considered as the sum of an ampli749
+750 R. P. FEYNMAN
+tude for each space-time path available.¹ In view of the
+fact that in classical physics positrons could be viewed
+as electrons proceeding along world lines toward the
+past (reference 7) the attempt was made to remove, in
+the relativistic case, the restriction that the paths must
+proceed always in one direction in time. It was discovered that the results could be even more easily
+understood from a more familiar physical viewpoint,
+that of scattered waves. This viewpoint is the one used
+in this paper. After the equations were worked out
+physically the proof of the equivalence to the second
+quantization theory was found.2
+First we discuss the relation of the Hamiltonian
+differentialequation to its solution, using for an example
+the Schrödinger equation. Next we deal in an analogous
+way with the Dirac equation and show how the solutions may be interpreted to apply to positrons. The
+interpretation seems not to be consistent unless the
+electrons obey the exclusion principle. (Charges obeying
+the Klein-Gordon equations can be described in an
+analogous manner, but here consistency apparently
+requires Bose statistics.)3 A representation in momentum and energy variables which is useful for the calculation of matrix elements is described. A proof of the
+equivalence of the method to the theory of holes in
+second quantization is given in the Appendix.
+2. GREEN'S FUNCTION TREATMENT OF
+SCHRÖDINGER'S EQUATION
+We begin by a brief discussion of the relation of the
+non-relativistic wave equation to its solution. The ideas
+will then be extended to relativistic particles, satisfying
+Dirac's equation, and finally in the succeeding paper to
+interacting relativistic particles, that is, quantum
+electrodynamics.
+The Schrödinger equation
+i04/ət=H, (1)
+describes the change in the wave function & in an
+infinitesimal time At as due to the operation of an
+operator exp(-iHAt). One can ask also, if (X1, t₁) is
+the wave function at x₁ at time t, what is the wave
+function at time t2>₁? It can always be written as
+W(xs, ta) = fK(xs, l;ts; X,h)P(x1, h)dx, (2)
+where K is a Green's function for the linear Eq. (1).
+(We have limited ourselves to a single particle of coordinate x, but the equations are obviously of greater
+generality.) If H is a constant operator having eigenvalues En, eigenfunctions n so that 4(x, 1) can be expanded as n Cnn(x), then 4(x, t2)=exp(-iEn(12-11))
+ХСиФп(х). Since Cn=S $»*(x1)&(X1, t1)dX1, one finds
+1 R. P. Feynman, Rev. Mod. Phys. 20, 367 (1948).
+The equivalence of the entire procedure (including photon
+interactions) with the work of Schwinger and Tomonaga has been
+demonstrated by F. J. Dyson, Phys. Rev. 75, 486 (1949).
+3 These are special examples of the general relation of spin and
+statistics deduced by W. Pauli, Phys. Rev. 58, 716 (1940).
+(where we write 1 for X1, 1 and 2 for x2, t2) in this case
+Κ(2, 1)= Σ φn(X2)φn*(x1) exp(-iEn(t2-tι)), (3)
+for t2>1. We shall find it convenient for t2<t₁ to define
+K(2, 1)=0 (Eq. (2) is then not valid for ta<t₁). It is
+then readily shown that in general K can be defined by
+that solution of
+(id/t-H2) K(2, 1) = (2, 1), (4)
+which is zero for t2<11, where 8(2, 1)=8(t2-11)8(x2-x1)
+X8(y2-y1)8(z2-21) and the subscript 2 on H₂ means
+that the operator acts on the variables of 2 of K(2, 1).
+When H is not constant, (2) and (4) are valid but K is
+less easy to evaluate than (3).4
+We can call K(2, 1) the total amplitude for arrival
+at X2, t2 starting from X1, t1. (It results from adding an
+amplitude, expiS,for each space time path between these
+points, where S is the action along the path.¹) The
+transition amplitude for finding a particle in state
+X(x2, t2) at time t2, if at t₁ it was in (x1, 1), is
+fx(Q)K(Q, 1)4()Pxdx: (5)
+A quantum mechanical system is described equally well
+by specifying the function K, or by specifying the
+Hamiltonian H from which it results. For some purposes
+the specification in terms of K is easier to use and
+visualize. We desire eventually to discuss quantum
+electrodynamics from this point of view.
+To gain a greater familiarity with the K function and
+the point of view it suggests, we consider a simple
+perturbation problem. Imagine we have a particle in
+a weak potential U(x, t), a function of position and
+time. We wish to calculate K(2,1) if U differs from
+zero only for t between t1 and t2. We shall expand K in
+increasing powers of U:
+K(2, 1) = Ko (2, 1)+K) (2,1)+K) (2,1) + ････ (6)
+To zero order in U, K is that for a free particle, Ko(2, 1).4
+To study the first order correction K( (2, 1), first consider the case that U differs from zero only for the
+infinitesimal time interval Atz between some time 13
+and t3+Al3(t1<t3<t2). Then if (1) is the wave function
+at X1, 1, the wave function at xa, ta is
+4(3)= f Ko(3, 1)4(1)dx (7)
+since from ti to t3 the particle is free. For the short
+interval At3 we solve (1) as
+4(x, l3+Al3)=exp(-iHAt3)(x, t3)
+=(1-iH,At3-iUAtz)4(x, ts),
+4For a non-relativistic free particle, where ф=еxp(ip x), En=p²/2m, (3) gives, as is well known
+Ko(2, 1) = exp[-(ip.x-ip.x2)-ip(12-t₁)/2m]d³p(2m)-3
+= (2rim 1(12-41))-3 exp(}im(x2-x1)2(t-t₁)-1)
+for t2>1, and Ko=0 for 2<1.
+THEORY OF POSITRONS
+SCATTERED
+WAVE Ko(2,3) where we put H=H+U, H being the Hamiltonian
+of a free particle. Thus (x, t3+A13) differs from
+what it would be if the potential were zero (namely
+(1-iHAt3)4(x, t3)) by the extra piece
+A4=-iU (x3, l3) (X3, t3)Al3, (8)
+which we shall call the amplitude scattered by the
+potential. The wave function at 2 is given by
+(x, 1)= Ko(x, i , 1at A) ¥(8s, 1+ A)d"xs,
+since after 13+At3 the particle is again free. Therefore
+the change in the wave function at 2 brought about by
+the potential is (substitute (7) into (8) and (8) into
+the equation for 4(x2, 12)):
+A4(2)=-i K(2, 3) U(3)K,(3, 1)4(1)d®x₁d®x®s.
+In the case that the potential exists for an extended
+time, it may be looked upon as a sum of effects from
+each interval Atz so that the total effect is obtained by
+integrating over t3 as well as x3. From the definition (2)
+of K then, we find
+K(2, 1)=-if Кo(2, 3) V(3)Ko(3, 1)drs, (9)
+where the integral can now be extended over all space
+and time, dr3=d³xadta. Automatically there will be no
+contribution if t3 is outside the range ti to t2 because of
+our definition, Ko(2, 1)=0 for l2<11.
+We can understand the result (6), (9) this way. We
+can imagine that a particle travels as a free particle
+from point to point, but is scattered by the potential U.
+Thus the total amplitude for arrival at 2 from 1 can
+be considered as the sum of the amplitudes for various
+alternative routes. It may go directly from 1 to 2
+(amplitude Ko(2, 1), giving the zero order term in (6)).
+Or (see Fig. 1(a)) it may go from 1 to 3 (amplitude
+Ko(3, 1)), get scattered there by the potential (scattering amplitude -iU(3) per unit volume and time) and
+then go from 3 to 2 (amplitude Ko(2, 3)). This may
+occur for any point 3 so that summing over these
+alternatives gives (9).
+Again, it may be scattered twice by the potential
+(Fig. 1(b)). It goes from 1 to 3 (K(3, 1)), gets scattered
+there (-iU (3)) then proceeds to some other point, 4,
+in space time (amplitude Ko(4, 3)) is scattered again
+(-iU(4)) and then proceeds to 2 (Ko(2, 4)). Summing
+over all possible places and times for 3, 4 find that the
+second order contribution to the total amplitude
+K(2) (2, 1) is
+(- √[ K(2,+(L4)K%(4, 3)
+XU(3)K(3, 1) dT3dT4. (10)
+This can be readily verified directly from (1) just as (9)
+トー
+INCIDENT WAVES
+K(2,4)
+K(4,3)CONTAINS ENERGIESN
+14MUST BE CAAr4
+SPACE
+(a) FIRST ORDER, EQ (9) (b) SECOND ORDER, EQ (1O)
+751
+FIG. 1. The Schrödinger (and Dirac) equation can be visualized
+as describing the fact that plane waves are scattered successively by a potential. Figure 1 (a) illustrates the situation in first order.
+Ko(2, 3) is the amplitude for a free particle starting at point 3
+to arrive at 2. The shaded region indicates the presence of the
+potential A which scatters at 3 with amplitude -iA(3) per
+cm³sec. (Eq. (9)). In (b) is illustrated the second order process (Eq. (10)), the waves scattered at 3 are scattered again at 4. However, in Dirac one-electron theory Ko(4, 3) would represent electrons both of positive and of negative energies proceeding from
+3 to 4. This is remedied by choosing a different scattering kernel
+K+(4, 3), Fig. 2.
+was. One can in this way obviously write down any of
+the terms of the expansion (6).5
+3. TREATMENT OF THE DIRAC EQUATION
+We shall now extend the method of the last section
+to apply to the Dirac equation. All that would seem
+to be necessary in the previous equations is to consider
+II as the Dirac Hamiltonian, & as a symbol with four
+indices (for each particle). Then Ko can still be defined
+by (3) or (4) and is now a 4-4 matrix which operating
+on the initial wave function, gives the final wave function. In (10), U(3) can be generalized to A4(3)-α A(3)
+where A4, A are the scalar and vector potential (times e,
+the electron charge) and a are Dirac matrices.
+To discuss this we shall define a convenient relativistic notation. We represent four-vectors like x, t by
+a symbol x, where μ=1, 2, 3, 4 and x4=t is real. Thus
+the vector and scalar potential (times e) A, A4 is A
+The four matrices Ba, B can be considered as transforming as a four vector Ya (our yu differs from Pauli's by a
+factor i for µ=1, 2, 3). We use the summation convention ab=a1b4-a1b1-a2b2—a3b3=a·b. In particular if
+a is any four vector (but not a matrix) we write
+a= aY" so that a is a matrix associated with a vector
+(a will often be used in place of a as a symbol for the
+vector). The Yu satisfy YuYot Yuya=20, where 844= +1,
+811=892=833=-1, and the other 8, are zero. As a
+consequence of our summation convention б
+and uu=4.Note that ab+ba=2a.b and that =da
+= a a is a pure number. The symbol 0 0x will mean
+0/0t for µ=4, and-0/дл, -/ду, -002 for =1,
+2, 3. Call V=70/0x=Ba/0l+Ba.We shall imagine
+We are simply solving by successive approximations ann int integral
+equation (deducible directly from (1) with H=Ho+U and (4)
+with II= I),
+4(2)=-i√'K(2, 3)U(3)4(3)drs+ fK(2, 1)¥(1)dx,
+where the first integral extends over all space and all times ta
+greater than the t1 appearing in the second term, and t2>.
+752 R. P. FEYNMAN
+(2,3), POS
+A
+K4 (2,3), NEG E
+(a) FIRST ORDER, EQ (13)
+MOTION OF
+POSITRON
+A4)
+K
+CONTAINS ONLY POS. E.
+A(3)
+CONTAINS ONLY
+NEG E
+(b) VIRTUAL SCATTERING (c) VIRTUAL PAIR
+14>13 t4<t3
+SECOND ORDER, EQ. (14)
+FIG. 2. The Dirac equation permits another solution K4(2, 1)
+if one considers that waves scattered by the potential can proceed
+backwards in time as in Fig. 2 (a). This is interpreted in the second
+order processes (b), (c), by noting that there is now the possibility (c) of virtual pair production at 4, the positron going to 3
+to be annihilated. This can be pictured as similar to ordinary
+scattering (b) except that the electron is scattered backwards in
+time from 3 to 4. The waves scattered from 3 to 2' in (a) represent
+the possibility of a positron arriving at 3 from 2' and annihilating
+the electron from 1. This view is proved equivalent to hole theory:
+electrons traveling backwards in time are recognized as positrons.
+hereafter, purely for relativistic convenience, that *
+in (3) is replaced by its adjoint = $n*3.
+Thus the Dirac equation for a particle, mass m, in an
+external field A=AY is
+(iV-m)4= A4, (11)
+and Eq. (4) determining the propagation of a free
+particle becomes
+(iV2-m)K+(2, 1)=i8(2, 1), (12)
+the index 2 on V indicating differentiation with respect
+to the coordinates * which are represented as 2 in
+K+(2, 1) and 8(2, 1).
+The function K4(2, 1) is defined in the absence of a
+field. If a potential A is acting a similar function, say
+K+(4) (2, 1) can be defined. It differs from K+(2, 1) by a
+first order correction given by the analogue of (9)
+namely
+K(2, 1)=-ifK,(2, 3)A(3)K„(3, 1)dr3, (13)
+representing the amplitude to go from 1 to 3 as a free
+particle, get scattered there by the potential (now the
+matrix A(3) instead of U(3)) and continue to 2 as free.
+The second order correction, analogous to (10) is
+K(2,1)=-JJK,(2, 4)A(4)
+XK+(4, 3)A(3)K+(3, 1)dT4dT3, (14)
+and so on. In general K+(4) satisfies
+(iV2-A(2)-m)K+(4) (2, 1)=i8(2, 1), (15)
+and the successive terms (13), (14) are the powet series
+expansion of the integral equation
+K(A) (2, 1)= K4 (2, 1)
+-ifK,(2, 3)A(3)K14(3, 1)dra, (16)
+which it also satisfies.
+We would now expect to choose, for the special solution of (12), K=Ko where Ko(2, 1) vanishes for t2<t
+and for t2>t₁ is given by (3) where and En are the
+eigenfunctions and energy values of a particle satisfying Dirac's equation, and * is replaced by $Фл.
+The formulas arising from this choice, however, suffer
+from the drawback that they apply to the one electron
+theory of Dirac rather than to the hole theory of the
+positron. For example, consider as in Fig. 1(a) an
+electron after being scattered by a potential in a small
+region 3 of space time. The one electron theory says
+(as does (3) with K+=K₁) that the scattered amplitude
+at another point 2 will proceed toward positive times
+with both positive and negative energies, that is with
+both positive and negative rates of change of phase. No
+wave is scattered to times previous to the time of
+scattering. These are just the properties of Ko(2, 3).
+On the other hand, according to the positron theory
+negative energy states are not available to the electron
+after the scattering. Therefore the choice K+=Ko is
+unsatisfactory. But there are other solutions of (12).
+We shall choose the solution defining K+(2, 1) so that
+K+(2, 1) for 12>11 is the sum of (3) over positive energy
+states only. Now this new solution must satisfy (12) for
+all times in order that the representation be complete.
+It must therefore differ from the old solution Ko by a
+solution of the homogeneous Dirac equation. It is clear
+from the definition that the difference Ko-K+ is the
+sum of (3) over all negative energy states, as long as
+>1. But this difference must be a solution of the
+homogeneous Dirac equation for all times and must
+therefore be represented by the same sum over negative
+energy states also for t2<₁. Since Ko=0 in this case,
+it follows that our new kernel, K4(2, 1), for ta<t₁ is the
+negative of the sum (3) over negative energy states. That is,
+Κ+(2, 1) = ΣΡος Επ Φ(2)Φ.(1)
+Xexp(-iEn(t2-11)) for t2t
+=-ZNEG En $n(2) n(1)
+Xexp(-iEn(t2-t1)) for t2<1.
+(17)
+With this choice of K+ our equations such as (13) and (14) will now give results equivalent to those of the
+positron hole theory.
+That (14), for example, is the correct second order
+expression for finding at 2 an electron originally at 1
+according to the positron theory may be seen as follows
+(Fig. 2). Assume as a special example that t2>1 and
+that the potential vanishes except in interval t-11 so
+that 4 and t3 both lie between t₁ and t2.
+First suppose t4>t3 (Fig. 2(b)). Then (since t3>11)

@@ -1,0 +1,281 @@
+---
+title: Feynman Scientific Method
+author: Richard P. Feynman
+year: 1964
+source_type: lecture
+topic: "the scientific method"
+source_url: "https://www.youtube.com/watch?v=EYPapE-3FRw" 
+---
+situation now I'm going to discuss how
+we would look for a new
+law in general we look for a new law by
+the following process first we guess
+it then we com well don't laugh that's
+the really true then we compute the
+consequences of the
+guess to see what if this is right if
+this law that we guessed is right we see
+what it would imply and then we compare
+those computation results to Nature or
+we say compared to experiment or
+experience
+compare it directly with observation to
+see if it if it
+works if it disagrees with
+experiment it's
+wrong and that simple statement is the
+key to science it doesn't make any
+difference how beautiful your guess is
+it doesn't make any difference how smart
+you are who made the GU or what his name
+is if it disagrees with experiment it's
+wrong that's all of his to
+it's therefore not unscientific to take
+a guess although many people who are not
+in science think it is for instance I
+had a conversation about frying saces
+some years ago with
+Layman cuz I'm scientifically I know all
+about flying
+sources so I said I don't think there
+are flying
+sources so the other my antagonist said
+is it impossible that there were flying
+sources can you prove that it's
+impossible I no I can't prove it's
+impossible it's just very
+unlikely that they say you are very
+unscientific if you can't prove it
+impossible then why how can you say it's
+likely that it's unlikely well that's
+the way that is scientific it is
+scientific only to say what's more
+likely and less likely and not to be
+proving all the time possible and
+impossible to Define what I mean I
+finally said to him listen I mean that
+from my knowledge of the world that I
+see around me I think that it is much
+more likely that the reports of flying
+sources are the result of the known
+irrational characteristics of
+terrestrial intelligence rather than the
+unknown rational efforts of
+extraterrestrial
+intelligence it's just more likely
+that's all and it's a good guess and we
+always try to guess the most likely
+explanation keeping in the back of the
+Mind the fact that if it doesn't work
+then we must discuss the other
+possibilities there was for instance for
+a while a phenomenon called super
+conductivity that still is the
+phenomenon uh uh which is that Metals
+conduct electricity without resistance
+at low temperatures and it was not at
+first obvious that this was a
+consequence of the known laws with these
+particles but it turns out that it has
+been thought through carefully enough
+and it's SE in fact to be a consequence
+of known laws there are other phenomena
+such as extrasensory perception which
+cannot be explained by this known
+knowledge of physics here and uh it is
+interesting however that that phenomenon
+has not been well established and uh
+that uh we cannot guarantee that it's
+there so if it could be
+demonstrated of course that would prove
+that the physics is incomplete and
+therefore it's extremely interesting to
+physicists whether it's right or wrong
+and uh many many experiments exist which
+show it doesn't work the same goes for
+astrological
+influences if it were true that the
+Stars could affect the day that it was
+good to go to the
+dentist then that as in America we have
+have that kind of astrology then it
+would be wrong the physics theory would
+be wrong because there's no mechanism by
+understandable in principle from these
+things that would make it go that's the
+reason that there's some skepticism
+among scientists with regard to those
+ideas now you see of course that with
+this method we can disprove any definite
+theor you have a definite Theory a real
+guess from which you canly compute
+consequences which could be compared to
+experiment and in principle we can get
+rid of any Theory we can always prove
+any definite Theory wrong notice however
+we never prove it right suppose that you
+invent a good guess calculate the
+consequences discover every consequence
+that you calculate agrees with
+experiment the theory is then right no
+it is simply not proved wrong because in
+the future there could be a wider range
+of experiments you could compute a wider
+range of consequences and you may
+discover then that the thing is wrong
+that's why a laws like Newton's laws for
+the motion of planets last such a long
+time he guessed the law of gravitation
+cly all the kinds of consequences for
+the solar system and so on compared them
+to experiment and it took several
+hundred years before the slight era of
+the motion of mercury was developed
+during all that time the theory had been
+failed to be proved wrong and could be
+taken to be temporarily right but it can
+never be proved right because tomorrow's
+experiment May succeed in proving what
+you thought was right wrong so we never
+AR we can only be sure we're
+wrong however it's rather remarkable
+that we can last so long I
+mean have some idea which it last so
+long I must also point out to you that
+you cannot prove a vague Theory wrong if
+the guess that you make is poorly
+expressed and rather vague and the
+method that you use for figuring out the
+consequences is rather a little vague
+you're not sure I mean you say I think
+everything's because it's all due to
+Muggles and Muggles do this and that
+more or less so I can sort of explain
+how this works then you see that that
+theory is good because it can't be
+proved
+wrong if the process of computing the
+consequences is indefinite then with a
+little skill any experimental result can
+be made to look like a an expected
+consequence you're probably familiar
+with that in other fields for example a
+hates his mother the reason is of course
+because she didn't caress him or love
+him enough uh when he was a child
+actually if you investigate you find out
+that as a matter fact she he did love
+him very much and everything was all
+right well then it's because she was
+overindulgent when he was so by having a
+vague
+Theory it's possible to get either
+result all right now the cure for this
+one is the
+following it would be possible to say if
+it were possible to State ahead of time
+how much love is not enough and how much
+love is overindulgent exactly then there
+would be a perfectly IL legitimate
+Theory against which you can make tests
+it is usually said when this is pointed
+out how much love is and so on oh you're
+dealing with psychological matters that
+things can't be defined so precisely yes
+but then you can't claim to know
+anything about
+it now I want to concentrate from now on
+because I'm a theoretical physicist I'm
+more delighted with this end of the
+problem as to what goes or how do you
+make the
+guesses now it's strictly as I said
+before not of any importance where the
+guess comes from it's only important
+that it should agree with experiment and
+that it should be definite as poss as
+definite as possible but you say then is
+very simple we set up a machine a great
+Computing machine which has a random
+wheel in it that makes the succession of
+guesses and each time it guesses a
+hypothesis about how nature should work
+computes immediately the consequences
+and makes a comparison to a list of
+experimental results that has at the
+other end in other words guessing is a
+dumb man's
+job actually it's quite the opposite and
+I will try to explain why
+the first problem is how to start you
+see you want start I'll start with all
+the known principles but the principles
+that are all known are inconsistent with
+each other so something has to be
+removed so we get a lot of letters from
+people we're always getting letters from
+people who are insisting that we ought
+to make holes in our guesses as follow
+you see you make a hole to make room for
+a new guess somebody says to you know
+you all people always say space is
+continuous but how do you know when you
+get to a small enough Dimension that
+they really are enough points in between
+it isn't just a lot of dots separated by
+little
+distances or they say you know those
+quantum mechanical amplitudes that you
+told me about they're so complicated and
+absurd what makes you think those are
+right maybe they aren't right I get a
+lot of letters with such content but I
+must say that such remarks are perfectly
+obvious and are well are perfectly clear
+to anybody who's working on this problem
+and it doesn't do any good to point this
+out the problem is not what might be
+wrong but what might be substituted
+precisely in place of it if you say
+anything precise for example in the case
+of a continuous space suppose the
+precise proposition is that space really
+consists of a series of dots only in the
+space between them doesn't mean anything
+and the dots are in a cubic array then
+we can prove that immediately is wrong
+that doesn't work you see the problem is
+not to make to change or to say
+something might be wrong but to replace
+it by something and that is not so easy
+as soon as any real definite idea is
+substituted it becomes almost
+immediately apparent that it doesn't
+work
+work secondly there's an infinite number
+of
+possibilities on these of these simple
+types it's something like this you're
+sitting working very hard you work for a
+long time trying to open a safe and some
+Joe comes along who hasn't doesn't know
+anything about what you're doing or
+anything except that you're trying to
+open and sa he say you know why don't
+you try to combination 10
+2030 because you're busy you're trying a
+lot of things maybe you already tried 10
+2030 maybe you know that the middle
+number is already 32 and not 20 maybe
+you know that as a matter of fact this
+is a five-digit combination that we
+have so these letters don't do any good
+and so please don't send me any letters
+trying to tell me how the thing is going
+to work I don't I read them to make
+sure that I haven't already thought of
+that but it takes too long to answer
+them because they usually in the class
+try 10 2030
+
+
