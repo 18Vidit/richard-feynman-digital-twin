@@ -47,7 +47,7 @@ def generate_feynman_audio(text: str) -> str:
             return base64.b64encode(audio_bytes).decode('utf-8')
         else:
             print(f"ElevenLabs API Error: {response.status_code} - {response.text}")
-            raise Exception(f"ElevenLabs API Error: {response.status_code} - {response.text}")
+            return None
     except Exception as e:
         print(f"Error calling ElevenLabs: {e}")
-        raise e
+        return None
