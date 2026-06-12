@@ -312,9 +312,6 @@ PHYSICS &middot; LIFE &middot; CHALLENGER &middot; CURIOSITY
                 if feynman_audio_b64:
                     final_state["messages"][-1].additional_kwargs["audio_b64"] = feynman_audio_b64
                     final_state["messages"][-1].additional_kwargs["audio_mime_type"] = "audio/mp3"
-                else:
-                    # Append a warning if it failed
-                    final_state["messages"][-1].content += "\n\n*(ElevenLabs failed to generate audio. Check your console logs!)*"
 
             # Update messages
             st.session_state.messages = final_state["messages"]
