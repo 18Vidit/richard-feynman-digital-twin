@@ -10,7 +10,8 @@ The system relies on a local vector database built from his lectures, books, and
 * **Dynamic Diagrams:** The agent can write and execute Python code to generate and render Feynman diagrams in real-time within the chat.
 * **Voice Generation:** Integrates with ElevenLabs to output responses in Feynman's voice if the user speaks to it.
 * **Adjustable Complexity:** A depth selector that allows the user to scale explanations from layman terms up to graduate-level physics.
-* **The Feynman Technique Mode:** A Socratic mode where the agent stops explaining and instead probes the user's understanding of a concept, forcing them to explain it from first principles.
+* **Socratic Mode:** An inquiry-driven mode where the agent refuses to give direct answers, instead asking leading questions to guide the user to the solution themselves.
+* **The Feynman Technique Mode:** An interactive mode where the agent acts as an inquiring student. It prompts the user to explain concepts in simple, jargon-free terms, helping them identify and fix gaps in their own understanding.
 * **Anecdote Mode:** Prompts the agent to recall and share personal stories or observations relevant to the current conversation.
 
 ## Architecture
