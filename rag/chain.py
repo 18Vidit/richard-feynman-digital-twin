@@ -5,7 +5,7 @@ to Gemini 2.5 Flash, structured by the Feynman Persona System Prompt.
 """
 
 from langchain_core.documents import Document
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_google_genai import ChatGoogleGenerativeAI, HarmCategory, HarmBlockThreshold
 
 from config import (
     GOOGLE_API_KEY,
@@ -25,6 +25,12 @@ def get_llm() -> ChatGoogleGenerativeAI:  #get_llm is from Langchain library, it
         google_api_key=GOOGLE_API_KEY,
         temperature=LLM_TEMPERATURE,
         max_output_tokens=LLM_MAX_OUTPUT_TOKENS,
+        safety_settings={
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+        }
     )
 
 

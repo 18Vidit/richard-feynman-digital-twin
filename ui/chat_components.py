@@ -91,7 +91,9 @@ You
                 namespace = {}
                 exec(code.strip(), namespace)
                 if os.path.exists('feynman_temp.png'):
-                    st.image('feynman_temp.png', caption="Feynman Diagram", width=400)
+                    with open('feynman_temp.png', 'rb') as f:
+                        img_bytes = f.read()
+                    st.image(img_bytes, caption="Feynman Diagram", width=400)
                     os.remove('feynman_temp.png')
             except Exception as e:
                 st.error(f"Failed to render diagram: {e}")

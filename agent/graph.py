@@ -145,9 +145,10 @@ def generate_node(state: AgentState) -> dict:
         "e_in = diagram.line(in1, v1, style='solid')\n"
         "e_in.text(\"$e^-$\")\n"
         "diagram.plot()\n"
-        "fig.savefig('feynman_temp.png')\n"
+        "fig.savefig('feynman_temp.png', dpi=300, transparent=False, facecolor='white')\n"
         "```\n"
-        "Always save the figure to 'feynman_temp.png' and avoid using plt.show(). Ensure the diagram is valid physics.]"
+        "Always save the figure to 'feynman_temp.png' using facecolor='white' and avoid using plt.show(). Ensure the diagram is valid physics. "
+        "CRITICAL: When using .text() on a line, DO NOT use 'x_offset' or 'y_offset' arguments as they are not supported and will cause a crash. Only pass the string argument.]"
     )
         
     # Get prompt and LLM
