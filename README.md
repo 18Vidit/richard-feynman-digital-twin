@@ -4,6 +4,8 @@ This project is a conversational digital twin of Richard Feynman. It uses a Retr
 
 The system relies on a local vector database built from his lectures, books, and personal letters, allowing the agent to cite his actual thoughts when answering questions.
 
+demo video: https://richard-feynman-digital-twin.streamlit.app/
+
 ## Core Capabilities
 
 * **Conversational Interface:** A chat-based interface that supports text and audio input.
@@ -15,6 +17,8 @@ The system relies on a local vector database built from his lectures, books, and
 * **Anecdote Mode:** Prompts the agent to recall and share personal stories or observations relevant to the current conversation.
 
 ## Architecture
+<img width="1024" height="1024" alt="feynman_architecture_diagram" src="https://github.com/user-attachments/assets/72c5da38-174e-41b7-bc35-eb6c9f72f953" />
+
 
 * **Framework:** Streamlit for the frontend, LangGraph for agent state routing and tool execution.
 * **LLM & Embeddings:** Google Gemini models handle the reasoning and HuggingFace sentence transformers handle the embeddings.
